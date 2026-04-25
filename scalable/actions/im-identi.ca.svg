@@ -1,0 +1,15 @@
+<svg version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style>.ColorScheme-Text { color: #fcfcfc; }</style>
+  <linearGradient id="a" x1="1" x2="0" y2="1">
+   <stop stop-color="#01ff4d" offset="0"/>
+   <stop stop-color="#2fff00" offset="1"/>
+  </linearGradient>
+  <linearGradient id="b" y1=".5" y2=".5">
+   <stop stop-color="#00efff" offset="0"/>
+   <stop stop-color="#07f" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path transform="translate(0) scale(1) translate(.001) scale(1) translate(.002 .001953) scale(1)" d="m17.41 9.164a4.582 4.582 0 0 0-4.582 4.582 4.582 4.582 0 0 0 2.494 4.074l2.088 4.174 2.088-4.174a4.582 4.582 0 0 0 2.494-4.074 4.582 4.582 0 0 0-4.582-4.582zm0 1.832a2.75 2.75 0 0 1 2.75 2.75 2.75 2.75 0 0 1-2.75 2.75 2.75 2.75 0 0 1-2.75-2.75 2.75 2.75 0 0 1 2.75-2.75z" fill="url(#b)"/>
+ <path transform="translate(0) scale(1) translate(.001) scale(1) translate(.002 .001953)" d="m9.164-0.001953a9.165 9.165 0 0 0-9.166 9.166 9.165 9.165 0 0 0 1.498 5.004l-1.498 5.994 4.602-3.064a9.165 9.165 0 0 0 4.564 1.23 9.165 9.165 0 0 0 3.223-0.5938 6.416 6.416 0 0 1-0.9316-1.615 7.332 7.332 0 0 1-2.291 0.377 7.332 7.332 0 0 1-7.332-7.332 7.332 7.332 0 0 1 7.332-7.332 7.332 7.332 0 0 1 7.117 5.604 6.416 6.416 0 0 1 1.133-0.1035 6.416 6.416 0 0 1 0.7402 0.04688 9.165 9.165 0 0 0-8.988-7.379z" fill="url(#a)"/>
+</svg>

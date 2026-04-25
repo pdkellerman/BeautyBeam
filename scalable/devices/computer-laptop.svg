@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   fill="none"
+   viewBox="0 0 64 64"
+   version="1.1"
+   id="svg2"
+   sodipodi:docname="computer-laptop.svg"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="12.453125"
+     inkscape:cx="31.959849"
+     inkscape:cy="32"
+     inkscape:window-width="1920"
+     inkscape:window-height="1006"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs2">
+    <linearGradient
+       id="a"
+       x1="8.113"
+       x2="17.06"
+       y1="12.72"
+       y2="8.794"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(3.3257,0,0,3.3257,-5.2744456,-4.286)">
+      <stop
+         offset="0"
+         stop-color="#0357d1"
+         id="stop1" />
+      <stop
+         offset="1"
+         stop-color="#27cdfc"
+         id="stop2" />
+    </linearGradient>
+  </defs>
+  <path
+     fill="url(#a)"
+     d="M 7.988446,6.0037158 A 3.99084,3.99084 0 0 0 3.9876289,10.004533 v 36.017331 a 3.99084,3.99084 0 0 0 4.0008171,4.000817 h -8.0016342 v 4.000817 c 0,2.218242 3.5684761,4.000817 8.0016342,4.000817 h 48.023108 c 4.433158,0 8.001634,-1.785901 8.001634,-4.000817 v -4.000817 h -8.001634 a 3.99084,3.99084 0 0 0 4.000817,-4.000817 V 10.004533 A 3.99084,3.99084 0 0 0 56.011554,6.0037158 Z M 11.989263,14.00535 H 51.997434 V 46.015212 H 11.989263 Z m 12.002451,36.017331 h 16.003269 v 4.000817 H 23.991714 Z"
+     id="path2"
+     style="fill:url(#a);stroke-width:3.3257" />
+</svg>

@@ -1,0 +1,6 @@
+<svg version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(0) scale(1) translate(0) scale(1) translate(5e-4) scale(1)" fill="red">
+  <path d="M16.092 7.334a8 8 0 0 1 .04.733 8.067 8.067 0 0 1-8.067 8.067 8 8 0 0 1-.734-.037v5.904h14.667V7.334z"/>
+  <path d="M16.136 8.067a8.067 8.067 0 0 1-8.067 8.067A8.067 8.067 0 0 1 .002 8.067 8.067 8.067 0 0 1 8.07 0a8.067 8.067 0 0 1 8.067 8.067" opacity=".3"/>
+ </g>
+</svg>

@@ -1,0 +1,12 @@
+<svg version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="a" x1="1" x2="0" y1="1">
+   <stop stop-color="#fc5c7d" offset="0"/>
+   <stop stop-color="#6a82fb" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g transform="translate(0) scale(1) translate(0) scale(1) translate(9.7e-5 -1e-4) scale(1) translate(-1.22 -1.222) scale(1.111)" fill="url(#a)" stroke-width="1.52">
+  <path d="M1.123 1.1v2.535h.938v14.73h-.938V20.9h2.535v-1.13l14.68-3.24v.545h2.535V14.54h-.801V7.473h.801V4.938h-2.535v.586l-14.68-3.24V1.101zm.724.724h1.086V2.91H1.847zm1.811 1.198 9.69 2.14-2.462 3.648-8.1.282V3.636h.873zm9.963 2.2 4.72 1.042v1.208h1.01V9.89l-3.553-.72zm5.444.44h1.086v1.086h-1.086zM2.785 9.339l6.11 3.754-1.287 5.065-3.95.871v-.663h-.873zm16.56.904v4.297h-1.009v1.25l-.81.179-.581-3.417zm-5.872 4.28 3.663 1.53L8.32 18zm5.587.74h1.086v1.087H19.06zM1.84 19.09h1.086v1.086H1.84z"/>
+  <path d="M3.35 2.252v.7h-.874v15.45h.874v.751l15.41-3.4v-1.177h1.009V6.784H18.76V5.647z" opacity=".2"/>
+ </g>
+</svg>

@@ -1,0 +1,20 @@
+<svg version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="a" y1=".5" y2=".5">
+   <stop stop-color="#00efff" offset="0"/>
+   <stop stop-color="#07f" offset="1"/>
+  </linearGradient>
+  <linearGradient id="g" x1="14.57" x2="21.43" y1="2.735" y2="9.64" gradientTransform="scale(.9383 1.066)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <linearGradient id="d" x1="9.831" x2="2.974" y1="19.09" y2="12.19" gradientTransform="scale(.9387 1.065)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <linearGradient id="c" x1="1" x2="0" y1="1">
+   <stop stop-color="#ff00d2" offset="0"/>
+   <stop stop-color="#b800ff" offset="1"/>
+  </linearGradient>
+  <linearGradient id="h" x1="8.886" x2="1.517" y1="8.872" y2="1.508" gradientTransform="scale(1 .9998)" gradientUnits="userSpaceOnUse" xlink:href="#c"/>
+  <linearGradient id="f" x1="13.23" x2="21.33" y1="13.24" y2="21.34" gradientTransform="scale(1 .9999)" gradientUnits="userSpaceOnUse" xlink:href="#c"/>
+ </defs>
+ <path transform="translate(-0) scale(1) translate(-0) scale(1) translate(-0) scale(1) translate(-0) scale(1) translate(-0) scale(1) translate(-.002 -.005) scale(1) matrix(0 -1 -1 0 22 22)" d="M3.995 12.99a1.4 1.4 0 0 0-.254.037q-.543.123-.8.596a1.14 1.14 0 0 0-.07.986c.29.765.702 1.502 1.235 2.228q.8 1.082 1.748 1.953H3.93a.94.94 0 0 0-.691.281.93.93 0 0 0-.286.69.9.9 0 0 0 .286.683.97.97 0 0 0 .69.266h4.364q.57 0 .936-.365.367-.367.367-.905v-4.396a.94.94 0 0 0-.283-.695.95.95 0 0 0-.69-.281.98.98 0 0 0-.695.271.9.9 0 0 0-.285.678v1.896A8 8 0 0 1 6.3 15.52a6.5 6.5 0 0 1-.854-1.588 1.78 1.78 0 0 0-.719-.754 1.3 1.3 0 0 0-.734-.19z" fill="url(#d)"/>
+ <path transform="translate(-0) scale(1) translate(-0) scale(1) translate(-0) scale(1) translate(-0) scale(1) translate(-0) scale(1) translate(-.002 -.005) scale(1) matrix(0 -1 -1 0 22 22)" d="M14.86 12.57q-.972 0-1.635.668t-.662 1.604v4.861q0 .973.662 1.633.662.661 1.635.662h4.859q.937-.001 1.606-.662.668-.66.668-1.633v-4.861q0-.936-.668-1.604a2.2 2.2 0 0 0-1.606-.668zm0 2.272h4.859v4.861H14.86z" fill="url(#f)"/>
+ <path transform="translate(-0) scale(1) translate(-0) scale(1) translate(-0) scale(1) translate(-0) scale(1) translate(-0) scale(1) translate(-.002 -.005) scale(1) matrix(0 -1 -1 0 22 22)" d="M14.61 2.547q-.57.001-.936.367a1.24 1.24 0 0 0-.365.912v4.391c0 .276.094.511.281.696.189.19.42.275.692.275a.97.97 0 0 0 .693-.266.9.9 0 0 0 .285-.683V6.343q.813.683 1.342 1.398c.353.477.637 1.009.854 1.584.162.33.402.58.719.764q.474.269.99.146.541-.122.799-.596.257-.471.068-.992a9.5 9.5 0 0 0-1.234-2.219 13.5 13.5 0 0 0-1.748-1.957h1.924a.94.94 0 0 0 .691-.281.93.93 0 0 0 .286-.69.9.9 0 0 0-.286-.681.97.97 0 0 0-.69-.272z" fill="url(#g)"/>
+ <path transform="translate(-0) scale(1) translate(-0) scale(1) translate(-0) scale(1) translate(-0) scale(1) translate(-0) scale(1) translate(-.002 -.005) scale(1) matrix(0 -1 -1 0 22 22)" d="M5.191 0Q3.035 0 1.517 1.508C.505 2.518-.001 3.746-.001 5.201q0 2.151 1.52 3.674 1.52 1.517 3.676 1.518h.002q2.184 0 3.691-1.523 1.508-1.514 1.508-3.674 0-2.18-1.512-3.688T5.19 0m.008 2.272c.811 0 1.502.28 2.07.852.568.57.851 1.256.851 2.068s-.283 1.504-.851 2.064q-.853.84-2.07.84-1.22 0-2.06-.84c-.561-.561-.842-1.252-.842-2.064s.28-1.498.842-2.068 1.247-.852 2.06-.852" fill="url(#h)"/>
+</svg>

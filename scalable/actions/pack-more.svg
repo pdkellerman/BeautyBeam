@@ -1,0 +1,18 @@
+<svg fill="none" version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="a" x1="8" x2="8" y1="15" y2="1" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#a93aff" offset="0"/>
+   <stop stop-color="#ff81ff" offset="1"/>
+  </linearGradient>
+  <linearGradient id="c" x1="10.5" x2="10.5" y1="10" y2="1" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#a93aff" offset="0"/>
+   <stop stop-color="#ff81ff" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path transform="translate(0) scale(1) translate(-.00016 -.00016) scale(1) translate(-.00084 -.00084) scale(1) translate(-1.57 -1.57) scale(1.571)" d="M12 11h2s1 0 1 1v2s0 1-1 1h-2s-1 0-1-1v-2s0-1 1-1m-5 0h2s1 0 1 1v2s0 1-1 1H7s-1 0-1-1v-2s0-1 1-1m-5 0h2s1 0 1 1v2s0 1-1 1H2s-1 0-1-1v-2s0-1 1-1m5-5h2s1 0 1 1v2s0 1-1 1H7s-1 0-1-1V7s0-1 1-1M2 6h2s1 0 1 1v2s0 1-1 1H2s-1 0-1-1V7s0-1 1-1m0-5h2s1 0 1 1v2s0 1-1 1H2S1 5 1 4V2s0-1 1-1" fill="url(#a)" opacity=".4"/>
+ <g transform="translate(0) scale(1) translate(-.00016 -.00016) scale(1) translate(-.00084 -.00084) scale(1) translate(-1.57 -1.57) scale(1.571)" fill="url(#c)">
+  <path d="M14 6h-2c-1 0-1 1-1 1v2c0 1 1 1 1 1h2c1 0 1-1 1-1V7c0-1-1-1-1-1"/>
+  <path d="M14 1h-2c-1 0-1 1-1 1v2c0 1 1 1 1 1h2c1 0 1-1 1-1V2c0-1-1-1-1-1"/>
+  <path d="M9 1H7C6 1 6 2 6 2v2c0 1 1 1 1 1h2c1 0 1-1 1-1V2c0-1-1-1-1-1"/>
+ </g>
+</svg>

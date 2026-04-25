@@ -1,0 +1,15 @@
+<svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="a" x1="69.25" x2="75.5" y1="28.75" y2="35.5" gradientTransform="matrix(.1846 0 0 .18 -5.708 3.5)" gradientUnits="userSpaceOnUse">
+   <stop offset="0"/>
+   <stop stop-opacity="0" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g transform="translate(.0015) scale(1) translate(.0025 .002) scale(1)" stroke-width=".195">
+  <path d="m20.51 44.79 9.848 9.599-9.848 9.599-9.848-9.6z" fill="#1b89f3"/>
+  <path d="m43.48 22.4 9.848 9.6-9.848 9.598-9.847-9.599z" fill="#63c605"/>
+  <path d="m20.51-2e-3 9.848 9.599-9.848 9.599-9.848-9.6z" fill="#fa8865"/>
+ </g>
+ <path transform="translate(.0015) scale(1) translate(.0025 .002) scale(1)" d="m43.48-2e-3 9.848 9.599-22.97 22.4 22.97 22.4-9.848 9.599-32.81-32z" fill="#bc5fd3"/>
+ <path transform="translate(.0015) scale(1) translate(.0025 .002) scale(1) translate(-24.89 -24.89) scale(7.11)" d="m7.769 8 1.154 1.125-1.338 1.395-1.2-1.17z" fill="url(#a)"/>
+</svg>

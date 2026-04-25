@@ -1,0 +1,21 @@
+<svg version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="a" x2="0" y1="1">
+   <stop stop-color="#ffbb24" offset="0"/>
+   <stop stop-color="#f7f206" offset="1"/>
+  </linearGradient>
+  <linearGradient id="b" y1="1">
+   <stop stop-color="#ff6540" offset="0"/>
+   <stop stop-color="#ff00f0" offset=".5"/>
+   <stop stop-color="#5f26ff" offset="1"/>
+  </linearGradient>
+  <linearGradient id="c" y1=".5" y2=".5">
+   <stop stop-color="#0078ff" offset="0"/>
+   <stop stop-color="#00fffa" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path transform="translate(0) scale(1) translate(0) scale(1) translate(.00095 -1e-4) scale(.9999) matrix(.978 0 0 .978 .2445 .2446)" d="m14.58 12.02a0.25 0.25 0 0 0-0.25 0.25v1.535a0.25 0.25 0 0 0 0.25 0.25h2.557c1.712 0 3.076 1.362 3.076 3.074s-1.364 3.076-3.076 3.076h-12.28a0.25 0.25 0 0 0-0.25 0.248v1.535a0.25 0.25 0 0 0 0.25 0.25h12.28c2.81 0 5.109-2.299 5.109-5.109s-2.299-5.109-5.109-5.109z" fill="url(#c)"/>
+ <path transform="translate(0) scale(1) translate(0) scale(1) translate(.00095 -1e-4) scale(.9999) matrix(.978 0 0 .978 .2445 .2446)" d="m15.23 1.553c-1.308 0-2.62 0.4981-3.613 1.492l-3.389 3.391a0.25 0.25 0 0 0 0 0.3535l1.084 1.082a0.25 0.25 0 0 0 0.3535 0l3.389-3.391c1.211-1.211 3.137-1.211 4.348 0s1.211 3.141 0 4.352l-9.887 9.885a0.25 0.25 0 0 0 0 0.3535l1.086 1.084a0.25 0.25 0 0 0 0.3535 0l9.887-9.887c1.988-1.988 1.988-5.237 0-7.225-0.9937-0.9937-2.303-1.49-3.611-1.49z" fill="url(#b)"/>
+ <path transform="translate(0) scale(1) translate(0) scale(1) translate(.00095 -1e-4) scale(.9999) matrix(.978 0 0 .978 .2445 .2446)" d="m4.859-0.25c-2.81 0-5.109 2.299-5.109 5.109v12.28c0 2.81 2.299 5.109 5.109 5.109s5.109-2.299 5.109-5.109v-12.28c0-2.81-2.299-5.109-5.109-5.109zm0 2.033c1.712 0 3.074 1.364 3.074 3.076v12.28c0 1.712-1.362 3.076-3.074 3.076s-3.076-1.364-3.076-3.076v-12.28c0-1.712 1.364-3.076 3.076-3.076z" fill="url(#a)"/>
+ <path transform="translate(0) scale(1) translate(0) scale(1) translate(.00095 -1e-4) scale(.9999) matrix(.978 0 0 .978 .2445 .2446)" d="m4.859 15.35c-0.9796 0-1.791 0.8094-1.791 1.789s0.8114 1.791 1.791 1.791 1.789-0.8114 1.789-1.791-0.8094-1.789-1.789-1.789zm0 1.533c0.1504 0 0.2559 0.1055 0.2559 0.2559s-0.1055 0.2559-0.2559 0.2559-0.2559-0.1055-0.2559-0.2559 0.1055-0.2559 0.2559-0.2559z" fill="url(#a)"/>
+</svg>

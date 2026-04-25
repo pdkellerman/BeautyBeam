@@ -1,0 +1,24 @@
+<svg version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="a" x2="0" y2="1">
+   <stop stop-color="#e6ff00" offset="0"/>
+   <stop stop-color="#dcba14" offset="1"/>
+  </linearGradient>
+  <linearGradient id="d" x2="0" y2="1">
+   <stop stop-color="#00f1fa" offset="0"/>
+   <stop stop-color="#006cff" offset="1"/>
+  </linearGradient>
+  <linearGradient id="b" x2="0" y2="1">
+   <stop stop-color="#f0f" offset="0"/>
+   <stop stop-color="#ff0080" offset="1"/>
+  </linearGradient>
+  <linearGradient id="c" x2="0" y2="1">
+   <stop stop-color="#00ff7f" offset="0"/>
+   <stop stop-color="#5fff00" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path transform="translate(-0) scale(1) translate(-0) scale(1) translate(-.000549) scale(1) translate(.00195 .001954) scale(.9998)" d="m0.5508 6.873a0.5498 0.5498 0 0 0-0.5508 0.5508v14.02a0.5498 0.5498 0 0 0 0.5508 0.5508h4.398a0.5498 0.5498 0 0 0 0.5508-0.5508v-14.02a0.5498 0.5498 0 0 0-0.5508-0.5508z" fill="url(#d)" stroke-width="5.197"/>
+ <path transform="translate(-0) scale(1) translate(-0) scale(1) translate(-.000549) scale(1) translate(.00195 .001954) scale(.9998)" d="m0.5508-0.001953a0.5498 0.5498 0 0 0-0.5508 0.5508v4.398a0.5498 0.5498 0 0 0 0.5508 0.5508h4.398a0.5498 0.5498 0 0 0 0.5508-0.5508v-4.398a0.5498 0.5498 0 0 0-0.5508-0.5508z" fill="url(#c)" stroke-width="5.197"/>
+ <path transform="translate(-0) scale(1) translate(-0) scale(1) translate(-.000549) scale(1) translate(.00195 .001954) scale(.9998)" d="m17.05-0.001953a0.5498 0.5498 0 0 0-0.5508 0.5508v20.9a0.5498 0.5498 0 0 0 0.5508 0.5508h4.398a0.5498 0.5498 0 0 0 0.5508-0.5508v-20.9a0.5498 0.5498 0 0 0-0.5508-0.5508z" fill="url(#b)" stroke-width="5.197"/>
+ <path transform="translate(-0) scale(1) translate(-0) scale(1) translate(-.000549) scale(1) translate(.00195 .001954) scale(.9998)" d="m7.426-0.001953a0.5498 0.5498 0 0 0-0.5508 0.5508v20.9a0.5498 0.5498 0 0 0 0.5508 0.5508h7.15a0.5498 0.5498 0 0 0 0.5508-0.5508v-20.9a0.5498 0.5498 0 0 0-0.5508-0.5508z" fill="url(#a)" stroke-width="5.197"/>
+</svg>

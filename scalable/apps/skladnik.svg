@@ -1,0 +1,25 @@
+<svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="a" x1="21" x2="24" y1="24.5" y2="44" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#ac2e4c" offset="0"/>
+   <stop stop-color="#3e0b56" offset="1"/>
+  </linearGradient>
+  <linearGradient id="b" x1="24" x2="8" y1="30" y2="4" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#d83f5a" offset="0"/>
+   <stop stop-color="#ff9388" offset="1"/>
+  </linearGradient>
+  <linearGradient id="c" x1="24" x2="24" y1="30" y2="44" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#c93659" offset="0"/>
+   <stop stop-color="#6d1b60" offset="1"/>
+  </linearGradient>
+  <linearGradient id="e" x1="24" x2="24" y1="4" y2="30" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fab6b4" offset=".4"/>
+   <stop stop-color="#fc9e95" offset=".65"/>
+   <stop stop-color="#f86977" offset=".9"/>
+  </linearGradient>
+ </defs>
+ <path transform="translate(-.00065 -.00064) scale(1) translate(.00065 .00064) scale(1) translate(-6.4 -6.4) scale(1.6)" d="M7.5 27.5 24 44l16.5-16.5z" fill="url(#a)"/>
+ <path transform="translate(-.00065 -.00064) scale(1) translate(.00065 .00064) scale(1) translate(-6.4 -6.4) scale(1.6)" d="M24 4 7.5 27.5l6 2.5h21l6-2.5z" clip-rule="evenodd" fill="url(#b)" fill-rule="evenodd"/>
+ <path transform="translate(-.00065 -.00064) scale(1) translate(.00065 .00064) scale(1) translate(-6.4 -6.4) scale(1.6)" d="M13.5 30 24 44l10.5-14z" fill="url(#c)"/>
+ <path transform="translate(-.00065 -.00064) scale(1) translate(.00065 .00064) scale(1) translate(-6.4 -6.4) scale(1.6)" d="M13.5 30 24 4l10.5 26z" fill="url(#e)"/>
+</svg>

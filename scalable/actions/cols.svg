@@ -1,0 +1,12 @@
+<svg version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="a" x2="0" y2="1">
+   <stop stop-color="#f0f" offset="0"/>
+   <stop stop-color="#ff0080" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path transform="translate(0) scale(1) translate(-3e-5) scale(1) translate(-.00029 .001468) scale(.9999) translate(.4771 .4788) scale(.9568)" d="m2.836 3.164c-0.8225 0-1.5 0.6775-1.5 1.5v16.33c-0.04466 0.7566 0.5274 1.428 1.287 1.498l0.02148 2e-3h0.02344c0.8225 0 1.5-0.6775 1.5-1.5v-16.31c0.05699-0.7653-0.5202-1.449-1.287-1.52l-0.02148-0.00195z" fill="url(#a)"/>
+ <path transform="translate(0) scale(1) translate(-3e-5) scale(1) translate(-.00029 .001468) scale(.9999) translate(.4771 .4788) scale(.9568)" d="m8.334-0.5c-0.8225 0-1.5 0.6775-1.5 1.5v14.49c-0.04457 0.7575 0.5282 1.43 1.289 1.498l0.02344 2e-3h0.02148c0.8225 0 1.5-0.6775 1.5-1.5v-14.47c0.05691-0.7663-0.521-1.45-1.289-1.52l-0.02344-0.001953z" fill="url(#a)"/>
+ <path transform="translate(0) scale(1) translate(-3e-5) scale(1) translate(-.00029 .001468) scale(.9999) translate(.4771 .4788) scale(.9568)" d="m13.83 3.164c-0.8225 0-1.5 0.6775-1.5 1.5v16.33c-0.0442 0.7573 0.5285 1.43 1.289 1.498l0.02344 2e-3h0.02149c0.8225 0 1.5-0.6775 1.5-1.5v-16.31c0.0565-0.7661-0.5212-1.45-1.289-1.52l-0.02344-0.00195z" fill="url(#a)"/>
+ <path transform="translate(0) scale(1) translate(-3e-5) scale(1) translate(-.00029 .001468) scale(.9999) translate(.4771 .4788) scale(.9568)" d="m19.33-0.5c-0.8225 0-1.5 0.6775-1.5 1.5v14.49c-0.04428 0.7563 0.5276 1.428 1.287 1.498l0.02148 2e-3h0.02344c0.8225 0 1.5-0.6775 1.5-1.5v-14.47c0.05659-0.7651-0.5204-1.449-1.287-1.52l-0.02148-0.001953z" fill="url(#a)"/>
+</svg>

@@ -1,0 +1,16 @@
+<svg version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="b" x1="1" x2="0" y2="1">
+   <stop stop-color="#f00" offset="0"/>
+   <stop stop-color="#ff006e" offset="1"/>
+  </linearGradient>
+  <linearGradient id="a" y1="1">
+   <stop stop-color="#00f1fa" offset="0"/>
+   <stop stop-color="#006cff" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path transform="translate(.002928) scale(.9999)" d="m2.699 0a0.5 0.5 0 0 0-0.5 0.5v2.434h-0.9668a0.5 0.5 0 0 0-0.5 0.5v1.932a0.5 0.5 0 0 0 0.5 0.5h0.9668v10.27h-0.9668a0.5 0.5 0 0 0-0.5 0.5v1.932a0.5 0.5 0 0 0 0.5 0.5h0.9668v2.434a0.5 0.5 0 0 0 0.5 0.5h1.934a0.5 0.5 0 0 0 0.5-0.5v-2.434h11.73v2.434a0.5 0.5 0 0 0 0.5 0.5h1.934a0.5 0.5 0 0 0 0.5-0.5v-2.434h0.9668a0.5 0.5 0 0 0 0.5-0.5v-1.932a0.5 0.5 0 0 0-0.5-0.5h-0.9668v-10.27h0.9668a0.5 0.5 0 0 0 0.5-0.5v-1.932a0.5 0.5 0 0 0-0.5-0.5h-0.9668v-2.434a0.5 0.5 0 0 0-0.5-0.5h-1.934a0.5 0.5 0 0 0-0.5 0.5v2.434h-11.73v-2.434a0.5 0.5 0 0 0-0.5-0.5zm2.434 5.865h11.73v10.27h-11.73zm-2.838 12.21c0.06368 0.0062 0.1275 0.0192 0.1875 0.03711-0.06001-0.01791-0.1238-0.03087-0.1875-0.03711z" fill="url(#b)" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round"/>
+ <path transform="translate(.002928) scale(.9999)" d="m7.1 7.332a0.5 0.5 0 0 0-0.5 0.5v0.4668a0.5 0.5 0 0 0 0.5 0.5h7.799a0.5 0.5 0 0 0 0.5-0.5v-0.4668a0.5 0.5 0 0 0-0.5-0.5h-7.799zm0 2.934a0.5 0.5 0 0 0-0.5 0.5v0.4668a0.5 0.5 0 0 0 0.5 0.5h7.799a0.5 0.5 0 0 0 0.5-0.5v-0.4668a0.5 0.5 0 0 0-0.5-0.5h-7.799zm0 2.934a0.5 0.5 0 0 0-0.5 0.5v0.4648a0.5 0.5 0 0 0 0.5 0.5h7.799a0.5 0.5 0 0 0 0.5-0.5v-0.4648a0.5 0.5 0 0 0-0.5-0.5h-7.799z" fill="url(#a)" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round"/>
+ <path transform="translate(.002928) scale(.9999)" d="m14.9 20.53-7.801 2e-3a0.5 0.5 0 0 0-0.5 0.5v0.4668a0.5 0.5 0 0 0 0.5 0.5h7.801a0.5 0.5 0 0 0 0.5-0.5v-0.4688a0.5 0.5 0 0 0-0.5-0.5z" fill="url(#a)" opacity=".6" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round"/>
+ <path transform="translate(.002928) scale(.9999)" d="m7.098 0a0.5 0.5 0 0 0-0.5 0.5v0.4668a0.5 0.5 0 0 0 0.5 0.5h7.801a0.5 0.5 0 0 0 0.5-0.5v-0.4668a0.5 0.5 0 0 0-0.5-0.5z" fill="url(#a)" opacity=".6" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

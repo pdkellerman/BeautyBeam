@@ -1,0 +1,16 @@
+<svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="a" y1="1">
+   <stop stop-color="#8d01a2" offset="0"/>
+   <stop stop-color="#ff00d2" offset="1"/>
+  </linearGradient>
+  <linearGradient id="b" x1="1" x2="0" y1="1">
+   <stop stop-color="#fe0f7c" offset="0"/>
+   <stop stop-color="#df0066" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path transform="translate(-.001 -.001) scale(.9999) matrix(2.286 0 0 2.286 -4.571 -4.571)" d="m5 18c-1.662 0-3 1.338-3 3v6c0 1.662 1.338 3 3 3h6c1.662 0 3-1.338 3-3v-6c0-1.662-1.338-3-3-3z" fill="url(#a)" opacity=".4"/>
+ <path transform="translate(-.001 -.001) scale(.9999) matrix(2.286 0 0 2.286 -4.571 -4.571)" d="m21 2c-1.662 0-3 1.338-3 3v6c0 1.662 1.338 3 3 3h6c1.662 0 3-1.338 3-3v-6c0-1.662-1.338-3-3-3z" fill="url(#a)" opacity=".4"/>
+ <path transform="translate(-.001 -.001) scale(.9999) matrix(2.286 0 0 2.286 -4.571 -4.571)" d="m5 2c-1.662 0-3 1.338-3 3v6c0 1.662 1.338 3 3 3h6c1.662 0 3-1.338 3-3v-6c0-1.662-1.338-3-3-3z" fill="url(#b)"/>
+ <path transform="translate(-.001 -.001) scale(.9999)" d="m43.43 36.58c-3.799 0-6.858 3.059-6.858 6.858v13.72c0 3.799 3.059 6.858 6.858 6.858h13.72c3.799 0 6.858-3.059 6.858-6.858v-13.72c0-3.799-3.059-6.858-6.858-6.858z" fill="url(#a)" opacity=".4" stroke-width="2.286"/>
+</svg>

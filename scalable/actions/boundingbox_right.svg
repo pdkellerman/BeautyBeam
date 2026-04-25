@@ -1,0 +1,5 @@
+<svg version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+ <path transform="translate(0) scale(1) translate(0) scale(1) translate(0) scale(1) translate(0) scale(1.375)" d="m9.5 1a0.5 0.5 0 0 0-0.5 0.5v3.5h1v-3h1v3h1v-3.5a0.5 0.5 0 0 0-0.5-0.5zm-0.5 10v3.5a0.5 0.5 0 0 0 0.5 0.5h2a0.5 0.5 0 0 0 0.5-0.5v-3.5h-1v3h-1v-3z" fill="#ff0"/>
+ <path transform="translate(0) scale(1) translate(0) scale(1) translate(0) scale(1) translate(0) scale(1.375)" d="m10.5 3.5a4.5 4.5 0 0 0-4.5 4.5 4.5 4.5 0 0 0 4.5 4.5 4.5 4.5 0 0 0 4.5-4.5 4.5 4.5 0 0 0-4.5-4.5zm0 2a2.5 2.5 0 0 1 2.5 2.5 2.5 2.5 0 0 1-2.5 2.5 2.5 2.5 0 0 1-2.5-2.5 2.5 2.5 0 0 1 2.5-2.5z" fill="#ff0"/>
+ <path transform="translate(0) scale(1) translate(0) scale(1) translate(0) scale(1) translate(0) scale(1.375)" d="m0 0v16h16v-16z" fill="#ff0" fill-opacity="0" opacity=".35"/>
+</svg>

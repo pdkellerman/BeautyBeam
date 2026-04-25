@@ -1,0 +1,43 @@
+<svg style="isolation:isolate" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="a" y1=".5" y2=".5">
+   <stop stop-color="#ffe53b" offset="0"/>
+   <stop stop-color="#ff005b" offset=".987"/>
+  </linearGradient>
+ </defs>
+ <defs>
+  <linearGradient id="b" y1=".5" y2=".5">
+   <stop stop-color="#5433ff" offset="0"/>
+   <stop stop-color="#20bdff" offset=".517"/>
+   <stop stop-color="#a5fecb" offset=".983"/>
+  </linearGradient>
+ </defs>
+ <defs>
+  <linearGradient id="d" y1=".5" y2=".5">
+   <stop stop-color="#f7f206" offset="0"/>
+   <stop stop-color="#ffbb24" offset=".978"/>
+  </linearGradient>
+ </defs>
+ <defs>
+  <linearGradient id="e" x1=".576" x2=".128" y1=".387" y2=".792">
+   <stop stop-color="#d300dc" offset="0"/>
+   <stop stop-color="#8700ff" offset="1"/>
+  </linearGradient>
+ </defs>
+ <defs>
+  <linearGradient id="g" x1=".183" x2=".903" y1=".249" y2=".903">
+   <stop stop-color="#b3ffab" offset=".026"/>
+   <stop stop-color="#12fff7" offset=".987"/>
+  </linearGradient>
+ </defs>
+ <path transform="translate(0) scale(1) translate(-.001) scale(.9999) translate(-4.571 -3.048) scale(1.524)" d="M4 2h10a1 1 0 0 1 1 1v2a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1V3a1 1 0 0 1 1-1" fill="url(#a)"/>
+ <path transform="translate(0) scale(1) translate(-.001) scale(.9999) translate(-4.571 -3.048) scale(1.524)" d="M19 2h10a1 1 0 0 1 1 1v2a1 1 0 0 1-1 1H19a1 1 0 0 1-1-1V3a1 1 0 0 1 1-1" fill="url(#b)"/>
+ <path transform="translate(0) scale(1) translate(-.001) scale(.9999) translate(-4.571 -3.048) scale(1.524)" d="M19 9h10a1 1 0 0 1 1 1v2a1 1 0 0 1-1 1H19a1 1 0 0 1-1-1v-2a1 1 0 0 1 1-1" fill="url(#d)"/>
+ <path transform="translate(0) scale(1) translate(-.001) scale(.9999) translate(-4.571 -3.048) scale(1.524)" d="M34 9h10a1 1 0 0 1 1 1v2a1 1 0 0 1-1 1H34a1 1 0 0 1-1-1v-2a1 1 0 0 1 1-1" fill="url(#e)"/>
+ <path transform="translate(0) scale(1) translate(-.001) scale(.9999) translate(-4.571 -3.048) scale(1.524)" d="M34 2h10a1 1 0 0 1 1 1v2a1 1 0 0 1-1 1H34a1 1 0 0 1-1-1V3a1 1 0 0 1 1-1" fill="url(#g)"/>
+ <linearGradient id="h" transform="translate(0) scale(1) translate(-.001) scale(.9999) translate(-4.571 -3.048) scale(1.524)" x1=".219" x2="1.099" y1=".175" y2="1.118" gradientTransform="matrix(33 0 0 22 7.5 22)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#fccb90" offset="0"/>
+  <stop stop-color="#d57eeb" offset=".839"/>
+ </linearGradient>
+ <path transform="translate(0) scale(1) translate(-.001) scale(.9999) translate(-4.571 -3.048) scale(1.524)" d="M9.5 40h29a2 2 0 0 1 0 4h-29a2 2 0 0 1 0-4M24 26c0-2.208 1.792-4 4-4s4 1.792 4 4-1.792 4-4 4-4-1.792-4-4" fill="url(#h)" fill-rule="evenodd"/>
+</svg>

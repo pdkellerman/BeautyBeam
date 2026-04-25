@@ -1,0 +1,12 @@
+<svg version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="a" x1="1" x2="0" y1="1">
+   <stop stop-color="#ff0" offset="0"/>
+   <stop stop-color="#0f0" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g transform="translate(-0) scale(1) translate(-0) scale(1) translate(-0 5e-4) scale(1) translate(.001 .001) scale(.9999)" fill="url(#a)" stroke-width="1.571">
+  <path d="M14.14 1.571v1.571h1.571V1.571zm3.143 0v1.571h1.571V1.571zm3.143 0v1.571h1.571V1.571zm-9.428 3.143v1.571h1.571V4.714zm9.428 0v1.571h1.571V4.714zm-9.428 3.143v1.571h1.571V7.857zm9.428 0v1.571h1.571V7.857zM4.716 11v1.571h1.571V11zm3.143 0v1.571H9.43V11zm3.143 0v1.571h1.571V11zm3.143 0v1.571h1.571V11zm3.143 0v1.571h1.571V11zm3.143 0v1.571h1.571V11zm-18.86 3.143v1.571h1.571v-1.571zm9.428 0v1.571h1.571v-1.571zm9.428 0v1.571h1.571v-1.571zm-18.86 3.143v1.571h1.571v-1.571zm9.428 0v1.571h1.571v-1.571zm9.428 0v1.571h1.571v-1.571zm-18.86 3.143V22h1.571v-1.571zm3.143 0V22h1.571v-1.571zm3.143 0V22H9.42v-1.571zm3.143 0V22h1.571v-1.571zm3.143 0V22h1.571v-1.571zm3.143 0V22h1.571v-1.571zm3.143 0V22h1.571v-1.571z" opacity=".7"/>
+  <path d="M0 0v4.714h4.714V0zm1.571 1.571h1.571v1.571H1.571zM9.428 0v4.714h4.714V0zm1.571 1.571h1.571v1.571h-1.571zm-11 7.857v4.714h4.714V9.428zm1.571 1.571h1.571v1.571H1.57zm0-6.286h1.571v4.714H1.57zM4.713 1.57h4.714v1.571H4.713z"/>
+ </g>
+</svg>

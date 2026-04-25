@@ -1,0 +1,14 @@
+<svg fill="none" version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="a" x1="7.391" x2="8.973" y1="14.62" y2="1.974" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#8d01a2" offset="0"/>
+   <stop stop-color="#ff33db" offset="1"/>
+  </linearGradient>
+  <linearGradient id="c" x1="8" x2="8" y1="11.5" y2="4.5" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#5570ff" offset="0"/>
+   <stop stop-color="#4dd3ff" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path transform="translate(0) scale(1) translate(-.00016 -.00011) scale(1) translate(-.000839 -.000739) scale(1) translate(-1.57 -1.567) scale(1.571)" d="M1.5 1a.5.5 0 0 0-.5.5v4.126a.5.5 0 0 0 .854.354L5.98 1.854A.5.5 0 0 0 5.626 1zm8.874 0a.5.5 0 0 0-.354.854l4.126 4.126A.5.5 0 0 0 15 5.626V1.5a.5.5 0 0 0-.5-.5zm-8.52 9.02a.5.5 0 0 0-.854.354V14.5a.5.5 0 0 0 .5.5h4.126a.5.5 0 0 0 .354-.854zm13.15.354a.5.5 0 0 0-.854-.354l-4.126 4.126a.5.5 0 0 0 .354.854h4.126a.5.5 0 0 0 .5-.5z" fill="url(#a)"/>
+ <path transform="translate(0) scale(1) translate(-.00016 -.00011) scale(1) translate(-.000839 -.000739) scale(1) translate(-1.57 -1.567) scale(1.571)" d="M5 4.5a.5.5 0 0 0-.5.5v6a.5.5 0 0 0 .5.5h6a.5.5 0 0 0 .5-.5V5a.5.5 0 0 0-.5-.5zm.375 2.25a.5.5 0 0 1 .5-.5h4.25a.5.5 0 0 1 .5.5v3.375a.5.5 0 0 1-.5.5h-4.25a.5.5 0 0 1-.5-.5z" clip-rule="evenodd" fill="url(#c)" fill-rule="evenodd"/>
+</svg>

@@ -1,0 +1,32 @@
+<svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="e" x1="1" x2="0" y2="1">
+   <stop stop-color="#01ff01" offset="0"/>
+   <stop stop-color="#1bc100" offset="1"/>
+  </linearGradient>
+  <linearGradient id="f" y1="1">
+   <stop stop-color="#0061ff" offset="0"/>
+   <stop stop-color="#60efff" offset="1"/>
+  </linearGradient>
+  <linearGradient id="c" x1="1" x2="0" y2="1">
+   <stop stop-color="#f7f206" offset="0"/>
+   <stop stop-color="#ffbb24" offset=".983"/>
+  </linearGradient>
+  <linearGradient id="a" y1="1">
+   <stop stop-color="#ff0002" offset="0"/>
+   <stop stop-color="#ff0050" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g transform="translate(0) scale(1) translate(.000502) scale(1)" stroke-width="6.907">
+  <path transform="translate(-.002)scale(.9999)" d="M23.78 0a7.31 7.31 0 0 0-7.31 7.306 7.31 7.31 0 0 0 7.31 7.31 7.31 7.31 0 0 0 7.306-7.31A7.31 7.31 0 0 0 23.78 0" fill="url(#a)"/>
+  <path transform="translate(-.002)scale(.9999)" d="m56.67 49.38a7.31 7.31 0 0 0-7.31 7.31 7.31 7.31 0 0 0 7.31 7.306 7.31 7.31 0 0 0 7.306-7.306 7.31 7.31 0 0 0-7.306-7.31" fill="url(#c)"/>
+  <path transform="translate(-.002)scale(.9999)" d="M7.329 0A7.31 7.31 0 0 0 .023 7.306a7.31 7.31 0 0 0 7.306 7.31 7.31 7.31 0 0 0 7.306-7.31A7.31 7.31 0 0 0 7.329 0" fill="url(#e)"/>
+  <g transform="translate(-.002)scale(.9999)" fill="url(#f)">
+   <path d="m23.78 16.51a7.31 7.31 0 0 0-7.31 7.306 7.31 7.31 0 0 0 7.31 7.31 7.31 7.31 0 0 0 7.306-7.31 7.31 7.31 0 0 0-7.306-7.306"/>
+   <path d="m23.78 32.95a7.31 7.31 0 0 0-7.31 7.306 7.31 7.31 0 0 0 7.31 7.306 7.31 7.31 0 0 0 7.306-7.306 7.31 7.31 0 0 0-7.306-7.306"/>
+   <path d="m7.329 49.38a7.31 7.31 0 0 0-7.306 7.31 7.31 7.31 0 0 0 7.306 7.306 7.31 7.31 0 0 0 7.306-7.306 7.31 7.31 0 0 0-7.306-7.31"/>
+  </g>
+  <path transform="translate(-.002)scale(.9999)" d="m40.23 49.38a7.31 7.31 0 0 0-7.306 7.31 7.31 7.31 0 0 0 7.306 7.306 7.31 7.31 0 0 0 7.31-7.306 7.31 7.31 0 0 0-7.31-7.31" fill="url(#e)"/>
+  <path transform="translate(-.002)scale(.9999)" d="m56.67 32.95a7.31 7.31 0 0 0-7.31 7.306 7.31 7.31 0 0 0 7.31 7.306 7.31 7.31 0 0 0 7.306-7.306 7.31 7.31 0 0 0-7.306-7.306" fill="url(#a)"/>
+ </g>
+</svg>

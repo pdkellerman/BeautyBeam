@@ -1,0 +1,30 @@
+<svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="d" x2="0" y1="1">
+   <stop stop-color="#f10" offset="0"/>
+   <stop stop-color="#ff115a" offset="1"/>
+  </linearGradient>
+  <linearGradient id="c" x2="0" y1="1">
+   <stop stop-color="#7a00d9" offset="0"/>
+   <stop stop-color="#ff81ff" offset="1"/>
+  </linearGradient>
+  <linearGradient id="b" x2="0" y1="1">
+   <stop stop-color="#0f6" offset="0"/>
+   <stop stop-color="#0fc" offset="1"/>
+  </linearGradient>
+  <linearGradient id="a" x1="1" x2="0" y1=".5" y2=".5">
+   <stop stop-color="#c42482" offset="0"/>
+   <stop stop-color="#cc2477" offset=".14"/>
+   <stop stop-color="#e0255a" offset=".29"/>
+   <stop stop-color="#ff272d" offset=".43"/>
+   <stop stop-color="#ff8e00" offset=".57"/>
+   <stop stop-color="#ffbf00" offset=".71"/>
+   <stop stop-color="#ffde00" offset=".86"/>
+   <stop stop-color="#ffea00" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path transform="translate(0) scale(1) translate(0) scale(1) translate(0) scale(1) translate(-.001 -.001) scale(.9999) translate(-12.8 -12.8) scale(4.267)" d="m11 3.955-5.48 10.04-.014 2 2.371-4.23 1.338 2.23h1.17l-1.95-3.25L11 6.042l4.338 7.953h1.143z" fill="url(#a)"/>
+ <path transform="translate(0) scale(1) translate(0) scale(1) translate(0) scale(1) translate(-.001 -.001) scale(.9999) translate(-12.8 -12.8) scale(4.267)" d="M4 14c-.554 0-1 .446-1 1v2c0 .554.446 1 1 1h2c.554 0 1-.446 1-1v-2c0-.554-.446-1-1-1zm5 0c-.554 0-1 .446-1 1v2c0 .554.446 1 1 1h2c.554 0 1-.446 1-1v-2c0-.554-.446-1-1-1zm6 0c-.554 0-1 .446-1 1v2c0 .554.446 1 1 1h2c.554 0 1-.446 1-1v-2c0-.554-.446-1-1-1z" fill="url(#b)"/>
+ <path transform="translate(0) scale(1) translate(0) scale(1) translate(0) scale(1) translate(-.001 -.001) scale(.9999) translate(-12.8 -12.8) scale(4.267)" d="M7 9c-.554 0-1 .446-1 1v2c0 .554.446 1 1 1h2c.554 0 1-.446 1-1v-2c0-.554-.446-1-1-1zm6 0c-.554 0-1 .446-1 1v2c0 .554.446 1 1 1h2c.554 0 1-.446 1-1v-2c0-.554-.446-1-1-1z" fill="url(#c)"/>
+ <path transform="translate(0) scale(1) translate(0) scale(1) translate(0) scale(1) translate(-.001 -.001) scale(.9999) translate(-12.8 -12.8) scale(4.267)" d="M10 3c-.554 0-1 .446-1 1v2c0 .554.446 1 1 1h2c.554 0 1-.446 1-1V4c0-.554-.446-1-1-1z" fill="url(#d)"/>
+</svg>

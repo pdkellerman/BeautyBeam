@@ -1,0 +1,19 @@
+<svg fill="none" version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="b" x1="3.537" x2="16.16" y1="13.35" y2="2.332" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#FE0844" offset="0"/>
+   <stop stop-color="#FEB302" offset="1"/>
+  </linearGradient>
+  <linearGradient id="a" x1="1.85" x2="7.801" y1="6.423" y2="1.23" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#FE0844" offset="0"/>
+   <stop stop-color="#FEB302" offset="1"/>
+  </linearGradient>
+  <clipPath id="c">
+   <rect width="16" height="16" fill="#fff"/>
+  </clipPath>
+ </defs>
+ <g transform="translate(0) scale(1) translate(-.000741 -4.2e-5) scale(1) translate(-.94 -.9019) scale(1.497)" clip-path="url(#c)">
+  <path d="m1.5 0.6997c-0.4418 0-0.8 0.3582-0.8 0.8v4.833c0 0.4418 0.3582 0.8 0.8 0.8h3.667c0.1105 0 0.2 0.08955 0.2 0.2v4.833c0 0.4417 0.3582 0.8 0.8 0.8h2.5c0.1105 0 0.2 0.0895 0.2 0.2v1.333c0 0.4417 0.3582 0.8 0.8 0.8h4.833c0.4418 0 0.8-0.3583 0.8-0.8v-4.833c0-0.4418-0.3582-0.8-0.8-0.8h-4.833c-0.4418 0-0.8 0.3582-0.8 0.8v1.333c0 0.1104-0.08956 0.2-0.2 0.2h-1.333c-0.1104 0-0.2-0.0896-0.2-0.2v-6c0-0.1104 0.08955-0.2 0.2-0.2h1.333c0.1105 0 0.2 0.08955 0.2 0.2v1.333c0 0.4418 0.3582 0.8 0.8 0.8h4.833c0.4418 0 0.8-0.3581 0.8-0.8v-4.833c0-0.4418-0.3582-0.8-0.8-0.8h-4.833c-0.4418 0-0.8 0.3582-0.8 0.8v1.333c0 0.1105-0.08954 0.2-0.2 0.2h-1.333c-0.1105 0-0.2-0.08954-0.2-0.2v-1.333c0-0.4418-0.3582-0.8-0.8-0.8h-4.833z" clip-rule="evenodd" fill="url(#b)" fill-rule="evenodd" opacity=".4"/>
+  <path d="m6.253 0.6025h-4.6c-0.5523 0-1 0.4477-1 1v4.6c0 0.5523 0.4477 1 1 1h4.6c0.5523 0 1-0.4477 1-1v-4.6c0-0.5523-0.4477-1-1-1z" fill="url(#a)"/>
+ </g>
+</svg>

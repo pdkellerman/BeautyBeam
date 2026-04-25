@@ -1,0 +1,14 @@
+<svg version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="a" x1="3.538" x2="16.16" y1="13.35" y2="2.332" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fe0844" offset="0"/>
+   <stop stop-color="#feb302" offset="1"/>
+  </linearGradient>
+  <linearGradient id="c" x1="2.75" x2="18.37" y1="10.31" y2="8.586" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#8d01a2" offset="0"/>
+   <stop stop-color="#ff00d2" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path transform="translate(0) scale(1) translate(0) scale(1) translate(-.0015 -.001) scale(1) translate(-4.811 -4.124) scale(1.375)" d="M11 3a7 7 0 0 0-7 7v4h3v-4a4 4 0 0 1 8 0v4h3v-4a7 7 0 0 0-7-7M4 15v2.6a.4.4 0 0 0 .4.4h2.2a.4.4 0 0 0 .4-.4V15z" color="#fcfcfc" fill="url(#a)"/>
+ <path class="ColorScheme-Accent" transform="translate(0) scale(1) translate(0) scale(1) translate(-.0015 -.001) scale(1) translate(-4.811 -4.124) scale(1.375)" d="M14 15.4v3.2a.4.4 45 0 0 .4.4h4.2a.4.4 135 0 0 .4-.4v-3.2a.4.4 45 0 0-.4-.4h-4.2a.4.4 135 0 0-.4.4m1.2.6h2.6a.2.2 45 0 1 .2.2v1.6a.2.2 135 0 1-.2.2h-2.6a.2.2 45 0 1-.2-.2v-1.6a.2.2 135 0 1 .2-.2" color="#3daee9" fill="url(#c)"/>
+</svg>

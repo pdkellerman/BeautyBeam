@@ -1,0 +1,16 @@
+<svg version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="b" x1="3" x2="19" y1="11" y2="11" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#FE0844" offset="0"/>
+   <stop stop-color="#FEB302" offset="1"/>
+  </linearGradient>
+  <linearGradient id="a" x1="9" x2="13" y1="11" y2="11" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#8D01A2" offset="0"/>
+   <stop stop-color="#FF00D2" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g transform="translate(0) scale(1) translate(0) scale(1) translate(0) scale(1) translate(-1e-6 -1e-6) scale(1) translate(.000516 .000516) scale(1) translate(-.7333 -.7333) scale(5.543) matrix(.248 0 0 .248 -.6118 -.6118)" description="distribute-​vertical-​node_alt">
+  <path class="ColorScheme-Text" d="m3 3.4v3.2a0.4 0.4 45 0 0 0.4 0.4h3.2a0.4 0.4 135 0 0 0.4-0.4v-3.2a0.4 0.4 45 0 0-0.4-0.4h-3.2a0.4 0.4 135 0 0-0.4 0.4zm1.2 0.6h1.6a0.2 0.2 45 0 1 0.2 0.2v1.6a0.2 0.2 135 0 1-0.2 0.2h-1.6a0.2 0.2 45 0 1-0.2-0.2v-1.6a0.2 0.2 135 0 1 0.2-0.2zm10.8 5.4v3.2a0.4 0.4 45 0 0 0.4 0.4h3.2a0.4 0.4 135 0 0 0.4-0.4v-3.2a0.4 0.4 45 0 0-0.4-0.4h-3.2a0.4 0.4 135 0 0-0.4 0.4zm1.2 0.6h1.6a0.2 0.2 45 0 1 0.2 0.2v1.6a0.2 0.2 135 0 1-0.2 0.2h-1.6a0.2 0.2 45 0 1-0.2-0.2v-1.6a0.2 0.2 135 0 1 0.2-0.2zm-13.2 5.4v3.2a0.4 0.4 45 0 0 0.4 0.4h3.2a0.4 0.4 135 0 0 0.4-0.4v-3.2a0.4 0.4 45 0 0-0.4-0.4h-3.2a0.4 0.4 135 0 0-0.4 0.4zm1.2 0.6h1.6a0.2 0.2 45 0 1 0.2 0.2v1.6a0.2 0.2 135 0 1-0.2 0.2h-1.6a0.2 0.2 45 0 1-0.2-0.2v-1.6a0.2 0.2 135 0 1 0.2-0.2z" color="#fcfcfc" fill="url(#b)"/>
+  <path class="ColorScheme-Accent" d="m9 5.4v0.2a0.4 0.4 45 0 0 0.4 0.4h0.6v2h-0.6a0.4 0.4 135 0 0-0.4 0.4v0.2a0.4 0.4 45 0 0 0.4 0.4h3.2a0.4 0.4 135 0 0 0.4-0.4v-0.2a0.4 0.4 45 0 0-0.4-0.4h-0.6v-2h0.6a0.4 0.4 135 0 0 0.4-0.4v-0.2a0.4 0.4 45 0 0-0.4-0.4h-3.2a0.4 0.4 135 0 0-0.4 0.4zm0 8v0.2a0.4 0.4 45 0 0 0.4 0.4h0.6v2h-0.6a0.4 0.4 135 0 0-0.4 0.4v0.2a0.4 0.4 45 0 0 0.4 0.4h3.2a0.4 0.4 135 0 0 0.4-0.4v-0.2a0.4 0.4 45 0 0-0.4-0.4h-0.6v-2h0.6a0.4 0.4 135 0 0 0.4-0.4v-0.2a0.4 0.4 45 0 0-0.4-0.4h-3.2a0.4 0.4 135 0 0-0.4 0.4z" color="#3daee9" fill="url(#a)"/>
+ </g>
+</svg>

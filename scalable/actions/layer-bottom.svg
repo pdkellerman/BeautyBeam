@@ -1,0 +1,13 @@
+<svg version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="a">
+   <stop stop-color="#f0f" offset="0"/>
+  </linearGradient>
+ </defs>
+ <g transform="translate(0) scale(1) translate(0) scale(1) translate(0 5e-4) scale(1) translate(0 .001) scale(.9999)" fill="url(#a)">
+  <path d="m12.57 15.71-4.714 6.285h9.428l4.714-6.285z"/>
+  <path d="m15.71 7.857-4.714 6.285h6.285l4.714-6.285z" opacity=".5"/>
+  <path d="M3.143 3.143v12.57l-2.112-2.209L0 15.713l4.714 4.714 4.714-4.714-1.031-2.209-2.112 2.209V3.143z"/>
+  <path d="m15.71 0-4.714 6.286h6.285L21.995 0z" opacity=".5"/>
+ </g>
+</svg>

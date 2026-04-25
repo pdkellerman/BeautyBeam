@@ -1,0 +1,20 @@
+<svg version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="b" x1="28.98" x2="15.47" y1="3.751" y2="11.56" gradientTransform="scale(.6193 1.615)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#01ff01" offset="0"/>
+   <stop stop-color="#1b8b00" offset="1"/>
+  </linearGradient>
+  <linearGradient id="a" x1="14.66" x2="32.34" y1="8.118" y2="8.944" gradientTransform="scale(.4775 2.094)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#033bda" offset="0"/>
+   <stop stop-color="#0b81fc" offset="1"/>
+  </linearGradient>
+  <linearGradient id="d" x1="7" x2="7" y1="22" y2="2" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#ff0001" offset="0"/>
+   <stop stop-color="#ec3dc4" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path transform="translate(0) scale(1) translate(-.00032 -.00032) scale(1) translate(.00032 .00087) scale(1) translate(-2.2 -2.2) scale(1.1)" d="M7 16a1 1 0 0 0-1 1v.01a1 1 0 0 0 1 1 1 1 0 0 0 1-1V17a1 1 0 0 0-1-1" fill="red" style="-inkscape-stroke:none;font-variation-settings:normal"/>
+ <path transform="translate(0) scale(1) translate(-.00032 -.00032) scale(1) translate(.00032 .00087) scale(1) translate(-2.2 -2.2) scale(1.1)" d="M16.7 12a1 1 0 0 0-1 1 1 1 0 0 0 1 1h2.301c.564 0 1 .436 1 1v4c0 .564-.436 1-1 1h-12a1 1 0 0 0-1 1 1 1 0 0 0 1 1h12c1.645 0 3-1.355 3-3v-4c0-1.645-1.355-3-3-3z" fill="url(#a)" style="-inkscape-stroke:none;font-variation-settings:normal"/>
+ <path transform="translate(0) scale(1) translate(-.00032 -.00032) scale(1) translate(.00032 .00087) scale(1) translate(-2.2 -2.2) scale(1.1)" d="M14.41 3.771c-.77 0-1.54.29-2.121.871l-2 2a1 1 0 0 0 0 1.414 1 1 0 0 0 1.414 0l2-2a.985.985 0 0 1 1.414 0l2.828 2.828a.985.985 0 0 1 0 1.414l-9 9a1 1 0 0 0 0 1.414 1 1 0 0 0 1.414 0l9-9a3.015 3.015 0 0 0 0-4.242l-2.828-2.828a3 3 0 0 0-2.121-.871" fill="url(#b)" style="-inkscape-stroke:none;font-variation-settings:normal"/>
+ <path transform="translate(0) scale(1) translate(-.00032 -.00032) scale(1) translate(.00032 .00087) scale(1) translate(-2.2 -2.2) scale(1.1)" d="M5 2C3.355 2 2 3.355 2 5v12c0 1.583.63 2.898 1.586 3.748S5.778 22 7 22s2.458-.402 3.414-1.252S12 18.583 12 17V5c0-1.645-1.355-3-3-3zm0 2h4c.564 0 1 .436 1 1v12c0 1.083-.37 1.769-.914 2.252S7.778 20 7 20s-1.542-.265-2.086-.748S4 18.083 4 17V5c0-.564.436-1 1-1z" fill="url(#d)" style="-inkscape-stroke:none;font-variation-settings:normal"/>
+</svg>

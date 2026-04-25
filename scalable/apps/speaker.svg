@@ -1,0 +1,17 @@
+<svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <linearGradient id="a" transform="translate(-5.9e-5) scale(2.909) translate(-.000176 -.000181) scale(.3437) translate(-4.642 -4.642) scale(1.548)">
+  <stop stop-color="#fd8536" offset="0"/>
+  <stop stop-color="#f04" offset="1"/>
+ </linearGradient>
+ <linearGradient id="d" transform="translate(-5.9e-5) scale(2.909) translate(-.000176 -.000181) scale(.3437) translate(-4.642 -4.642) scale(1.548)" x1="11.03" x2="37.04" y1="24.25" y2="24.25" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+ <linearGradient id="b" transform="translate(-5.9e-5) scale(2.909) translate(-.000176 -.000181) scale(.3437) translate(-4.642 -4.642) scale(1.548)" x1="3.035" x2="44.31" y1="23.67" y2="23.67" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+ <path transform="translate(-5.9e-5) scale(2.909) translate(-.000176 -.000181) scale(.3437)" d="m39.37 32.9a6.811 6.811 0 1 1-13.62 0 6.811 6.811 0 1 1 13.62 0z" fill="#101800" fill-opacity=".201" stroke="#565656" stroke-width="1.458"/>
+ <g transform="translate(-5.9e-5) scale(2.909) translate(-.000176 -.000181) scale(.3437)" fill="none">
+  <path transform="translate(-4.642 -4.642)scale(1.548)" d="m7.922 7.922c-5.252 11.82-5.252 19.69 0 31.5 10.5 5.252 21.01 5.252 31.5 0 5.252-11.82 5.252-19.69 0-31.5-10.5-5.252-21.01-5.252-31.5 0z" stroke="url(#b)" stroke-width="2"/>
+  <path transform="translate(-4.642 -4.642)scale(1.548)" d="m36.13 24.25a12.1 12.1 0 1 1-24.19 0 12.1 12.1 0 1 1 24.19 0z" stroke="url(#d)" stroke-width="1.814"/>
+  <path d="m17.11 13.84a3.433 3.433 0 1 1-6.865 0 3.433 3.433 0 1 1 6.865 0zm-0.157 37.45a3.433 3.433 0 1 1-6.866 0 3.433 3.433 0 1 1 6.866 0zm37.76 0a3.433 3.433 0 1 1-6.865 0 3.433 3.433 0 1 1 6.865 0zm0.158-37.45a3.432 3.432 0 1 1-6.864 0 3.432 3.432 0 1 1 6.864 0z" stroke="#040404" stroke-width="1.138"/>
+  <path d="m46.18 32.9a13.62 13.62 0 1 1-27.24 0 13.62 13.62 0 1 1 27.24 0z" stroke="#565656" stroke-width="2.92"/>
+ </g>
+ <path transform="translate(-5.9e-5) scale(2.909) translate(-.000176 -.000181) scale(.3437)" d="m33.72 30.25a2.648 2.648 0 1 1-5.295 0 2.647 2.647 0 1 1 5.294 0z" fill="#fff"/>
+ <path transform="translate(-5.9e-5) scale(2.909) translate(-.000176 -.000181) scale(.3437)" d="m15.39 13.84a1.717 1.718 0 1 1-3.434 0 1.717 1.718 0 1 1 3.433 0m37.76 0a1.716 1.72 0 1 1-3.432 0 1.716 1.72 0 1 1 3.432 0m-0.158 37.45a1.717 1.718 0 1 1-3.434 0 1.717 1.718 0 1 1 3.434 0m-37.76 0a1.718 1.72 0 1 1-3.435 0 1.717 1.718 0 1 1 3.434 0" fill="#cbcdc7"/>
+</svg>

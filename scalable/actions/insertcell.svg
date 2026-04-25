@@ -1,0 +1,12 @@
+<svg version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style>.ColorScheme-Text {color:#fcfcfc;}</style>
+  <linearGradient id="a" x1="1" x2="0" y1="1">
+   <stop stop-color="#ff00d4" offset="0"/>
+   <stop stop-color="#0040ff" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path transform="translate(0) scale(1) translate(.001 .001) scale(1) matrix(1.833 0 0 1.833 -3.667 -3.667)" d="m4 2s-2 0-2 2v8c0 2 2 2 2 2h8s2 0 2-2v-8c0-2-2-2-2-2zm0 1h2v2h1v-2h2v2h1v-2h2s1 0 1 1v2h-2v1h2v2h-2v1h2v2c0 1-1 1-1 1h-2v-2h-1v2h-2v-2h-1v2h-2s-1 0-1-1v-2h2v-1h-2v-2h2v-1h-2v-2c0-1 1-1 1-1z" fill="url(#a)"/>
+ <path transform="translate(0) scale(1) translate(.001 .001) scale(1) matrix(1.833 0 0 1.833 -3.667 -3.667)" d="m9 6v4l2-2z" fill="#00FF80"/>
+ <path transform="translate(0) scale(1) translate(.001 .001) scale(1) matrix(1.833 0 0 1.833 -3.667 -3.667)" d="m7 6-2 2 2 2z" fill="#00FF80"/>
+</svg>

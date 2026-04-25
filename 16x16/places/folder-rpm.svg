@@ -1,0 +1,26 @@
+<svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="a" x1="-12" x2="22" y1="21" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#ff0" offset="0"/>
+   <stop stop-color="orange" offset=".48"/>
+   <stop stop-color="red" offset=".965"/>
+  </linearGradient>
+  <linearGradient id="b" x1="-8" x2="22" y1="28" y2="1" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#ff0" offset="0"/>
+   <stop stop-color="orange" offset=".505"/>
+   <stop stop-color="red" offset=".831"/>
+  </linearGradient>
+  <linearGradient id="d" x1="7.149" x2="13.14" y1="9.765" y2="9.765" gradientUnits="userSpaceOnUse">
+   <stop stop-color="red" offset="0"/>
+   <stop stop-color="orange" offset=".5"/>
+   <stop stop-color="#ff0" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g transform="translate(0) scale(1) translate(3.9e-5 3.9e-5) scale(1) translate(-3.9e-5 -3.9e-5) scale(1) translate(-.405 -.405) scale(2.7)" fill="none" stroke="url(#a)">
+  <path d="M3.662 4.824q.539-.623 1.163-1.16.03.025.058.053l1.65 1.65a.825.825 0 0 1-1.166 1.167l-1.65-1.65zm-2.631 8.001q-.06-.826 0-1.65H3.2a.825.825 0 0 1 0 1.65zm3.793 7.513a11 11 0 0 1-1.16-1.162l.054-.06 1.65-1.65a.825.825 0 0 1 1.166 1.167l-1.65 1.65zm15.51-1.163q-.539.624-1.162 1.162l-.06-.054-1.65-1.65a.824.824 0 1 1 1.167-1.166l1.65 1.65zm2.631-8q.06.826 0 1.65h-2.169a.825.825 0 0 1 0-1.65zm-3.794-7.513q.624.539 1.162 1.162a1 1 0 0 1-.054.06l-1.65 1.65a.825.825 0 1 1-1.166-1.167l1.65-1.65zm-6.35-2.631V3.2a.825.825 0 0 1-1.65 0V1.031q.826-.06 1.65 0z"/>
+  <path d="M23 12c0 6.075-4.925 11-11 11S1 18.075 1 12 5.925 1 12 1s11 4.925 11 11z" stroke="url(#b)" stroke-width="1.7"/>
+ </g>
+ <path transform="translate(0) scale(1) translate(3.9e-5 3.9e-5) scale(1) translate(-3.9e-5 -3.9e-5) scale(1) rotate(-70 30.6 46.46) scale(5.181)" d="m7.149 7.442.172.912.919.767 3.925 2.673.97.346-.566-.862-3.53-3.177-.963-.71z" fill="url(#d)"/>
+ <path transform="translate(0) scale(1) translate(3.9e-5 3.9e-5) scale(1) translate(-3.9e-5 -3.9e-5) scale(1)" d="M32.54 28.76a4.104 4.104 0 1 1 .572 8.182 4.104 4.104 0 0 1-.573-8.181" fill="orange"/>
+ <path transform="translate(0) scale(1) translate(3.9e-5 3.9e-5) scale(1) translate(-3.9e-5 -3.9e-5) scale(1)" d="m33.3 31.55a1.366 1.366 0 1 1-0.932 2.563 1.366 1.366 0 0 1 0.932-2.563" fill="red"/>
+</svg>

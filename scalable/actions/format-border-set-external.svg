@@ -1,0 +1,8 @@
+<svg version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+ <path transform="translate(.00025 .00025) scale(.9999) matrix(1.333 0 0 1.333 -3.666 -3.666)" d="m5.5 2.75c-1.523 0-2.75 1.227-2.75 2.75h1.375c0-0.7617 0.6133-1.375 1.375-1.375zm11 0v1.375c0.7617 0 1.375 0.6133 1.375 1.375h1.375c0-1.523-1.227-2.75-2.75-2.75zm-6.188 1.375v6.188h0.0039v-6.188zm0 7.562v6.188h0.0039v-6.188zm-7.562 4.812c0 1.523 1.227 2.75 2.75 2.75v-1.375c-0.7617 0-1.375-0.6133-1.375-1.375zm15.12 0c0 0.7617-0.6133 1.375-1.375 1.375v1.375c1.523 0 2.75-1.227 2.75-2.75z" fill="#00f"/>
+ <path transform="translate(.00025 .00025) scale(.9999) translate(-3.666 -3.666) scale(1.333)" d="m10.32 2.75v7.562h-7.566v1.375h7.566v7.562h1.375v-7.562h7.559v-1.375h-7.559v-7.562z" fill="#00f"/>
+ <path transform="translate(.00025 .00025) scale(.9999) translate(-3.666 -3.666) scale(1.333)" d="m5.5 2.75v1.375h11v-1.375z" fill="#FDFF00"/>
+ <path transform="translate(.00025 .00025) scale(.9999) translate(-3.666 -3.666) scale(1.333)" d="m5.5 17.88v1.375h11v-1.375z" fill="#FDFF00"/>
+ <path transform="translate(.00025 .00025) scale(.9999) translate(-3.666 -3.666) scale(1.333)" d="m17.88 5.5v11h1.375v-11z" fill="#FDFF00"/>
+ <path transform="translate(.00025 .00025) scale(.9999) translate(-3.666 -3.666) scale(1.333)" d="m2.75 5.5v11h1.375v-11z" fill="#FDFF00"/>
+</svg>
