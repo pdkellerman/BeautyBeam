@@ -1,7 +1,10 @@
 [Icon Theme]
 Name=BeautyBeam
 Comment=BeautyBeam KDE Plasma Icon Theme
+<<<<<<< HEAD
 Inherits=candy-icons,breeze-dark,Adwaita,hicolor
+=======
+>>>>>>> 606ff0a00f26b5ce424bc1f055b77991ca4e18b5
 Example=folder
 DisplayDepth=32
 Hidden=false
