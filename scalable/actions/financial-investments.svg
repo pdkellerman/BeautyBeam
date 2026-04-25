@@ -1,0 +1,26 @@
+<svg version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="a" x1="17.55" x2=".818" y1="18.72" y2="18.72" gradientTransform="matrix(1.254 0 0 .7975 0 -.004)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#d800bd" offset="0"/>
+   <stop stop-color="#f92d7a" offset=".408"/>
+   <stop stop-color="#ff4a52" offset=".59"/>
+   <stop stop-color="#ffb243" offset="1"/>
+  </linearGradient>
+  <linearGradient id="e" x1="64.43" x2="64.43" y1="13.27" y2="29.66" gradientTransform="matrix(.1766 0 0 .4605 -10.01 3.244)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#01ff01" offset="0"/>
+   <stop stop-color="#1b8b00" offset="1"/>
+  </linearGradient>
+  <linearGradient id="b" x1="17.37" x2="17.34" y1="9.74" y2=".283" gradientTransform="scale(.702 1.425)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#ff0001" offset="0"/>
+   <stop stop-color="#ec3dc4" offset="1"/>
+  </linearGradient>
+  <linearGradient id="d" x1="12.69" x2="12.69" y1="6.877" y2="2.594" gradientTransform="scale(.5329 1.877)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#ff4000" offset="0"/>
+   <stop stop-color="#ffa200" offset=".905"/>
+  </linearGradient>
+ </defs>
+ <path transform="translate(0) scale(1) translate(.000962 .005979) scale(1) translate(.08 .04) scale(.9964)" d="M2.125 21.59q-.717 0-1.002-.676-.284-.677.257-1.218l4.573-4.6q.352-.352.853-.366.5-.013.906.311l3.139 2.76 7.305-7.305H17.02q-.483 0-.81-.33-.327-.328-.327-.81t.329-.794q.328-.311.808-.311h3.707q.534 0 .903.368.369.37.369.903v3.68q0 .472-.325.79-.324.32-.803.32t-.799-.32-.32-.79v-1.136l-7.981 7.982q-.379.38-.892.38-.514 0-.894-.352L6.9 17.289l-3.95 3.978q-.163.189-.384.257-.221.067-.442.067z" fill="url(#a)"/>
+ <path transform="translate(0) scale(1) translate(.000962 .005979) scale(1) translate(.08 .04) scale(.9964)" d="M10.8 12.49V1.75q0-.564.401-.958.401-.395.974-.395t.965.395.393.958v10.74q0 .663-.407 1.022t-.934.359-.959-.359-.433-1.022" fill="url(#b)" style="-inkscape-stroke:none;font-variation-settings:normal"/>
+ <path transform="translate(0) scale(1) translate(.000962 .005979) scale(1) translate(.08 .04) scale(.9964)" d="M5.384 11.52V6.244q0-.593.394-.986.394-.394.988-.394.593 0 .986.393.392.394.392.987v5.276q0 .593-.394.987-.394.393-.988.393-.593 0-.986-.394-.392-.393-.392-.986" fill="url(#d)" style="-inkscape-stroke:none;font-variation-settings:normal"/>
+ <path transform="translate(0) scale(1) translate(.000962 .005979) scale(1) translate(.08 .04) scale(.9964)" d="M1.366 9.356a1.4 1.4 0 0 0-1.025.425 1.41 1.41 0 0 0-.422 1.033v4.654q0 .6.417 1.017.418.42 1.017.42.609 0 1.035-.42t.426-1.017v-4.654q0-.608-.422-1.033a1.4 1.4 0 0 0-1.025-.425z" fill="url(#e)"/>
+</svg>

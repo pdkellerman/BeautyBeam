@@ -1,0 +1,9 @@
+<svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="a" x2="0" y2="1">
+   <stop stop-color="#ff00d2" offset="0"/>
+   <stop stop-color="#ff0052" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path transform="translate(.00602 .000277) scale(1) translate(.00165) scale(1)" d="m31.99 0v0.001953a5.59 5.59 0 0 0-3.977 1.666l-17.81 17.81a5.622 5.622 0 0 0-1.225 6.133 5.622 5.622 0 0 0 5.201 3.459h9.072v26.19a8.724 8.724 0 0 0 8.725 8.723v0.01367a8.724 8.724 0 0 0 8.748-8.725v-26.2h9.086a5.622 5.622 0 0 0 3.117-0.9219 5.641 5.641 0 0 0 0.8457-8.684l-17.82-17.8a5.59 5.59 0 0 0-3.963-1.666z" fill="url(#a)"/>
+</svg>

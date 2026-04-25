@@ -1,0 +1,7 @@
+<svg style="isolation:isolate" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <linearGradient id="a" transform="translate(-0) scale(1) translate(-0 1e-5) scale(1) translate(-.008271 -.007589) scale(.9999) translate(-.6809 -.6809) scale(1.362)" x1=".3998" x2=".3651" y1=".2024" y2="1.119" gradientTransform="matrix(47 0 0 -42.45 .5 45.23)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#43e97b" offset="0"/>
+  <stop stop-color="#38f9d7" offset=".9783"/>
+ </linearGradient>
+ <path transform="translate(-0) scale(1) translate(-0 1e-5) scale(1) translate(-.008271 -.007589) scale(.9999) translate(-.6809 -.6809) scale(1.362)" d="m36.89 40.68h-3.032v-5.306h-4.549v5.306h-3.032v-5.306h-4.548v5.306h-3.032v-5.306h-4.549v5.306h-3.032v-5.306h-4.548v5.306h-1.517v-24.26h7.581v-9.096h22.74v9.096h7.581v24.26h-1.517v-5.306h-4.548v5.306zm-33.36 4.549h40.94c1.673 0 3.032-1.359 3.032-3.032v-27.29c0-1.673-1.359-3.032-3.032-3.032h-4.549v-6.065c0-1.673-1.358-3.032-3.032-3.032h-25.77c-1.674 0-3.032 1.359-3.032 3.032v6.065h-4.549c-1.673 0-3.032 1.359-3.032 3.032v27.29c0 1.673 1.359 3.032 3.032 3.032z" fill="url(#a)" fill-rule="evenodd"/>
+</svg>

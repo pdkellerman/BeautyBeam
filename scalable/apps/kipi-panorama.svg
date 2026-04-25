@@ -1,0 +1,18 @@
+<svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="a" x2="0" y1="1">
+   <stop stop-color="#ffa200" offset="0"/>
+   <stop stop-color="#fffd00" offset="1"/>
+  </linearGradient>
+  <linearGradient id="b" y1="1">
+   <stop stop-color="#da606d" offset="0"/>
+   <stop stop-color="#fd904c" offset=".2"/>
+   <stop stop-color="#facf50" offset=".4"/>
+   <stop stop-color="#3cc86d" offset=".6"/>
+   <stop stop-color="#5498f2" offset=".8"/>
+   <stop stop-color="#aa5bd5" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path transform="translate(0) scale(1) translate(.007342 -.00035) scale(.9999) matrix(.2581 0 0 .2581 -1.032 -1.032)" d="m232 44a19.82 19.82 0 0 0-5.17 0.6894l-3.49 0.9414c-18.63 5.02-53.29 14.37-95.37 14.37s-76.74-9.349-95.37-14.37l-3.49-0.9414a20 20 0 0 0-25.14 19.31v128a20 20 0 0 0 19.94 20 20.42 20.42 0 0 0 5.23-0.6894l3.19-0.8711c18.64-5.05 53.34-14.44 95.64-14.44s77 9.399 95.64 14.45l3.19 0.8711a20 20 0 0 0 25.17-19.32v-128a19.85 19.85 0 0 0-7.82-15.85 19.82 19.82 0 0 0-12.15-4.15zm-204 25.23c18.86 5.08 56 14.77 100 14.77s81.14-9.69 100-14.77v107.8l-51.23-51.22a20 20 0 0 0-28.28 0l-17.18 17.14-41.17-41.14a20 20 0 0 0-28.28 0l-33.86 33.85zm48 52.42 50.35 50.35c-43.23 0.24-79.61 9.7-98.35 14.76v-17.11zm86.63 24 33.46 33.46c-10.09-2-21.52-3.93-33.94-5.25l-13.87-13.86z" fill="url(#b)"/>
+ <path transform="translate(0) scale(1) translate(.007342 -.00035) scale(.9999) matrix(.2581 0 0 .2581 -1.032 -1.032)" d="m199.3 92.02a16 16 0 0 0-15.26 15.98 16 16 0 0 0 16 16 16 16 0 1 0-0.7383-31.98z" fill="url(#a)"/>
+</svg>

@@ -1,0 +1,33 @@
+<svg style="isolation:isolate" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <linearGradient id="f" transform="translate(-.001 -.001) scale(.9997) translate(-2.909 -2.909) scale(1.455)" x1="-.01446" x2="1.016" y1=".009839" y2="1.072" gradientTransform="matrix(44,0,0,44,2,2)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#f9d423" offset="0"/>
+  <stop stop-color="#ff4e50" offset=".5156"/>
+  <stop stop-color="#8a2387" offset=".9913"/>
+ </linearGradient>
+ <path transform="translate(-.001 -.001) scale(.9997) translate(-2.909 -2.909) scale(1.455)" d="m6 18.36c0 1.104-0.896 2-2 2s-2-0.896-2-2v-11.36c0-2.76 2.24-5 5-5h11.36c1.104 0 2 0.896 2 2s-0.896 2-2 2h-9.36c-1.656 0-3 1.344-3 3v9.36zm23.64-12.36c-1.104 0-2-0.896-2-2s0.896-2 2-2h11.36c2.76 0 5 2.24 5 5v11.36c0 1.104-0.896 2-2 2s-2-0.896-2-2v-9.36c0-1.656-1.344-3-3-3h-9.36zm12.36 23.64c0-1.104 0.896-2 2-2s2 0.896 2 2v11.36c0 2.76-2.24 5-5 5h-11c-1.104 0-2-0.896-2-2s0.896-2 2-2h9c1.656 0 3-1.344 3-3v-9.36zm-23.64 12.36c1.104 0 2 0.896 2 2s-0.896 2-2 2h-11.36c-2.76 0-5-2.24-5-5v-11.36c0-1.104 0.896-2 2-2s2 0.896 2 2v9.36c0 1.656 1.344 3 3 3h9.36z" fill="url(#f)" fill-rule="evenodd"/>
+ <linearGradient id="e" transform="translate(-.001 -.001) scale(.9997) translate(-2.909 -2.909) scale(1.455)" x2=".9075" y1=".5" y2=".9201" gradientTransform="matrix(12.12 0 0 12.13 9.074 9.562)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#00ffd8" offset="0"/>
+  <stop stop-color="#00ffb8" offset=".8389"/>
+ </linearGradient>
+ <path transform="translate(-.001 -.001) scale(.9997) translate(-2.909 -2.909) scale(1.455)" d="m13.8 20.7v-3.7h-3.724c-0.552 0-1-0.448-1-1v-0.673c0-0.552 0.448-1 1-1h3.724v-3.761c0-0.552 0.448-1 1-1h0.674c0.552 0 1 0.448 1 1v3.761h3.724c0.552 0 1 0.448 1 1v0.673c0 0.552-0.448 1-1 1h-3.724v3.7c0 0.552-0.448 1-1 1h-0.674c-0.552 0-1-0.448-1-1z" fill="url(#e)"/>
+ <linearGradient id="d" transform="translate(-.001 -.001) scale(.9997) translate(-2.909 -2.909) scale(1.455)" x2=".9075" y1=".5" y2=".9201" gradientTransform="matrix(11.56 0 0 3.052 9.108 33.31)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#00ffd8" offset="0"/>
+  <stop stop-color="#00ffb8" offset=".8389"/>
+ </linearGradient>
+ <path transform="translate(-.001 -.001) scale(.9997) translate(-2.909 -2.909) scale(1.455)" d="m19.66 36.36h-9.555c-0.552 0-1-0.448-1-1v-1.052c0-0.552 0.448-1 1-1h9.555c0.552 0 1 0.448 1 1v1.052c0 0.552-0.448 1-1 1z" fill="url(#d)"/>
+ <linearGradient id="c" transform="translate(-.001 -.001) scale(.9997) translate(-2.909 -2.909) scale(1.455)" x2="1" y1=".5" y2=".5" gradientTransform="matrix(11.56 0 0 3.052 27.11 33.31)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#f12711" offset="0"/>
+  <stop stop-color="#f5af19" offset=".9913"/>
+ </linearGradient>
+ <path transform="translate(-.001 -.001) scale(.9997) translate(-2.909 -2.909) scale(1.455)" d="m37.66 36.36h-9.555c-0.552 0-1-0.448-1-1v-1.052c0-0.552 0.448-1 1-1h9.555c0.552 0 1 0.448 1 1v1.052c0 0.552-0.448 1-1 1z" fill="url(#c)"/>
+ <linearGradient id="b" transform="translate(-.001 -.001) scale(.9997) translate(-2.909 -2.909) scale(1.455)" x2="1" y1=".5" y2=".5" gradientTransform="matrix(11.56 0 0 3.052 27.11 29.31)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#f12711" offset="0"/>
+  <stop stop-color="#f5af19" offset=".9913"/>
+ </linearGradient>
+ <path transform="translate(-.001 -.001) scale(.9997) translate(-2.909 -2.909) scale(1.455)" d="m37.66 32.36h-9.555c-0.552 0-1-0.448-1-1v-1.052c0-0.552 0.448-1 1-1h9.555c0.552 0 1 0.448 1 1v1.052c0 0.552-0.448 1-1 1z" fill="url(#b)"/>
+ <linearGradient id="a" transform="translate(-.001 -.001) scale(.9997) translate(-2.909 -2.909) scale(1.455)" x1="-3.821e-5" x2="1" y1=".5" y2=".5" gradientTransform="matrix(9.62,0,0,10.08,28.52,10.26)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#d300dc" offset="0"/>
+  <stop stop-color="#8700ff" offset="1"/>
+ </linearGradient>
+ <path transform="translate(-.001 -.001) scale(.9997) translate(-2.909 -2.909) scale(1.455)" d="m37.78 18.38q0.36 0.36 0.36 0.82 0 0.44-0.34 0.79t-0.8 0.35q-0.5 0-0.86-0.42l-2.82-3.12-2.82 3.12q-0.38 0.4-0.86 0.4-0.44 0-0.78-0.34t-0.34-0.78q0-0.46 0.36-0.82l2.92-3.18-2.76-3q-0.36-0.36-0.36-0.82t0.34-0.79 0.78-0.33q0.48 0 0.86 0.4l2.66 2.92 2.66-2.92q0.38-0.4 0.86-0.4 0.46 0 0.79 0.33t0.33 0.79-0.36 0.82l-2.76 3 2.94 3.18z" fill="url(#a)"/>
+</svg>

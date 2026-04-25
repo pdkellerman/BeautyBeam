@@ -1,0 +1,25 @@
+<svg style="isolation:isolate" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="b" x2="1" y1=".5" y2=".5" gradientTransform="matrix(31.99 0 0 17.33 15.99 22.66)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#f7f206" offset="0"/>
+   <stop stop-color="#ffbb24" offset=".983"/>
+  </linearGradient>
+  <linearGradient id="e" x1="-.014" x2="1.016" y1=".01" y2="1.072" gradientTransform="matrix(37.32 0 0 5.332 13.33 21.33)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#f9d423" offset="0"/>
+   <stop stop-color="#ff4e50" offset=".516"/>
+   <stop stop-color="#8a2387" offset=".991"/>
+  </linearGradient>
+  <linearGradient id="f" x2="1" y1=".5" y2=".5" gradientTransform="matrix(37.32 0 0 23.99 13.33 20)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#3be4ea" offset="0"/>
+   <stop stop-color="#1a93ed" offset=".983"/>
+  </linearGradient>
+  <linearGradient id="a" y1="1">
+   <stop stop-color="#39ff14" offset="0"/>
+   <stop stop-color="#00ff81" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path transform="translate(-0 -1e-6) scale(1) translate(.0037 .005801) scale(1) translate(0) scale(1)" d="m46.17 0.1028a2.133 2.133 0 0 0-0.6758-0.1026h-34.7a7.172 7.172 0 0 0-7.172 7.172v29.39c0 1.681 1.21 3.046 2.701 3.046s2.701-1.365 2.701-3.046v-26.17a4.306 4.306 0 0 1 4.304-4.304h32.17q0.3546 0 0.6758-0.1013 0.3213 0.1013 0.6745 0.1013h3.8a4.306 4.306 0 0 1 4.304 4.304v4.837c0 1.681 1.21 3.046 2.701 3.046s2.701-1.365 2.701-3.046v-8.063c0-3.958-3.213-7.172-7.172-7.172h-6.334q-0.3532 0-0.6745 0.1026zm-29.03 57.79c1.49 0 2.701 1.365 2.701 3.046s-1.21 3.047-2.701 3.047h-6.334a7.172 7.172 0 0 1-7.172-7.172v-8.063c0-1.681 1.21-3.046 2.701-3.046s2.701 1.365 2.701 3.046v4.837a4.306 4.306 0 0 0 4.304 4.304zm37.82-28.95c0-1.681 1.21-3.046 2.701-3.046s2.701 1.365 2.701 3.046v27.87c0 3.958-3.213 7.172-7.172 7.172h-23.89c-1.492 0-2.702-1.365-2.702-3.047 0-1.681 1.21-3.046 2.702-3.046h21.35a4.306 4.306 0 0 0 4.304-4.304z" fill="url(#a)" fill-rule="evenodd" stroke-width="1.333"/>
+ <path transform="translate(-0 -1e-6) scale(1) translate(.0037 .005801) scale(1) translate(0) scale(1)" d="m31.99 22.66c-8.834 0-16 7.162-16 16q0 0.6665 0.05732 1.333h2.677a13.33 13.33 0 0 1-0.06798-1.333c0-7.351 5.952-13.32 13.3-13.33h0.02666c7.362 0 13.33 5.968 13.33 13.33q0 0.6678-0.06798 1.333h2.677q0.05599-0.6665 0.05732-1.333c0-8.834-7.162-16-16-16" fill="url(#b)" stroke-width="1.333"/>
+ <path transform="translate(-0 -1e-6) scale(1) translate(.0037 .005801) scale(1) translate(0) scale(1)" d="m18.3 22.66h27.38a2.665 2.665 0 0 1 4.975 1.333 2.666 2.666 0 0 1-4.975 1.333h-27.38a2.665 2.665 0 0 1-4.975-1.333 2.666 2.666 0 0 1 4.975-1.333" fill="url(#e)" fill-rule="evenodd" stroke-width="1.333"/>
+ <path transform="translate(-0 -1e-6) scale(1) translate(.0037 .005801) scale(1) translate(0) scale(1)" d="m14.66 35.99h5.332a1.333 1.333 0 0 1 1.333 1.333v5.332a1.333 1.333 0 0 1-1.333 1.333h-5.332a1.333 1.333 0 0 1-1.333-1.333v-5.332a1.333 1.333 0 0 1 1.333-1.333m29.33 0h5.332a1.333 1.333 0 0 1 1.333 1.333v5.332a1.333 1.333 0 0 1-1.333 1.333h-5.332a1.333 1.333 0 0 1-1.333-1.333v-5.332a1.333 1.333 0 0 1 1.333-1.333m-14.66-16h5.332a1.333 1.333 0 0 1 1.333 1.333v5.332a1.333 1.333 0 0 1-1.333 1.333h-5.332a1.333 1.333 0 0 1-1.333-1.333v-5.332a1.333 1.333 0 0 1 1.333-1.333" fill="url(#f)" fill-rule="evenodd" stroke-width="1.333"/>
+</svg>

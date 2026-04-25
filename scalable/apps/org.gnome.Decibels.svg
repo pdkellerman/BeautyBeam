@@ -1,0 +1,17 @@
+<svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="a" x1=".5929" x2="12.11" y1="6.35" y2="6.35" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#f75952" offset="0"/>
+   <stop stop-color="#7975f1" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g transform="translate(-.04156 -.04166) scale(5.046)">
+  <path d="m3.042 0.7461c-0.9383-0.0223-1.711 0.742-1.711 1.693v4.434c4.188e-4 0.00109 9.409e-4 0.00201 0.00144 0.0031-0.00214 1.128-3.127e-4 2.256-0.00144 3.384-0.0156 0.8522 0.6899 1.633 1.531 1.686 0.3345 0.03773 0.6584-0.05698 0.9535-0.2088 0.00783-0.0039 0.01538-0.0066 0.02326-0.0107l0.02775-0.01612c0.06166-0.03346 0.1224-0.06848 0.1812-0.106 7.49e-5 -6.1e-5 1.041e-4 -1.06e-4 2.088e-4 -2.12e-4l6.477-3.794c0.7364-0.4124 1.051-1.421 0.676-2.186-0.1714-0.3964-0.5157-0.6726-0.885-0.8694-0.0086-0.00342-0.01728-0.00625-0.02592-0.0095l-6.452-3.773c-0.2426-0.1418-0.5164-0.2197-0.7964-0.2263z" fill="none" stroke="url(#a)" stroke-width="1.475"/>
+  <circle cx="3.704" cy="6.35" r=".3969" fill="#f75952" stroke-width=".2646"/>
+  <circle cx="7.938" cy="6.35" r=".3969" fill="#966ecb" stroke-width=".2646"/>
+  <circle cx="8.996" cy="6.35" r=".3969" fill="#7975f1" stroke-width=".2646"/>
+  <path d="m5.821 4.233v4.233" fill="none" stroke="#c26493" stroke-linecap="round" stroke-linejoin="round" stroke-width=".7938"/>
+  <path d="m4.762 6.085v0.5292" fill="none" stroke="#d86079" stroke-linecap="round" stroke-linejoin="round" stroke-width=".7938"/>
+  <path d="m6.879 5.556v1.588" fill="none" stroke="#ac68ae" stroke-linecap="round" stroke-linejoin="round" stroke-width=".7938"/>
+ </g>
+</svg>

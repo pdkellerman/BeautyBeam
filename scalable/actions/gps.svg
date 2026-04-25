@@ -1,0 +1,14 @@
+<svg fill="none" version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="a" x1="63.85" x2="63.85" y1="115" y2="13" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#ff0061" offset="0"/>
+   <stop stop-color="#ffa68d" offset="1"/>
+  </linearGradient>
+  <linearGradient id="c" x1="62.24" x2="66.26" y1="69.62" y2="37.47" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#8d01a2" offset="0"/>
+   <stop stop-color="#ff33db" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path transform="translate(0) scale(1) translate(0) scale(1) translate(0) scale(1) translate(3e-4 3e-4) scale(1) translate(5e-5 4.8e-5) scale(1) translate(-1.11 -1.137) scale(.1896)" d="M63.85 115c-.98 0-1.897-.48-2.455-1.285-7.218-10.41-13.46-18.39-18.48-24.8-11.55-14.76-17.91-22.89-17.91-37.07 0-21.42 17.43-38.85 38.85-38.85s38.85 17.43 38.85 38.85c0 14.16-6.406 22.36-18.04 37.23-4.995 6.388-11.21 14.34-18.36 24.64A2.99 2.99 0 0 1 63.85 115z" stroke="url(#a)" stroke-width="14"/>
+ <path transform="translate(0) scale(1) translate(0) scale(1) translate(0) scale(1) translate(3e-4 3e-4) scale(1) translate(5e-5 4.8e-5) scale(1) translate(-1.11 -1.137) scale(.1896)" d="M63.79 70.58C53.986 70.58 46 62.594 46 52.79S53.986 35 63.79 35s17.79 7.986 17.79 17.79-7.986 17.79-17.79 17.79z" stroke="url(#c)" stroke-width="12"/>
+</svg>

@@ -1,0 +1,4 @@
+<svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <path transform="translate(-0 .001) scale(1) translate(-.001301 .0032) scale(1) translate(.001312 .0054)" d="m4.57 27.42a4.56 4.56 0 0 0-4.57 4.57v22.86a4.56 4.56 0 0 0 4.57 4.57h36.57a4.56 4.56 0 0 0 4.57-4.57v-22.86a4.56 4.56 0 0 0-4.57-4.57z" fill="#0ff"/>
+ <path transform="translate(-0 .001) scale(1) translate(-.001301 .0032) scale(1) translate(.001312 .0054)" d="m59.43 4.562-36.57 0.00781a4.56 4.56 0 0 0-4.57 4.57v13.71h26.52a5.466 5.466 0 0 1 5.478 5.48v8.232h9.143a4.56 4.56 0 0 0 4.57-4.57v-22.86a4.56 4.56 0 0 0-4.57-4.57z" fill="#0ff"/>
+</svg>

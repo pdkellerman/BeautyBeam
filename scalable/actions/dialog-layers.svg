@@ -1,0 +1,18 @@
+<svg version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="c">
+   <stop stop-color="#ffff09" offset="0"/>
+  </linearGradient>
+  <linearGradient id="a">
+   <stop stop-color="#39ff14" offset="0"/>
+  </linearGradient>
+  <linearGradient id="d">
+   <stop stop-color="#1ee0ff" offset="0"/>
+  </linearGradient>
+ </defs>
+ <g transform="translate(-0) scale(1) translate(-0) scale(1) translate(-0) scale(1) translate(1e-6) scale(1) translate(-.000985) scale(1)" stroke-width=".027">
+  <path transform="translate(.002 .003)scale(.9999)" d="m10.97 19.68 8.912-4.709q.133-.106.532-.106.479 0 .825.332t.346.811q0 .293-.147.572t-.465.44L12.168 21.7q-.293.16-.585.226t-.612.067-.612-.067-.559-.226L1.021 17.02Q.73 16.86.57 16.58t-.16-.572q0-.478.346-.81t.825-.333q.106 0 .266.04t.266.093z" fill="url(#a)"/>
+  <path transform="translate(.002 .003)scale(.9999)" d="m10.97 14.9 8.912-4.709q.106-.08.532-.133.479 0 .825.333t.346.837q0 .293-.147.572t-.465.44l-8.805 4.681q-.293.16-.585.226t-.612.067-.612-.067-.559-.252L1.021 12.24Q.73 12.08.57 11.8t-.16-.571q0-.506.346-.838t.825-.333q.133 0 .28.04t.252.12z" fill="url(#c)"/>
+  <path transform="translate(.002 .003)scale(.9999)" d="M10.97 12.42q-.32 0-.612-.066-.292-.067-.558-.227L.729 7.312Q.383 7.126.237 6.82T.09 6.195t.147-.612.492-.478L9.799.29q.267-.133.56-.213t.611-.08.612.08.585.213l9.045 4.815q.346.186.519.478t.173.612-.173.625-.519.492l-9.045 4.815q-.293.16-.585.226t-.612.067m0-2.314 7.449-3.884-7.449-3.91-7.395 3.91z" fill="url(#d)"/>
+ </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg style="isolation:isolate" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <linearGradient id="b" transform="translate(-0) scale(1) translate(0) scale(1.333)" x2="1" y1=".5" y2=".5" gradientTransform="matrix(48,0,0,36.13,0,5.15)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#879af2" offset="0"/>
+  <stop stop-color="#d3208b" offset=".4792"/>
+  <stop stop-color="#fda000" offset=".9792"/>
+ </linearGradient>
+ <path transform="translate(-0) scale(1) translate(0) scale(1.333)" d="m48 22v4h-7.27l-5.047 8.418c-2.27 3.787-4.919 3.369-5.913-0.933l-3.84-16.64-5.414 14.17c-1.576 4.125-3.78 4.01-4.919-0.256l-3.117-11.68-4.15 6.92h-8.33v-4h6.07l3.733-6.221c2.272-3.785 5.04-3.395 6.177 0.871l2.36 8.86 5.439-12.98c1.706-4.073 3.956-3.9 5.022 0.384l4.429 17.81 5.24-8.72h9.53z" fill="url(#b)"/>
+ <linearGradient id="a" transform="translate(-0) scale(1) translate(0) scale(1.333)" x1="-.01446" x2="1.016" y1=".009839" y2="1.072" gradientTransform="matrix(46,0,0,46,1,1)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#f9d423" offset="0"/>
+  <stop stop-color="#ff4e50" offset=".5156"/>
+  <stop stop-color="#8a2387" offset=".9913"/>
+ </linearGradient>
+ <path transform="translate(-0) scale(1) translate(0) scale(1.333)" d="m5 16c0 1.104-0.896 2-2 2s-2-0.896-2-2v-7c0-2.12 0.84-4.16 2.34-5.66s3.54-2.34 5.66-2.34h30c2.12 0 4.16 0.84 5.66 2.34s2.34 3.54 2.34 5.66v8c0 1.104-0.896 2-2 2s-2-0.896-2-2v-8c0-1.06-0.42-2.08-1.17-2.83s-1.77-1.17-2.83-1.17h-30c-1.06 0-2.08 0.42-2.83 1.17s-1.17 1.77-1.17 2.83v7zm38 15c0-1.104 0.896-2 2-2s2 0.896 2 2v8c0 2.12-0.84 4.16-2.34 5.66s-3.54 2.34-5.66 2.34h-30c-2.12 0-4.16-0.84-5.66-2.34s-2.34-3.54-2.34-5.66v-7c0-1.104 0.896-2 2-2s2 0.896 2 2v7c0 1.06 0.42 2.08 1.17 2.83s1.77 1.17 2.83 1.17h30c1.06 0 2.08-0.42 2.83-1.17s1.17-1.77 1.17-2.83v-8z" fill="url(#a)" fill-rule="evenodd"/>
+</svg>

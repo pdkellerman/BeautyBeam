@@ -1,0 +1,18 @@
+<svg version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style>.ColorScheme-Text { color:#ebdbb2; } .ColorScheme-Highlight { color:#458588; }</style>
+  <linearGradient id="a" x1="1" x2="0" y2="1">
+   <stop stop-color="#0f9" offset="0"/>
+   <stop stop-color="#14dc57" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path transform="translate(4.7e-5) scale(1) translate(.001953 .001953) scale(1)" d="m19.33 18.33a1 1 0 0 0-1 1v1.666a1 1 0 0 0 1 1h1.666a1 1 0 0 0 1-1v-1.666a1 1 0 0 0-1-1z" fill="url(#a)" style=""/>
+ <path transform="translate(4.7e-5) scale(1) translate(.001953 .001953) scale(1)" d="m10.16 18.33a1 1 0 0 0-1 1v1.666a1 1 0 0 0 1 1h1.666a1 1 0 0 0 1-1v-1.666a1 1 0 0 0-1-1z" fill="url(#a)" style=""/>
+ <path transform="translate(4.7e-5) scale(1) translate(.001953 .001953) scale(1)" d="m0.998 18.33a1 1 0 0 0-1 1v1.666a1 1 0 0 0 1 1h1.666a1 1 0 0 0 1-1v-1.666a1 1 0 0 0-1-1z" fill="url(#a)" style=""/>
+ <path transform="translate(4.7e-5) scale(1) translate(.001953 .001953) scale(1)" d="m19.33 9.164a1 1 0 0 0-1 1v1.666a1 1 0 0 0 1 1h1.666a1 1 0 0 0 1-1v-1.666a1 1 0 0 0-1-1z" fill="url(#a)" style=""/>
+ <path transform="translate(4.7e-5) scale(1) translate(.001953 .001953) scale(1)" d="m10.16 9.164a1 1 0 0 0-1 1v1.666a1 1 0 0 0 1 1h1.666a1 1 0 0 0 1-1v-1.666a1 1 0 0 0-1-1z" fill="url(#a)" style=""/>
+ <path transform="translate(4.7e-5) scale(1) translate(.001953 .001953) scale(1)" d="m0.998 9.164a1 1 0 0 0-1 1v1.666a1 1 0 0 0 1 1h1.666a1 1 0 0 0 1-1v-1.666a1 1 0 0 0-1-1z" fill="url(#a)" style=""/>
+ <path transform="translate(4.7e-5) scale(1) translate(.001953 .001953) scale(1)" d="m19.33-0.001953a1 1 0 0 0-1 1v1.666a1 1 0 0 0 1 1h1.666a1 1 0 0 0 1-1v-1.666a1 1 0 0 0-1-1z" fill="url(#a)" style=""/>
+ <path transform="translate(4.7e-5) scale(1) translate(.001953 .001953) scale(1)" d="m10.16-0.001953a1 1 0 0 0-1 1v1.666a1 1 0 0 0 1 1h1.666a1 1 0 0 0 1-1v-1.666a1 1 0 0 0-1-1z" fill="url(#a)" style=""/>
+ <path transform="translate(4.7e-5) scale(1) translate(.001953 .001953) scale(1)" d="m0.998-0.001953a1 1 0 0 0-1 1v1.666a1 1 0 0 0 1 1h1.666a1 1 0 0 0 1-1v-1.666a1 1 0 0 0-1-1z" fill="url(#a)" style=""/>
+</svg>

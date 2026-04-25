@@ -1,0 +1,18 @@
+<svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="a" x1="1" x2="0" y2="1">
+   <stop stop-color="#0070ff" offset="0"/>
+   <stop stop-color="#00e9ff" offset="1"/>
+  </linearGradient>
+  <linearGradient id="e" x1="17.15" x2="1.32" y1="205.8" y2="221.6" gradientTransform="scale(3.462 .2888)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <linearGradient id="d" x1="14.28" x2="1.655" y1="164.1" y2="176.7" gradientTransform="scale(2.761 .3621)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <linearGradient id="c" x1="59.43" x2="4.57" y1="-.006999" y2="54.85" gradientTransform="scale(.9998 1)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <linearGradient id="b" x1="48.23" x2="13.59" y1="10.76" y2="45.41" gradientTransform="scale(.9656 1.035)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+ </defs>
+ <g transform="translate(-3.2e-5 .000421) scale(1) translate(1.143 .8914) scale(.9651) matrix(1.21 0 0 1.21 -6.714 -12.96)" stroke-width="4.571">
+  <path d="m6.856 59.42h50.23c1.266 0 2.286 1.019 2.286 2.286s-1.019 2.286-2.286 2.286h-50.23c-1.266 0-2.286-1.019-2.286-2.286s1.019-2.286 2.286-2.286" fill="url(#e)" opacity=".257"/>
+  <path d="m6.856 59.42h30.29c1.266 0 2.286 1.019 2.286 2.286s-1.019 2.286-2.286 2.286h-30.29c-1.266 0-2.286-1.019-2.286-2.286s1.019-2.286 2.286-2.286" fill="url(#d)"/>
+ </g>
+ <path transform="translate(-3.2e-5 .000421) scale(1) translate(1.143 .8914) scale(.9651)" d="m32 0c-15.14 0-27.42 12.27-27.43 27.41v21.22a6.234 6.234 0 0 0 6.231 6.222h21.2c15.14-9e-3 27.42-12.28 27.42-27.43s-12.28-27.43-27.43-27.43zm0 4.571a22.79 22.79 0 0 1 22.86 22.86c0 12.68-10.17 22.85-22.85 22.86h-21.2c-0.9699 0-1.655-0.6849-1.661-1.652v-21.22a22.78 22.78 0 0 1 22.86-22.84z" fill="url(#c)" stroke-width="4.571"/>
+ <path transform="translate(-3.2e-5 .000421) scale(1) translate(1.143 .8914) scale(.9651)" d="m37.59 11.15c4.623 0 8.987 3.54 8.987 8.414 0 0.452-5e-3 0.9019-0.07699 1.416a2.294 2.294 0 1 1-4.537-0.6459c0.02-0.144 0.03-0.374 0.03-0.7699 0-2.763-2.261-3.831-4.404-3.831s-4.072 1.794-4.08 3.827v7.036l3.974-0.027c3.102-0.06399 3.134 4.605 0.032 4.583l-4.005 0.025-0.03 6.564c-0.479 5.151-4.871 9.273-10.15 9.273-5.592 0-10.21-4.57-10.21-10.17 0.17-5.759 4.779-10.29 10.57-10.24l3.226-0.022v4.576l-3.252 0.028c-3.183 0.09399-5.903 2.25-5.955 5.652 0 3.103 2.51 5.585 5.624 5.585 3.11 0 5.593-2.26 5.593-5.578v-17.31c1e-3 -0.32 0.017-0.5769 0.054-0.9319 0.5219-4.235 4.315-7.462 8.607-7.462z" fill="url(#b)" stroke-width="4.571"/>
+</svg>

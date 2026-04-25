@@ -1,0 +1,9 @@
+<svg version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style>.ColorScheme-Text{color:#ebdbb2}</style>
+ </defs>
+ <g transform="translate(0) scale(1) translate(0) scale(1) translate(0) scale(1)" fill="#ff6a80">
+  <path class="ColorScheme-Text" d="M7.331 7.331h7.332v7.332H7.33z"/>
+  <path class="ColorScheme-Text" d="M7.331 14.663h7.332v7.33H7.33zM0 7.33h7.331v7.332H0zm14.663 0h7.33v7.332h-7.33zM7.33 0h7.332v7.331H7.33z" opacity=".3"/>
+ </g>
+</svg>

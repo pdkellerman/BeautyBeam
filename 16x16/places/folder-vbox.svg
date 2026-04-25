@@ -1,0 +1,17 @@
+<svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="a" y1=".5" y2=".5">
+   <stop stop-color="#879af2" offset="0"/>
+   <stop stop-color="#d3208b" offset=".479"/>
+   <stop stop-color="#fda000" offset=".979"/>
+  </linearGradient>
+ </defs>
+ <style transform="translate(-.02121 -.007619) scale(.9998) translate(-72.95 -74.16) scale(2.262)">.st0{opacity:0.15;fill:url(#a);enable-background:new    ;}
+	.st1{fill:url(#a);}
+	.st2{opacity:0.34;fill:url(#a);enable-background:new    ;}
+	.st3{fill:url(#a);}
+	.st4{opacity:0.12;fill:url(#a);enable-background:new    ;}
+	.st5{fill:url(#a);}
+	.st6{fill:none;stroke:url(#a);stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;}</style>
+ <path transform="translate(-.02121 -.007619) scale(.9998) translate(-72.95 -74.16) scale(2.262)" d="m45.45 36.97a1.48 1.48 0 0 0-0.1934 2e-3 1.48 1.48 0 0 0-1.332 1.205l-2.025 10.92-1.398-4.723a1.48 1.48 0 0 0-1.42-1.06h-5.342a1.48 1.48 0 0 0-1.48 1.48 1.48 1.48 0 0 0 1.48 1.478h4.236l2.836 9.574a1.48 1.48 0 0 0 2.875-0.1504l2.166-11.68 1.289 3.5a1.48 1.48 0 0 0 2.715 0.1465l1.623-3.273 1.963 5.336a1.48 1.48 0 0 0 1.391 0.9688h4.246a1.48 1.48 0 0 0 1.478-1.48 1.48 1.48 0 0 0-1.478-1.48h-3.215l-2.793-7.592a1.48 1.48 0 0 0-2.715-0.1445l-1.623 3.272-1.965-5.334a1.48 1.48 0 0 0-1.318-0.9668z" fill="url(#a)"/>
+</svg>

@@ -1,0 +1,26 @@
+<svg version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="c" x1="-49" x2="-43" y1="168.4" y2="165.6" gradientTransform="translate(60 -160)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#8d01a2" offset="0"/>
+   <stop stop-color="#ff00d2" offset="1"/>
+  </linearGradient>
+  <linearGradient id="b" x1="25" x2="36.59" y1="15" y2="9.996" gradientTransform="translate(-20)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fe0844" offset="0"/>
+   <stop stop-color="#feb302" offset="1"/>
+  </linearGradient>
+  <linearGradient id="e" x1="-44.46" x2="-47.28" y1="165.8" y2="167.7" gradientTransform="translate(60 -160)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fe0f7c" offset="0"/>
+   <stop stop-color="#df0066" offset="1"/>
+  </linearGradient>
+  <linearGradient id="a" x1="3.538" x2="16.16" y1="13.35" y2="2.332" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fe0844" stop-opacity=".404" offset="0"/>
+   <stop stop-color="#feb302" stop-opacity=".4" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g transform="translate(-.00026 .000746) scale(1)" color="#fcfcfc">
+  <path class="ColorScheme-Text" transform="translate(-4.108 -4.109)scale(1.374)" d="m14 6.292-4.41 4.413a.97.97 157.4 0 1-.683.284L5 10.999v6.503h14V9h-1.892a.97.97 22.5 0 1-.683-.283z" fill="url(#a)" fill-opacity=".5"/>
+  <path transform="translate(-4.108 -4.109)scale(1.374)" d="M18.82 8.234a.17.17 0 0 0-.102.049L18.002 9h1v-.6a.166.166 0 0 0-.182-.166M4.39 2.996a.4.4 0 0 0-.4.4v13.6h-.6a.4.4 0 0 0-.4.4v.2a.4.4 0 0 0 .4.4h.6v.6a.4.4 0 0 0 .4.4h.2a.4.4 0 0 0 .4-.4v-.6h13.6a.4.4 0 0 0 .4-.4v-.2a.4.4 0 0 0-.4-.4H4.99v-1h2.604a.97.97 0 0 0 .683-.283l1.438-1.434a.97.97 0 0 1 .684-.283h.79a.97.97 0 0 1 .684.283l1.434 1.434a.97.97 0 0 0 .684.283h4.6a.4.4 0 0 0 .4-.4v-.2a.4.4 0 0 0-.4-.4h-4.186a.97.97 0 0 1-.684-.283l-1.44-1.434a.97.97 0 0 0-.683-.283H9.985a.97.97 0 0 0-.684.283l-1.434 1.434a.97.97 0 0 1-.683.283H4.99v-4h4.604a.97.97 0 0 0 .683-.283l.432-.431a.4.4 0 0 0 0-.567l-.139-.139a.4.4 0 0 0-.566 0l-.137.137a.97.97 0 0 1-.684.283H4.991v-6.6a.4.4 0 0 0-.4-.4z" fill="url(#b)"/>
+  <path transform="translate(-4.108 -4.109)scale(1.374)" d="M11.4 4a.4.4 0 0 0-.4.4v1.2a.4.4 0 0 0 .4.4h.2a.4.4 0 0 0 .4-.4v-.2a.4.4 0 0 1 .4-.4h.2a.4.4 0 0 0 .4-.4v-.2a.4.4 0 0 0-.4-.4zm4 0a.4.4 0 0 0-.4.4v.2a.4.4 0 0 0 .4.4h.2a.4.4 0 0 1 .4.4v.2a.4.4 0 0 0 .4.4h.2a.4.4 0 0 0 .4-.4V4.4a.4.4 0 0 0-.4-.4zm1 4a.4.4 0 0 0-.4.4v.2a.4.4 0 0 1-.4.4h-.2a.4.4 0 0 0-.4.4v.2a.4.4 0 0 0 .4.4h1.199a.4.4 0 0 0 .4-.4V8.4a.4.4 0 0 0-.4-.4zm-5 0a.4.4 0 0 0-.4.4v1.2a.4.4 0 0 0 .4.4h1.199a.4.4 0 0 0 .4-.4v-.2a.4.4 0 0 0-.4-.4h-.2a.4.4 0 0 1-.4-.4v-.2a.4.4 0 0 0-.4-.4z" fill="url(#c)"/>
+  <path transform="translate(-4.108 -4.109)scale(1.374)" d="M14 5.76a.4.4 0 0 0-.283.117L12.58 7.014a.4.4 0 0 0 0 .567l.14.14a.4.4 0 0 0 .567 0l.43-.43a.4.4 0 0 1 .566 0l.43.43a.4.4 0 0 0 .566 0l.14-.14a.4.4 0 0 0 0-.567l-1.136-1.137a.4.4 0 0 0-.284-.117z" fill="url(#e)"/>
+ </g>
+</svg>

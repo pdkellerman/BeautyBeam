@@ -1,0 +1,21 @@
+<svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="a" x1="1" x2="0" y2="1">
+   <stop stop-color="#feac5e" offset=".013"/>
+   <stop stop-color="#c779d0" offset=".53"/>
+   <stop stop-color="#4bc0c8" offset=".996"/>
+  </linearGradient>
+  <linearGradient id="c" y2="1">
+   <stop stop-color="#ff00d2" offset="0"/>
+   <stop stop-color="#ff0052" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path transform="translate(-.00045 -.00045) scale(.9999) translate(.00045 .00045) scale(1) translate(-4.572 -4.572) scale(1.524)" d="m10 3-7 7 7 7 7-7zm7 7 7 7 7-7-7-7zm14 0 7 7 7-7-7-7zm7 7-7 7 7 7 7-7zm0 14-7 7 7 7 7-7zm-7 7-7-7-7 7 7 7zm-14 0-7-7-7 7 7 7zm-7-7 7-7-7-7-7 7zm7-7 7 7 7-7-7-7z" fill="url(#a)"/>
+ <g transform="translate(-.00045 -.00045) scale(.9999) translate(.00045 .00045) scale(1) translate(-4.572 -4.572) scale(1.524)" fill="url(#c)">
+  <path d="m24 20c-2.216 0-4 1.784-4 4s1.784 4 4 4 4-1.784 4-4-1.784-4-4-4"/>
+  <path d="m10 34c-2.216 0-4 1.784-4 4s1.784 4 4 4 4-1.784 4-4-1.784-4-4-4"/>
+  <path d="m38 6c-2.216 0-4 1.784-4 4s1.784 4 4 4 4-1.784 4-4-1.784-4-4-4"/>
+  <path d="m17 27c-2.216 0-4 1.784-4 4s1.784 4 4 4 4-1.784 4-4-1.784-4-4-4"/>
+  <path d="m31 13c-2.216 0-4 1.784-4 4s1.784 4 4 4 4-1.784 4-4-1.784-4-4-4"/>
+ </g>
+</svg>

@@ -1,0 +1,11 @@
+<svg version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style>.ColorScheme-Text { color:#ebdbb2; } .ColorScheme-Highlight { color:#458588; }</style>
+  <linearGradient id="a" y1="1">
+   <stop stop-color="#00f0ff" offset="0"/>
+   <stop stop-color="#00c3ff" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path transform="translate(0) scale(1) translate(0) scale(1.375)" d="m3 11a1 1 0 0 0-1 1v1a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1v-1a1 1 0 0 0-1-1z" fill="url(#a)"/>
+ <path transform="translate(0) scale(1) translate(0) scale(1.375)" d="m0 0v16h16v-16z" fill="url(#a)" fill-opacity="0" opacity=".5"/>
+</svg>

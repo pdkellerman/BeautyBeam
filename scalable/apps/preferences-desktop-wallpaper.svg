@@ -1,0 +1,19 @@
+<svg fill="none" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="a" x1="62.89" x2="62.89" y1="95.78" y2="58.46" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#02aa93" offset="0"/>
+   <stop stop-color="#67ff80" offset="1"/>
+  </linearGradient>
+  <linearGradient id="b" x1="8" x2="134.6" y1="116.7" y2="53.59" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#0357d1" offset="0"/>
+   <stop stop-color="#27cdfc" offset="1"/>
+  </linearGradient>
+  <linearGradient id="c" x1="105.5" x2="105.5" y1="40.02" y2="11" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fda700" offset="0"/>
+   <stop stop-color="#ffde00" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path transform="translate(-0) scale(1) translate(.000131 -.00015) scale(1) translate(-3.052 -4.195) scale(.5562)" d="M61.61 77.33a1 1 0 0 1-1.414 0l-13.05-13.05a3.44 3.44 0 0 0-4.85 0l-20.52 20.79a1 1 0 0 0-.288.703v6.908c0 .891 1.077 1.338 1.707.708l20.95-20.95a1 1 0 0 1 1.409-.006l9.89 9.741a1 1 0 0 1 .006 1.42l-10.48 10.48c-.63.63-.184 1.707.707 1.707h6.63a1 1 0 0 0 .707-.293l28.07-28.07a1 1 0 0 1 1.413-.001l20.12 20.02c.631.627 1.706.18 1.706-.709v-6.879c0-.265-.106-.52-.293-.707l-19.69-19.69a3.44 3.44 0 0 0-4.85 0l-17.87 17.87z" fill="url(#a)" stroke="url(#a)" stroke-width="5"/>
+ <path transform="translate(-0) scale(1) translate(.000131 -.00015) scale(1) translate(-3.052 -4.195) scale(.5562)" d="M111.9 51.85c-.43.132-.732.525-.732.975v55.95a1 1 0 0 1-1 1h-94.31a1 1 0 0 1-1-1v-80.55a1 1 0 0 1 1-1h61.64c.55 0 .996-.445 1.019-.995.066-1.55.272-3.091.615-4.604.147-.647-.332-1.28-.995-1.28h-63.27a6.88 6.88 0 0 0-6.88 6.879v82.55a6.88 6.88 0 0 0 6.88 6.879h96.31a6.88 6.88 0 0 0 6.879-6.88v-58.93c0-.786-.872-1.271-1.566-.9a25.7 25.7 0 0 1-4.581 1.904z" fill="url(#b)" stroke="url(#b)" stroke-width="5"/>
+ <path transform="translate(-0) scale(1) translate(.000131 -.00015) scale(1) translate(-3.052 -4.195) scale(.5562)" d="M105.5 40.02c8.014 0 14.51-6.497 14.51-14.51S113.513 11 105.5 11s-14.51 6.497-14.51 14.51 6.497 14.51 14.51 14.51" fill="url(#c)"/>
+</svg>

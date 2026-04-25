@@ -1,0 +1,19 @@
+<svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="a" y1="1">
+   <stop stop-color="#00fffa" offset="0"/>
+   <stop stop-color="#0078ff" offset="1"/>
+  </linearGradient>
+  <linearGradient id="b" y1="1">
+   <stop stop-color="#f6ff24" offset="0"/>
+   <stop stop-color="#ffbb24" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path transform="translate(0) scale(1) translate(0) scale(1) translate(.00141 .0029) scale(1) translate(3.304 2.508) scale(3.587)" d="M1.719-.7C.953-.7.301-.067.301.706v12.63c0 .773.695 1.367 1.418 1.367h.883l1.898 2.44 1.898-2.44h7.883c.723 0 1.418-.594 1.418-1.367V.705c0-.773-.652-1.404-1.418-1.404zM1.698.7H14.3L14.298.7v12.6l-.02-.002H5.712l-1.213 1.559-1.213-1.56H1.717l-.02.003V.7z" fill="url(#a)"/>
+ <path transform="translate(0) scale(1) translate(0) scale(1) translate(.00141 .0029) scale(1) translate(3.304 2.508) scale(3.587)" d="M3.365 6A.37.37 0 0 0 3 6.367v1.268A.37.37 0 0 0 3.365 8h1.27A.37.37 0 0 0 5 7.635V6.367A.37.37 0 0 0 4.635 6z" fill="url(#b)"/>
+ <path transform="translate(0) scale(1) translate(0) scale(1) translate(.00141 .0029) scale(1) translate(3.304 2.508) scale(3.587)" d="M3.365 2A.37.37 0 0 0 3 2.367v1.268A.37.37 0 0 0 3.365 4h1.27A.37.37 0 0 0 5 3.635V2.367A.37.37 0 0 0 4.635 2z" fill="url(#a)"/>
+ <path transform="translate(0) scale(1) translate(0) scale(1) translate(.00141 .0029) scale(1) translate(3.304 2.508) scale(3.587)" d="m8 6a1 1 0 0 0-1 1 1 1 0 0 0 1 1h4a1 1 0 0 0 1-1 1 1 0 0 0-1-1z" fill="url(#b)"/>
+ <path transform="translate(0) scale(1) translate(0) scale(1) translate(.00141 .0029) scale(1) translate(3.304 2.508) scale(3.587)" d="m8 2a1 1 0 0 0-1 1 1 1 0 0 0 1 1h4a1 1 0 0 0 1-1 1 1 0 0 0-1-1z" fill="url(#a)"/>
+ <path transform="translate(0) scale(1) translate(0) scale(1) translate(.00141 .0029) scale(1) translate(3.304 2.508) scale(3.587)" d="M3.365 10a.37.37 0 0 0-.365.367v1.268a.37.37 0 0 0 .365.365h1.27A.37.37 0 0 0 5 11.635v-1.268A.37.37 0 0 0 4.635 10z" fill="url(#a)"/>
+ <path transform="translate(0) scale(1) translate(0) scale(1) translate(.00141 .0029) scale(1) translate(3.304 2.508) scale(3.587)" d="m8 10a1 1 0 0 0-1 1 1 1 0 0 0 1 1h4a1 1 0 0 0 1-1 1 1 0 0 0-1-1z" fill="url(#a)"/>
+</svg>

@@ -1,0 +1,10 @@
+<svg version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style>.ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }</style>
+  <linearGradient id="a" y1=".5" y2=".5">
+   <stop stop-color="#f00" offset="0"/>
+   <stop stop-color="#ff0086" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path transform="translate(0) scale(1) translate(0) scale(1) translate(0) scale(1) translate(0 .6875) scale(1.375)" d="m13 1-12 12v1h1l2-2h11c1 0 1-1 1-1v-7c0-1-1-1-1-1h-2l1-1v-1zm-12 2c-1 0-1 1-1 1v7c0 1 1 1 1 1l1-1h-1v-7h8l1-1zm11 1h3v7h-10l1-1h1v-1l2-2v3h1v-4zm-10 1v5h1v-2h2v-1h-2v-1h2v-1zm4 0v1h1v-1zm5 1v4h3v-1h-2v-1h2v-2z" fill="url(#a)"/>
+</svg>

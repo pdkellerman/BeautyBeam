@@ -1,0 +1,26 @@
+<svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="d" y1="1">
+   <stop stop-color="#00d2ff" offset="0"/>
+   <stop stop-color="#0006ff" offset="1"/>
+  </linearGradient>
+  <linearGradient id="a" x2="0" y2="1">
+   <stop stop-color="#ff0f85" offset="0"/>
+   <stop stop-color="#ff0c0c" offset="1"/>
+  </linearGradient>
+  <linearGradient id="b" x2="0" y1="1">
+   <stop stop-color="#ffd42a" offset="0"/>
+   <stop stop-color="#ffb380" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path transform="translate(1.8e-5 1e-5) scale(1) translate(.01 .018)" d="M9.988 5.986a3.99 3.99 0 0 0-4 4v1.998H3.986A3.99 3.99 0 0 0-.01 15.982v14a3.99 3.99 0 0 0 3.996 4.002h7.998v1.998a3.99 3.99 0 0 0 4 3.998h12a3.99 3.99 0 0 0 3.998-4.002v-7.994a3.99 3.99 0 0 0-3.998-4h-12a3.99 3.99 0 0 0-3.996 4v2H3.99v-14h2v2.002a3.99 3.99 0 0 0 3.998 3.996h7.996a3.99 3.99 0 0 0 4-3.996V9.988a3.99 3.99 0 0 0-4-4z" fill="url(#a)"/>
+ <path transform="translate(1.8e-5 1e-5) scale(1) translate(.01 .018)" d="M39.99 23.98a3.99 3.99 0 0 0-4 3.998v7.998a3.99 3.99 0 0 0 4 4h7.998a3.99 3.99 0 0 0 4-4v-2h7.996v14h-2v-1.998a3.99 3.99 0 0 0-4-4H45.99a3.99 3.99 0 0 0-4 4v7.998a3.99 3.99 0 0 0 4 3.996h7.998a3.99 3.99 0 0 0 3.996-3.996v-2h2a3.99 3.99 0 0 0 4-4v-13.99a3.99 3.99 0 0 0-4-4h-7.996v-2.002a3.99 3.99 0 0 0-4-3.998z" fill="url(#b)"/>
+ <path transform="translate(1.8e-5 1e-5) scale(1) translate(.01 .018)" d="m46 43.99a1.993 1.993 0 0 0-2.002 2v7.998a1.993 1.993 0 0 0 2.002 2h7.998a1.993 1.993 0 0 0 2-2v-7.996a1.993 1.993 0 0 0-2-2z" fill="url(#d)"/>
+ <path transform="translate(1.8e-5 1e-5) scale(1) translate(.01 .018)" d="M28 43.99c-1.107 0-2 .891-2 2v7.998c0 1.108.893 2 2 2h7.998c1.108 0 2-.891 2-2v-7.996c0-1.108-.891-2-2-2z" fill="url(#d)"/>
+ <path transform="translate(1.8e-5 1e-5) scale(1) translate(.01 .018)" d="M9.998 43.99c-1.108 0-2 .891-2 2v7.998c0 1.108.891 2 2 2h7.998a1.997 1.997 0 0 0 2.002-2v-7.996c0-1.108-.895-2-2.002-2z" fill="url(#d)"/>
+ <path transform="translate(1.8e-5 1e-5) scale(1) translate(.01 .018)" d="M39.99 25.99c-1.108 0-2 .893-2 2v7.998c0 1.108.891 2 2 2h7.998c1.108 0 2-.891 2-2V27.99c0-1.107-.891-2-2-2z" fill="url(#d)"/>
+ <path transform="translate(1.8e-5 1e-5) scale(1) translate(.01 .018)" d="M16 25.99c-1.107 0-2 .893-2 2v7.998c0 1.108.893 2 2 2h12c1.108 0 2-.891 2-2V27.99c0-1.107-.891-2-2-2z" fill="url(#d)"/>
+ <path transform="translate(1.8e-5 1e-5) scale(1) translate(.01 .018)" d="M45.99 7.994c-1.108 0-2 .891-2 2v7.998c0 1.107.891 2.002 2 2.002h7.998c1.108 0 2-.895 2-2.002V9.994c0-1.108-.891-2-2-2z" fill="url(#d)"/>
+ <path transform="translate(1.8e-5 1e-5) scale(1) translate(.01 .018)" d="M27.99 7.994c-1.107 0-2 .891-2 2v7.998c0 1.107.893 2.002 2 2.002h7.998c1.108 0 2-.895 2-2.002V9.994c0-1.108-.891-2-2-2z" fill="url(#d)"/>
+ <path transform="translate(1.8e-5 1e-5) scale(1) translate(.01 .018)" d="M9.988 7.994a1.997 1.997 0 0 0-2.002 2v7.998a2 2 0 0 0 2.002 2.002h7.996a2 2 0 0 0 2.002-2.002V9.994c0-1.108-.895-2-2.002-2z" fill="url(#d)"/>
+</svg>

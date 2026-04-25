@@ -1,0 +1,15 @@
+<svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="b" x1="1" x2="0" y1=".5" y2=".5">
+   <stop stop-color="#fda700" offset=".188"/>
+   <stop stop-color="#ffce3c" offset=".682"/>
+  </linearGradient>
+  <linearGradient id="a" x2="0" y2="1">
+   <stop stop-color="#a700b5" offset="0"/>
+   <stop stop-color="#f09" offset=".468"/>
+   <stop stop-color="#ffd600" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path transform="translate(0 .00075) scale(1) matrix(4 0 0 4 0 -.003)" d="M7.598.4v.801H0V2h.4v9.5H0v.799h7.199v.734l-1.881 1.881a.404.404 0 0 0 .178.672.4.4 0 0 0 .388-.103l1.314-1.318v.634a.4.4 0 0 0 .801 0v-.634l1.316 1.318a.401.401 0 0 0 .567-.569l-1.883-1.88v-.735h8V11.5h-.4V2h.4v-.799H8.395v-.8zM1.2 3.65h13.6v3.701q-.793-1.133-1.77-1.133c-1.572 0-1.494 2.567-3.066 2.541-.996-.017-1.094-1.688-2.121-1.678-.836.008-1.154 1.231-1.914 1.205C4.85 8.25 4.266 7.127 3.204 7.214q-.842.069-2.006.99z" fill="url(#a)"/>
+ <path transform="translate(0 .00075) scale(1) matrix(4 0 0 4 0 -.003)" d="m5.616 4.436a1.154 1.154 0 0 0 0 2.306 1.152 1.152 0 1 0 0-2.306" fill="url(#b)"/>
+</svg>

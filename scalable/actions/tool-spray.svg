@@ -1,0 +1,20 @@
+<svg version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="c" x1="24.59" x2="15.64" y1="6.265" y2="6.265" gradientTransform="matrix(.886 0 0 1.106 -1.38 -.88)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#d800bd" offset="0"/>
+   <stop stop-color="#f92d7a" offset=".408"/>
+   <stop stop-color="#ff4a52" offset=".59"/>
+   <stop stop-color="#ffb243" offset="1"/>
+  </linearGradient>
+  <linearGradient id="a" y1="1">
+   <stop stop-color="#d800bd" offset="0"/>
+   <stop stop-color="#f92d7a" offset=".408"/>
+   <stop stop-color="#ff4a52" offset=".59"/>
+   <stop stop-color="#ffb243" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g transform="translate(0) scale(1) translate(0) scale(1) translate(-9e-5 -1e-4) scale(1)" stroke-width=".99">
+  <path transform="translate(-1.222 -1.222)scale(1.111)" d="M5.55 3.08c-1.082 0-1.98.898-1.98 1.98v3.142A2.99 2.99 0 0 0 1.59 11v6.93a2.985 2.985 0 0 0 2.97 2.97h3.96a2.985 2.985 0 0 0 2.97-2.97V11a2.99 2.99 0 0 0-1.98-2.798V7.04a.99.99 0 0 0 .99-.99.99.99 0 0 0-.99-.99c0-1.082-.898-1.98-1.98-1.98zm0 1.98h1.98v2.97H5.55zm-.99 4.95h3.96c.559 0 .99.432.99.99v6.93c0 .559-.431.99-.99.99H4.56a.975.975 0 0 1-.99-.99V11c0-.558.431-.99.99-.99" fill="url(#a)"/>
+  <path transform="translate(-1.222 -1.222)scale(1.111)" d="M19.41 1.1a.99.99 0 0 0-.99.99.99.99 0 0 0 .99.99h.01a.99.99 0 0 0 .99-.99.99.99 0 0 0-.99-.99zm-2.97 1.98a.99.99 0 0 0-.99.99.99.99 0 0 0 .99.99h.01a.99.99 0 0 0 .99-.99.99.99 0 0 0-.99-.99zm-2.97 1.98a.99.99 0 0 0-.99.99.99.99 0 0 0 .99.99h.01a.99.99 0 0 0 .99-.99.99.99 0 0 0-.99-.99zm5.94 0a.99.99 0 0 0-.99.99.99.99 0 0 0 .99.99h.01a.99.99 0 0 0 .99-.99.99.99 0 0 0-.99-.99zm-2.97 1.98a.99.99 0 0 0-.99.99.99.99 0 0 0 .99.99h.01a.99.99 0 0 0 .99-.99.99.99 0 0 0-.99-.99zm2.97 1.98a.99.99 0 0 0-.99.99.99.99 0 0 0 .99.99h.01a.99.99 0 0 0 .99-.99.99.99 0 0 0-.99-.99z" fill="url(#c)"/>
+ </g>
+</svg>
