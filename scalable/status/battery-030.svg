@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22"><defs><linearGradient id="a" x1="-1" x2="8.5" y1="14" y2="2" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#b900ff"/><stop offset="1" stop-color="#6444ff"/></linearGradient></defs><g fill="url(#a)" style="color:#ddd" transform="translate(1 3)scale(.99995)"><rect width="5" height="6" x="2" y="5" rx=".553" ry=".553"/><path d="M2 2C.892 2-1 3.892-1 5v6c0 1.108 1.892 3 3 3h13c1.108 0 3-1.892 3-3V5c0-1.108-1.892-3-3-3zm0 2h13c.554 0 1 .446 1 1v6c0 .554-.446 1-1 1H2c-.554 0-1-.446-1-1V5c0-.554.446-1 1-1m17 2v4a2 2 0 1 0 0-4"/></g></svg>
+<svg version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="a" y1="1">
+   <stop stop-color="#f00" offset="0"/>
+   <stop stop-color="#ffa500" offset=".5"/>
+   <stop stop-color="#ff0" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path transform="translate(.0015) scale(1)" d="m8.51 15.1a0.5 0.5 0 0 0-0.5 0.5v2.902a0.5 0.5 0 0 0 0.5 0.5h5a0.5 0.5 0 0 0 0.5-0.5v-2.902a0.5 0.5 0 0 0-0.5-0.5z" fill="url(#a)" style=""/>
+ <path transform="translate(.0015) scale(1) translate(.003 .000955) scale(1)" d="m11.06 0c-0.06667-0.002076-0.1331-7.658e-4 -0.2012 0.003906-0.982 0.06742-1.758 0.8383-1.854 1.799-0.01088 0.1099 0.07905 0.1992 0.1894 0.1992h3.6c0.1105 0 0.2022-0.08936 0.1914-0.1992-0.09811-0.996-0.9255-1.772-1.926-1.803zm-3.064 3c-1.108 0-3 1.892-3 3v13c0 1.108 1.892 3 3 3h6c1.108 0 3-1.892 3-3v-13c0-1.108-1.892-3-3-3zm0 2h6c0.554 0 1 0.446 1 1v13c0 0.554-0.446 1-1 1h-6c-0.554 0-1-0.446-1-1v-13c0-0.554 0.446-1 1-1z" fill="url(#a)"/>
+</svg>

@@ -1,1 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22"><g stroke-width="1.571"><path fill="#fe3333" d="M12.409 21.998h7.53l-9.689-10.3-4.548 3.152z" opacity=".3"/><path fill="#ffac82" d="M12.409 0h7.53L9.588 11l-3.877 3.86L2.062 11z" opacity=".3"/></g></svg>
+<svg version="1.0" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+ <path transform="translate(-.7857 -1.571) scale(.1964)" d="m67 8-51 53.85 0.0918 0.09766-0.0918 0.05664v4l18 19v-3.914l-0.09375-0.09961 14.36-10.09 4.801-4.746 50.93-54.15v-4h-37z" fill="#ffac82" opacity=".5"/>
+ <path transform="translate(-.7857 -1.571) scale(.1964)" d="m56.3 65.25-22.4 15.73 0.09375 0.09961v3.914l32.93 35h37.07v-4l-47.7-50.75z" fill="#fe3333" opacity=".5"/>
+</svg>

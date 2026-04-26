@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22"><g fill="red" stroke-width="1.571"><path d="M12.41 21.998h7.528l-9.688-10.3-4.548 3.152z" opacity=".3"/><path d="M12.41 0h7.528L9.59 11l-3.877 3.86L2.062 11z" opacity=".3"/></g></svg>
+<svg version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="a" y1="1">
+   <stop stop-color="#f10" offset="0"/>
+   <stop stop-color="#ff115a" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path transform="translate(-.00097) scale(1) matrix(.1964 0 0 .1964 -.7857 -1.571)" d="m104 7.999-88 54v3.998l18 19 32.93 35h37.07v-3.998l-67.32-33.65 16.38-16.2 50.94-54.15z" fill="#7B1113"/>
+ <path transform="translate(-.00097) scale(1) matrix(.1964 0 0 .1964 -.7857 -1.571)" d="m67 7.999-51 53.85 17.95 19.1-0.04972 0.02983 33.03 35.01h37.07l-47.7-50.74-22 15.45 18.77-18.86 50.94-53.85z" fill="url(#a)"/>
+</svg>

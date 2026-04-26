@@ -778,25 +778,6 @@ This file lists the third-party icon themes, icon sets, artwork, and upstream so
 - **Attribution:** Fluent Emoji by Microsoft Corporation, licensed under the MIT License. Copyright (c) Microsoft Corporation.
 - **Notes:** MIT-licensed; include copyright + license notice in your distribution. Repo contains multiple styles (3D/Flat/High Contrast) with SVG/PNG assets. No upstream references to other icon packs found; MIT does not grant trademark rights.
 
-
-### Fluent UI System Icons
-
-- **Upstream:** microsoft/fluentui-system-icons
-- **Author / copyright holder:** Microsoft Corporation
-- **Asset licence:** MIT
-- **Asset licence URL:** https://raw.githubusercontent.com/microsoft/fluentui-system-icons/main/LICENSE
-- **Code licence:** MIT
-- **Code licence URL:** https://raw.githubusercontent.com/microsoft/fluentui-system-icons/main/LICENSE
-- **Homepage:** https://microsoft.github.io/fluentui-system-icons/ | https://fluent2.microsoft.design/iconography
-- **Source repository:** https://github.com/microsoft/fluentui-system-icons
-- **Other source:** https://fluenticons.co/ (community viewer; not affiliated with Microsoft)
-- **Version / commit used:** 1.1.324 (6f17860)
-- **Date retrieved:** 04-25-26
-- **Type / format:** Icon set (SVG + packages)
-- **Changes made:** Integrated into this icon theme. No additional per-source modification details were recorded in the credits table.
-- **Attribution:** Fluent UI System Icons © Microsoft Corporation, licensed under the MIT License (https://raw.githubusercontent.com/microsoft/fluentui-system-icons/main/LICENSE). Source: https://github.com/microsoft/fluentui-system-icons ; Viewer: https://fluenticons.co/
-- **Notes:** MIT license allows redistribution/modification (including commercial) with the license notice preserved. MIT does not grant trademark rights; avoid implying endorsement. Upstream also includes a NOTICE with third‑party OSS used for tooling/build pipelines (not an upstream icon pack).
-
 ### Fluent Icon Theme
 
 - **Upstream:** vinceliuice/Fluent-icon-theme
@@ -1655,6 +1636,23 @@ This file lists the third-party icon themes, icon sets, artwork, and upstream so
 - **Attribution:** Sours by Tully Turk (tully-t), licensed under GPL-3.0 (https://www.gnu.org/licenses/gpl-3.0.html). Source: https://github.com/tully-t/Sours ; https://www.pling.com/p/2214536
 - **Notes:** Upstream README: descendant of BeautyLine (sajjad606) and Candy icons (EliverLara), and incorporates Sweet s (EliverLara). Ensure you also keep attribution/notices for those upstream packs. README points to LICENSE.md but repo uses LICENSE.
 
+### Angel wings icon - Game Icons
+
+- **Upstream:** Game-icons.net
+- **Author / copyright holder:** Lorc
+- **Asset licence:** CC BY 3.0
+- **Asset licence URL:** https://creativecommons.org/licenses/by/3.0/
+- **Code licence:** CC BY 3.0
+- **Code licence URL:** https://creativecommons.org/licenses/by/3.0/
+- **Homepage:** https://game-icons.net/
+- **Source repository:** https://github.com/game-icons/icons
+- **Other source:** https://game-icons.net/1x1/lorc/angel-wings.html
+- **Date retrieved:** 04-26-26
+- **Type / format:** Single icon (SVG/PNG)
+- **Changes made:** Integrated into this icon theme. No additional per-source modification details were recorded in the credits table.
+- **Attribution:** Angel wings icon by Lorc (Game-icons.net), licensed under CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/). Source: https://game-icons.net/1x1/lorc/angel-wings.html
+- **Notes:** CC BY 3.0 allows copying, modification, and redistribution (including commercial use) as long as you provide attribution, link the license, and indicate changes. Game-icons also requests including a mention like “Icons made by {author}” in derivative works; for this icon that would be “Icons made by Lorc”. The Game-icons repository contains a mix of CC BY 3.0 and CC0 icons; rely on the per-icon page for the specific license.
+
 ### Star swirl icon - Game Icons
 
 - **Upstream:** Game-icons.net
@@ -1671,6 +1669,24 @@ This file lists the third-party icon themes, icon sets, artwork, and upstream so
 - **Changes made:** Integrated into this icon theme. No additional per-source modification details were recorded in the credits table.
 - **Attribution:** Star swirl icon by Lorc (Game-icons.net), licensed under CC BY 3.0. Source: https://game-icons.net/1x1/lorc/star-swirl.html
 - **Notes:** CC BY 3.0 requires attribution (keep author + license + source; indicate changes). Game-icons license file also asks you to include “Icons made by {author}”. The repo contains a mix of CC BY 3.0 and CC0 icons, but this icon page states CC BY 3.0.
+
+### Overlord helm icon - Game Icons
+
+- **Upstream:** Game-icons.net
+- **Author / copyright holder:** Delapouite
+- **Asset licence:** CC BY 3.0
+- **Asset licence URL:** https://creativecommons.org/licenses/by/3.0/
+- **Code licence:** CC BY 3.0
+- **Code licence URL:** https://creativecommons.org/licenses/by/3.0/
+- **Homepage:** https://game-icons.net/
+- **Source repository:** https://github.com/game-icons/icons
+- **Other source:** https://game-icons.net/1x1/delapouite/overlord-helm.html
+- **Date retrieved:** 04-25-26
+- **Type / format:** Single icon (SVG/PNG)
+- **Changes made:** Integrated into this icon theme. No additional per-source modification details were recorded in the credits table.
+- **Attribution:** Overlord helm icon by Delapouite (Game-icons.net), licensed under CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/). Source: https://game-icons.net/1x1/delapouite/overlord-helm.html
+- **Notes:** CC BY 3.0 allows copying, modification, and redistribution (including commercial use) as long as you provide attribution, link the license, and indicate changes. Game-icons also requests including a mention like “Icons made by {author}” in derivative works; for this icon that would be “Icons made by Delapouite”. The Game-icons repository contains a mix of CC BY 3.0 and CC0 icons; rely on the per-icon page for the specific license.
+
 
 ### Stash
 
