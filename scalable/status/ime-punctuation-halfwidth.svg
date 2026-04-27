@@ -1,1 +1,22 @@
-fcitx-punc-inactive.svg
+<svg version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="a" x1="1" x2="0" y2="1">
+   <stop stop-color="#ffc100" offset="0"/>
+   <stop stop-color="#ff0069" offset="1"/>
+  </linearGradient>
+ </defs>
+ <style transform="translate(0 -.00135) scale(1) translate(-13.2 -14.74) scale(2.2)">.ColorScheme-Text {
+        color:#dedede;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#dedede;
+      }</style>
+ <path transform="translate(0 -.00135) scale(1) translate(-13.2 -14.74) scale(2.2)" d="M 7.5,9 A 1.5,1.5 0 0 0 6,10.5 1.5,1.5 0 0 0 7.5,12 1.5,1.5 0 0 0 9,10.5 1.5,1.5 0 0 0 7.5,9 Z" fill="url(#a)"/>
+ <path transform="translate(0 -.00135) scale(1) translate(-13.2 -14.74) scale(2.2)" d="m14.5 9a1.5 1.5 0 0 0-1.5 1.5 1.5 1.5 0 0 0 1.5 1.5 1.5 1.5 0 0 0 0.04687-2e-3c-0.5332 0.9392-1.348 1.602-1.348 1.602l0.6016 0.8008s1.967-1.426 2.162-3.572a1.5 1.5 0 0 0 0.03711-0.3281 1.5 1.5 0 0 0-1.5-1.5z" fill="url(#a)"/>
+</svg>

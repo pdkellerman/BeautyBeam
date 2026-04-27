@@ -5,7 +5,7 @@
    <stop stop-color="#ff00b0" offset="1"/>
   </linearGradient>
  </defs>
- <g transform="translate(0) scale(1) translate(0) scale(1) translate(0) scale(1)" stroke-width="4">
+ <g transform="translate(0) scale(1) translate(0) scale(1) translate(0) scale(1) translate(0) scale(1)" stroke-width="4">
   <path d="M26 51.99c-1.108 0-2 .892-2 2s.892 2 2 2h12c1.107 0 2-.892 2-2s-.893-2-2-2zm-4-44a2 2 0 0 0-2 2 2 2 0 0 0 2 2 2 2 0 0 0 2-2 2 2 0 0 0-2-2" fill="#ff00b0"/>
   <path transform="scale(.9999)" d="M20 0c-4.432 0-8 3.568-8 8v48c0 4.432 3.568 8 8 8h24c4.432 0 8-3.568 8-8V8c0-4.432-3.568-8-8-8zm0 4h24c2.216 0 4 1.784 4 4v48c0 2.216-1.784 4-4 4H20c-2.216 0-4-1.784-4-4V8c0-2.216 1.784-4 4-4" fill="url(#a)"/>
  </g>

@@ -5,9 +5,9 @@
    <stop stop-color="#ff00b0" offset="1"/>
   </linearGradient>
  </defs>
- <g transform="translate(0) scale(1) translate(0) scale(1) translate(0) scale(1)" stroke-width="4">
+ <g transform="translate(0) scale(1) translate(0) scale(1) translate(0) scale(1) translate(0) scale(1)" stroke-width="4">
   <path d="m26 51.99c-1.108 0-2 0.892-2 2s0.892 2 2 2h12c1.107 0 2-0.892 2-2s-0.893-2-2-2zm-4-44a2 2 0 0 0-2 2 2 2 0 0 0 2 2 2 2 0 0 0 2-2 2 2 0 0 0-2-2" fill="#ff00b0"/>
   <path transform="scale(.9999)" d="M20 0c-4.432 0-8 3.568-8 8v48c0 4.432 3.568 8 8 8h24c4.432 0 8-3.568 8-8V8c0-4.432-3.568-8-8-8zm0 4h24c2.216 0 4 1.784 4 4v48c0 2.216-1.784 4-4 4H20c-2.216 0-4-1.784-4-4V8c0-2.216 1.784-4 4-4" fill="url(#a)"/>
  </g>
- <path transform="translate(0) scale(1) translate(0) scale(1)" d="m35.14 15.7a1.559 1.559 0 0 0-1.114 0.5876l-12.34 15.59a1.559 1.559 0 0 0 1.221 2.527h5.951l-1.644 9.876a1.559 1.559 0 0 0 2.759 1.224l12.34-15.59a1.559 1.559 0 0 0-1.221-2.527h-5.954l1.644-9.876a1.559 1.559 0 0 0-1.644-1.811z" fill="#ff0" stroke-width="1.559"/>
+ <path transform="translate(0) scale(1) translate(0) scale(1) translate(0) scale(1)" d="m35.14 15.7a1.559 1.559 0 0 0-1.114 0.5876l-12.34 15.59a1.559 1.559 0 0 0 1.221 2.527h5.951l-1.644 9.876a1.559 1.559 0 0 0 2.759 1.224l12.34-15.59a1.559 1.559 0 0 0-1.221-2.527h-5.954l1.644-9.876a1.559 1.559 0 0 0-1.644-1.811z" fill="#ff0" stroke-width="1.559"/>
 </svg>

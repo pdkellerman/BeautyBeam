@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22"><defs><linearGradient id="a" y1="1"><stop offset="0" stop-color="#45cbff"/><stop offset="1" stop-color="#0569ff"/></linearGradient></defs><path fill="url(#a)" d="M3.5 2a3.5 3.5 0 1 0 0 7 3.5 3.5 0 0 0 0-7m9 0a3.5 3.5 0 1 0 0 7 3.5 3.5 0 0 0 1.721-.46C13.219 10.644 11.342 12.232 9 12.96v1.04c3.773-1.04 6.54-4.137 6.961-7.983l.008-.068a9 9 0 0 0 .035-.453H16A3.5 3.5 0 0 0 12.5 2z" transform="translate(0 .003)scale(1.37486)"/></svg>
+<svg version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="a" x2="0" y1="1">
+   <stop stop-color="#f00" offset="0"/>
+   <stop stop-color="#ff0086" offset="1"/>
+  </linearGradient>
+ </defs>
+ <style transform="translate(.001193 .00179) scale(.9999) translate(.4762 .574) scale(.9567)">.ColorScheme-Accent { color: #3daee9; } .ColorScheme-Background { color: #2a2e32; } .ColorScheme-ButtonText { color: #31363b; } .ColorScheme-Text { color: #fcfcfc; }</style>
+ <path transform="translate(.001193 .00179) scale(.9999) translate(.4762 .574) scale(.9567)" d="m18.7 4.56v0.001953c-2.092 0-3.797 1.704-3.797 3.797-2e-6 1.819 1.385 3.14 3.098 3.508-0.7481 1.127-1.645 2.171-2.127 2.615-0.3912 0.3605-0.4592 0.962-0.1328 1.396l0.7207 0.9629c0.3285 0.4373 0.9843 0.5325 1.414 0.1719 1.118-0.9381 4.152-3.798 4.533-7.863 0.05566-0.2591 0.08921-0.5195 0.08984-0.7852a0.5 0.5 0 0 0 0-0.00586c0-2.093-1.706-3.799-3.799-3.799zm-15.4 0.001953c-2.093-4.954e-4 -3.798 1.704-3.799 3.797-4.954e-4 2.094 1.705 3.799 3.799 3.799 2.093-7.43e-4 3.797-1.706 3.797-3.799-7.425e-4 -2.092-1.705-3.796-3.797-3.797z" fill="url(#a)"/>
+</svg>

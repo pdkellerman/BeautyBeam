@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><defs><linearGradient id="a" x2="0" y1="1"><stop offset="0" stop-color="#ff00f5"/><stop offset="1" stop-color="#ff81ff"/></linearGradient></defs><path fill="url(#a)" d="M229-335q-39.8 0-66.9-27.1T135-429v-124q0-19.75 13.68-33.38Q162.35-600 182.18-600q19.82 0 33.32 13.62Q229-572.75 229-553v124h502v-124q0-19.75 13.68-33.38Q758.35-600 778.09-600q19.73 0 33.82 13.62Q826-572.75 826-553v124q0 39.8-27.39 66.9Q771.21-335 731-335z" transform="translate(-12.5 75.3)scale(.09262)"/></svg>
+<svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="a" x2="0" y1="1">
+   <stop stop-color="#ff00f5" offset="0"/>
+   <stop stop-color="#ff81ff" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path transform="translate(-.0037 5e-5) scale(1) translate(-12.5 75.3) scale(.09262)" d="M229-335q-39.8 0-66.9-27.1T135-429v-124q0-19.75 13.68-33.38Q162.35-600 182.18-600q19.82 0 33.32 13.62Q229-572.75 229-553v124h502v-124q0-19.75 13.68-33.38Q758.35-600 778.09-600q19.73 0 33.82 13.62Q826-572.75 826-553v124q0 39.8-27.39 66.9Q771.21-335 731-335z" fill="url(#a)"/>
+</svg>
