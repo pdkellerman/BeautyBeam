@@ -1,1 +1,9 @@
-delete.svg
+<svg version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="a" x2="0" y2="1">
+   <stop stop-color="#ff002e" offset="0"/>
+   <stop stop-color="#f09" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path transform="translate(0) scale(1) translate(0) scale(1) translate(2.6e-5) scale(1) translate(-.000752 -.000625) scale(.9997) translate(-1.44 -1.571) scale(1.143)" d="M19.71 4.984c0-.664-.539-1.203-1.203-1.203h-3.029a3.605 3.605 0 0 0-3.388-2.406H9.684a3.605 3.605 0 0 0-3.388 2.406H3.267a1.203 1.203 0 1 0 0 2.406h.401v10.03a4.41 4.41 0 0 0 4.411 4.411h5.615a4.41 4.41 0 0 0 4.412-4.411V6.187h.401c.665 0 1.203-.539 1.203-1.203m-4.01 11.23a2.005 2.005 0 0 1-2.005 2.005H8.08a2.005 2.005 0 0 1-2.005-2.005V6.184H15.7zm-6.818-.401c.665 0 1.203-.539 1.203-1.203V9.798a1.203 1.203 0 1 0-2.406 0v4.812c0 .664.539 1.203 1.203 1.203m5.214-1.203a1.203 1.203 0 0 1-2.406 0V9.798a1.203 1.203 0 1 1 2.406 0z" fill="url(#a)" fill-rule="evenodd"/>
+</svg>

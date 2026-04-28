@@ -1449,18 +1449,19 @@ This file lists the third-party icon themes, icon sets, artwork, and upstream so
 ### Primer Octicons
 
 - **Upstream:** primer/octicons
-- **Author / copyright holder:** GitHub
+- **Author / copyright holder:** GitHub, Inc.
 - **Asset licence:** MIT
 - **Asset licence URL:** https://github.com/primer/octicons/blob/main/LICENSE
 - **Code licence:** MIT
 - **Code licence URL:** https://github.com/primer/octicons/blob/main/LICENSE
 - **Homepage:** https://primer.style/octicons/
 - **Source repository:** https://github.com/primer/octicons
-- **Date retrieved:** 02-08-26
-- **Type / format:** Icon set (SVG)
+- **Version / commit used:** v19.25.0 (latest GitHub release as of 2026-04-28)
+- **Date retrieved:** 04-28-26
+- **Type / format:** Icon set (SVG + libraries/components)
 - **Changes made:** Integrated into this icon theme. No additional per-source modification details were recorded in the credits table.
-- **Attribution:** Primer Octicons by GitHub, licensed under the MIT License. Source: https://github.com/primer/octicons
-- **Notes:** GitHub’s Octicons icon set. MIT: include copyright + license notice.
+- **Attribution:** Primer Octicons by GitHub, Inc., licensed under the MIT License (https://github.com/primer/octicons/blob/main/LICENSE). Source: https://github.com/primer/octicons ; Homepage: https://primer.style/octicons/.
+- **Notes:** Octicons are a set of SVG icons built by GitHub for GitHub. MIT permits use, copying, modification, redistribution, sublicensing, and commercial use, provided the copyright and license notice are included with copies/substantial portions. No bundled third-party icon-pack references were found in the upstream README. GitHub logos/trademarks remain subject to GitHub logo/trademark guidelines and should not be used in a way that implies endorsement.
 
 ### Qlementine
 
