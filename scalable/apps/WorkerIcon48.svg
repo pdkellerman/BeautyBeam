@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 64 64"><defs><linearGradient id="a" x1=".077" x2="15.14" y1=".744" y2="17.06" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#f9d423"/><stop offset=".516" stop-color="#ff4e50"/><stop offset=".991" stop-color="#8a2387"/></linearGradient></defs><path fill="url(#a)" fill-rule="evenodd" d="M2.751.6A2.45 2.45 0 0 0 .3 3.051v8.253a3.95 3.95 0 0 0 3.951 3.952h7.489a3.95 3.95 0 0 0 3.951-3.944l.008-4.502a3.95 3.95 0 0 0-3.95-3.959h-2.53a.2.2 0 0 1-.141-.059L7.827 1.54A3.2 3.2 0 0 0 5.562.6zm-.55 2.451a.55.55 0 0 1 .55-.55h2.81a1.3 1.3 0 0 1 .92.381l.777.778a.2.2 0 0 1 0 .283l-.777.777a1.3 1.3 0 0 1-.92.382H2.4a.2.2 0 0 1-.2-.2V3.05zm6.877 1.76a.2.2 0 0 1 .141-.06h2.53a2.05 2.05 0 0 1 2.05 2.055l-.008 4.502a2.05 2.05 0 0 1-2.051 2.047H4.25a2.05 2.05 0 0 1-2.05-2.05V7.201c0-.11.09-.2.2-.2h3.16a3.2 3.2 0 0 0 2.266-.939l1.25-1.253z" clip-rule="evenodd" transform="translate(-1.247 -.95)scale(4.156)"/></svg>
+<svg fill="none" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="a" x1=".077" x2="15.14" y1=".744" y2="17.06" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#f9d423" offset="0"/>
+   <stop stop-color="#ff4e50" offset=".516"/>
+   <stop stop-color="#8a2387" offset=".991"/>
+  </linearGradient>
+ </defs>
+ <path transform="translate(.000202 4e-4) scale(1) translate(-1.247 -.95) scale(4.156)" d="M2.751.6A2.45 2.45 0 0 0 .3 3.051v8.253a3.95 3.95 0 0 0 3.951 3.952h7.489a3.95 3.95 0 0 0 3.951-3.944l.008-4.502a3.95 3.95 0 0 0-3.95-3.959h-2.53a.2.2 0 0 1-.141-.059L7.827 1.54A3.2 3.2 0 0 0 5.562.6zm-.55 2.451a.55.55 0 0 1 .55-.55h2.81a1.3 1.3 0 0 1 .92.381l.777.778a.2.2 0 0 1 0 .283l-.777.777a1.3 1.3 0 0 1-.92.382H2.4a.2.2 0 0 1-.2-.2V3.05zm6.877 1.76a.2.2 0 0 1 .141-.06h2.53a2.05 2.05 0 0 1 2.05 2.055l-.008 4.502a2.05 2.05 0 0 1-2.051 2.047H4.25a2.05 2.05 0 0 1-2.05-2.05V7.201c0-.11.09-.2.2-.2h3.16a3.2 3.2 0 0 0 2.266-.939l1.25-1.253z" clip-rule="evenodd" fill="url(#a)" fill-rule="evenodd"/>
+</svg>

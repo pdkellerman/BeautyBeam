@@ -795,22 +795,23 @@ This file lists the third-party icon themes, icon sets, artwork, and upstream so
 - **Attribution:** Fluent icon theme by vinceliuice and contributors, licensed under the GNU GPL v3.0: https://www.gnu.org/licenses/gpl-3.0.html. Source: https://github.com/vinceliuice/Fluent-icon-theme.
 - **Notes:** Referenced as a source by Eleven / Cobalt. Include this attribution if you ship any icons derived from Fluent.
 
-### Font Awesome Free
+### Font Awesome 6 Free
 
-- **Upstream:** Font Awesome
-- **Author / copyright holder:** Dave Gandy / Fonticons, Inc. + contributors
-- **Asset licence:** CC BY 4.0
-- **Asset licence URL:** https://creativecommons.org/licenses/by/4.0/
+- **Upstream:** FortAwesome/Font-Awesome (Font Awesome Free)
+- **Author / copyright holder:** Fonticons, Inc.; Dave Gandy; Font Awesome contributors
+- **Asset licence:** CC BY 4.0 (SVG/JS icons); SIL OFL 1.1 (web/desktop font files)
+- **Asset licence URL:** https://creativecommons.org/licenses/by/4.0/ | https://scripts.sil.org/OFL | https://fontawesome.com/license/free
 - **Code licence:** MIT
-- **Code licence URL:** https://opensource.org/licenses/MIT
+- **Code licence URL:** https://opensource.org/licenses/MIT | https://fontawesome.com/license/free
 - **Homepage:** https://fontawesome.com/
 - **Source repository:** https://github.com/FortAwesome/Font-Awesome
-- **Version / commit used:** main (retrieved 2026-02-03)
-- **Date retrieved:** 02-03-26
-- **Type / format:** Icon set (SVG/font/CSS)
+- **Other source:** https://fontawesome.com/versions
+- **Version / commit used:** Font Awesome 6.7.2 (af62053; 6.x / Font Awesome 6 LTS)
+- **Date retrieved:** 04-28-26
+- **Type / format:** Icon set (SVG + JS + web/desktop fonts + CSS)
 - **Changes made:** Integrated into this icon theme. No additional per-source modification details were recorded in the credits table.
-- **Attribution:** Font Awesome Free by Fonticons, Inc. (Dave Gandy and contributors): icons licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); code under MIT (https://opensource.org/licenses/MIT). Source: https://github.com/FortAwesome/Font-Awesome
-- **Notes:** Included via Adwaita++ (see Adwaita++ credits). Font Awesome Free also includes fonts under SIL OFL 1.1.
+- **Attribution:** Font Awesome 6 Free by Fonticons, Inc. (created by Dave Gandy; maintained by Font Awesome contributors): icons licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); font files under SIL OFL 1.1 (https://scripts.sil.org/OFL); code under MIT (https://opensource.org/licenses/MIT). Source: https://github.com/FortAwesome/Font-Awesome ; Homepage: https://fontawesome.com/.
+- **Notes:** Font Awesome Free is free, open source, and GPL friendly. You may use, modify, and redistribute Font Awesome 6 Free icons in this Linux icon pack, including commercially, provided the required copyright, licence, and attribution notices are preserved. The SVG/JS icon files are CC BY 4.0, the font files are SIL OFL 1.1, and the non-font/non-icon code is MIT. Use only the Free assets unless you have a separate Font Awesome Pro licence. Brand icons remain trademarks of their respective owners and should only be used to identify the relevant brand; do not imply endorsement. No separate upstream icon-pack references were found for Font Awesome 6 Free.
 
 ### Font Mfizz
 
@@ -1687,6 +1688,23 @@ This file lists the third-party icon themes, icon sets, artwork, and upstream so
 - **Changes made:** Integrated into this icon theme. No additional per-source modification details were recorded in the credits table.
 - **Attribution:** Overlord helm icon by Delapouite (Game-icons.net), licensed under CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/). Source: https://game-icons.net/1x1/delapouite/overlord-helm.html
 - **Notes:** CC BY 3.0 allows copying, modification, and redistribution (including commercial use) as long as you provide attribution, link the license, and indicate changes. Game-icons also requests including a mention like “Icons made by {author}” in derivative works; for this icon that would be “Icons made by Delapouite”. The Game-icons repository contains a mix of CC BY 3.0 and CC0 icons; rely on the per-icon page for the specific license.
+
+### Soda bottle icon - Game Icons
+
+- **Upstream:** Game-icons.net
+- **Author / copyright holder:** Caro Asercion
+- **Asset licence:** CC BY 3.0
+- **Asset licence URL:** https://creativecommons.org/licenses/by/3.0/
+- **Code licence:** CC BY 3.0
+- **Code licence URL:** https://creativecommons.org/licenses/by/3.0/
+- **Homepage:** https://game-icons.net/
+- **Source repository:** https://github.com/game-icons/icons
+- **Other source:** https://game-icons.net/1x1/caro-asercion/soda-bottle.html
+- **Date retrieved:** 04-28-26
+- **Type / format:** Single icon (SVG/PNG)
+- **Changes made:** Integrated into this icon theme. No additional per-source modification details were recorded in the credits table.
+- **Attribution:** Soda bottle icon by Caro Asercion (Game-icons.net), licensed under CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/). Source: https://game-icons.net/1x1/caro-asercion/soda-bottle.html
+- **Notes:** CC BY 3.0 allows copying, modification, and redistribution (including commercial use) as long as you provide attribution, link the license, and indicate changes. Game-icons also requests including a mention like “Icons made by {author}” in derivative works; for this icon that would be “Icons made by Caro Asercion”. The Game-icons repository contains a mix of CC BY 3.0 and CC0 icons; rely on the per-icon page for the specific license. No separate referenced icon pack was found for this single icon.
 
 
 ### Stash

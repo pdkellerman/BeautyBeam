@@ -1,29 +1,29 @@
 <svg style="isolation:isolate" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
- <linearGradient id="e" transform="translate(-.000159 -.001521) scale(.9998) translate(-.6808 -.6808) scale(1.362)" x2="1" y1=".5" y2=".5" gradientTransform="matrix(47 0 0 47 .5 .5)" gradientUnits="userSpaceOnUse">
+ <linearGradient id="e" transform="translate(0) scale(1) translate(-.000159 -.001521) scale(.9998) translate(-.6808 -.6808) scale(1.362)" x2="1" y1=".5" y2=".5" gradientTransform="matrix(47 0 0 47 .5 .5)" gradientUnits="userSpaceOnUse">
   <stop stop-color="#dc508d" offset="0"/>
   <stop stop-color="#f58b7b" offset=".5042"/>
   <stop stop-color="#38f9d7" offset=".9792"/>
  </linearGradient>
- <path transform="translate(-.000159 -.001521) scale(.9998) translate(-.6808 -.6808) scale(1.362)" d="m43.5 24c-0.914 7.314-10.18 5.059-14.37 5.132-10.07 1.267 3.478 12.39-0.738 13.85-1.441 0.338-2.846 0.517-4.393 0.517-10.8 0-19.5-8.698-19.5-19.5 0-10.8 8.698-19.5 19.5-19.5 10.8 0 19.5 8.697 19.5 19.5zm-13.86 9.141 0.03 0.06c0.4 0.86 0.83 1.71 1.31 2.53 0.48 0.84 0.93 1.7 1.35 2.57 0.22 0.48 0.42 0.98 0.57 1.48 0.21 0.63 0.32 1.28 0.33 1.94 0.03 1.11-0.29 2.19-0.91 3.1-0.71 1-1.74 1.72-2.92 2.04-1.77 0.42-3.58 0.64-5.39 0.64-6.24 0.01-12.23-2.47-16.64-6.87-4.4-4.41-6.88-10.4-6.87-16.63-0.01-6.23 2.47-12.22 6.87-16.63 4.41-4.4 10.4-6.88 16.63-6.87 6.23-0.01 12.22 2.47 16.63 6.87 4.4 4.41 6.88 10.4 6.87 16.63 0 0.14-0.01 0.27-0.02 0.41-0.17 1.65-0.74 3.24-1.66 4.62-0.88 1.25-2.06 2.27-3.42 2.96-1.17 0.58-2.42 0.98-3.71 1.17-1.14 0.17-2.3 0.26-3.45 0.24-1.25-0.01-2.5-0.07-3.74-0.16-0.62-0.06-1.24-0.09-1.86-0.1z" fill="url(#e)" fill-rule="evenodd"/>
- <linearGradient id="d" transform="translate(-.000159 -.001521) scale(.9998) translate(-.6808 -.6808) scale(1.362)" x2="1" y1=".5" y2=".5" gradientTransform="matrix(7,0,0,7,13,30)" gradientUnits="userSpaceOnUse">
+ <path transform="translate(0) scale(1) translate(-.000159 -.001521) scale(.9998) translate(-.6808 -.6808) scale(1.362)" d="m43.5 24c-0.914 7.314-10.18 5.059-14.37 5.132-10.07 1.267 3.478 12.39-0.738 13.85-1.441 0.338-2.846 0.517-4.393 0.517-10.8 0-19.5-8.698-19.5-19.5 0-10.8 8.698-19.5 19.5-19.5 10.8 0 19.5 8.697 19.5 19.5zm-13.86 9.141 0.03 0.06c0.4 0.86 0.83 1.71 1.31 2.53 0.48 0.84 0.93 1.7 1.35 2.57 0.22 0.48 0.42 0.98 0.57 1.48 0.21 0.63 0.32 1.28 0.33 1.94 0.03 1.11-0.29 2.19-0.91 3.1-0.71 1-1.74 1.72-2.92 2.04-1.77 0.42-3.58 0.64-5.39 0.64-6.24 0.01-12.23-2.47-16.64-6.87-4.4-4.41-6.88-10.4-6.87-16.63-0.01-6.23 2.47-12.22 6.87-16.63 4.41-4.4 10.4-6.88 16.63-6.87 6.23-0.01 12.22 2.47 16.63 6.87 4.4 4.41 6.88 10.4 6.87 16.63 0 0.14-0.01 0.27-0.02 0.41-0.17 1.65-0.74 3.24-1.66 4.62-0.88 1.25-2.06 2.27-3.42 2.96-1.17 0.58-2.42 0.98-3.71 1.17-1.14 0.17-2.3 0.26-3.45 0.24-1.25-0.01-2.5-0.07-3.74-0.16-0.62-0.06-1.24-0.09-1.86-0.1z" fill="url(#e)" fill-rule="evenodd"/>
+ <linearGradient id="d" transform="translate(0) scale(1) translate(-.000159 -.001521) scale(.9998) translate(-.6808 -.6808) scale(1.362)" x2="1" y1=".5" y2=".5" gradientTransform="matrix(7,0,0,7,13,30)" gradientUnits="userSpaceOnUse">
   <stop stop-color="#5433ff" offset="0"/>
   <stop stop-color="#20bdff" offset=".5174"/>
   <stop stop-color="#a5fecb" offset=".9826"/>
  </linearGradient>
- <path transform="translate(-.000159 -.001521) scale(.9998) translate(-.6808 -.6808) scale(1.362)" d="m13 33.5c0-1.932 1.568-3.5 3.5-3.5s3.5 1.568 3.5 3.5-1.568 3.5-3.5 3.5-3.5-1.568-3.5-3.5z" fill="url(#d)"/>
- <linearGradient id="c" transform="translate(-.000159 -.001521) scale(.9998) translate(-.6808 -.6808) scale(1.362)" x2="1" y1=".5" y2=".5" gradientTransform="matrix(7,0,0,7,8,19)" gradientUnits="userSpaceOnUse">
+ <path transform="translate(0) scale(1) translate(-.000159 -.001521) scale(.9998) translate(-.6808 -.6808) scale(1.362)" d="m13 33.5c0-1.932 1.568-3.5 3.5-3.5s3.5 1.568 3.5 3.5-1.568 3.5-3.5 3.5-3.5-1.568-3.5-3.5z" fill="url(#d)"/>
+ <linearGradient id="c" transform="translate(0) scale(1) translate(-.000159 -.001521) scale(.9998) translate(-.6808 -.6808) scale(1.362)" x2="1" y1=".5" y2=".5" gradientTransform="matrix(7,0,0,7,8,19)" gradientUnits="userSpaceOnUse">
   <stop stop-color="#ffe53b" offset="0"/>
   <stop stop-color="#ff005b" offset=".987"/>
  </linearGradient>
- <path transform="translate(-.000159 -.001521) scale(.9998) translate(-.6808 -.6808) scale(1.362)" d="m8 22.5c0-1.932 1.568-3.5 3.5-3.5s3.5 1.568 3.5 3.5-1.568 3.5-3.5 3.5-3.5-1.568-3.5-3.5z" fill="url(#c)"/>
- <linearGradient id="b" transform="translate(-.000159 -.001521) scale(.9998) translate(-.6808 -.6808) scale(1.362)" x2=".9075" y1=".5" y2=".9201" gradientTransform="matrix(7,0,0,7,15,9)" gradientUnits="userSpaceOnUse">
+ <path transform="translate(0) scale(1) translate(-.000159 -.001521) scale(.9998) translate(-.6808 -.6808) scale(1.362)" d="m8 22.5c0-1.932 1.568-3.5 3.5-3.5s3.5 1.568 3.5 3.5-1.568 3.5-3.5 3.5-3.5-1.568-3.5-3.5z" fill="url(#c)"/>
+ <linearGradient id="b" transform="translate(0) scale(1) translate(-.000159 -.001521) scale(.9998) translate(-.6808 -.6808) scale(1.362)" x2=".9075" y1=".5" y2=".9201" gradientTransform="matrix(7,0,0,7,15,9)" gradientUnits="userSpaceOnUse">
   <stop stop-color="#00ffd8" offset="0"/>
   <stop stop-color="#00ffb8" offset=".8389"/>
  </linearGradient>
- <path transform="translate(-.000159 -.001521) scale(.9998) translate(-.6808 -.6808) scale(1.362)" d="m15 12.5c0-1.932 1.568-3.5 3.5-3.5s3.5 1.568 3.5 3.5-1.568 3.5-3.5 3.5-3.5-1.568-3.5-3.5z" fill="url(#b)"/>
- <linearGradient id="a" transform="translate(-.000159 -.001521) scale(.9998) translate(-.6808 -.6808) scale(1.362)" x2=".9075" y1=".5" y2=".9201" gradientTransform="matrix(7,0,0,7,27,8)" gradientUnits="userSpaceOnUse">
+ <path transform="translate(0) scale(1) translate(-.000159 -.001521) scale(.9998) translate(-.6808 -.6808) scale(1.362)" d="m15 12.5c0-1.932 1.568-3.5 3.5-3.5s3.5 1.568 3.5 3.5-1.568 3.5-3.5 3.5-3.5-1.568-3.5-3.5z" fill="url(#b)"/>
+ <linearGradient id="a" transform="translate(0) scale(1) translate(-.000159 -.001521) scale(.9998) translate(-.6808 -.6808) scale(1.362)" x2=".9075" y1=".5" y2=".9201" gradientTransform="matrix(7,0,0,7,27,8)" gradientUnits="userSpaceOnUse">
   <stop stop-color="#f7f107" offset="0"/>
   <stop stop-color="#ffbb24" offset=".8389"/>
  </linearGradient>
- <path transform="translate(-.000159 -.001521) scale(.9998) translate(-.6808 -.6808) scale(1.362)" d="m27 11.5c0-1.932 1.568-3.5 3.5-3.5s3.5 1.568 3.5 3.5-1.568 3.5-3.5 3.5-3.5-1.568-3.5-3.5z" fill="url(#a)"/>
+ <path transform="translate(0) scale(1) translate(-.000159 -.001521) scale(.9998) translate(-.6808 -.6808) scale(1.362)" d="m27 11.5c0-1.932 1.568-3.5 3.5-3.5s3.5 1.568 3.5 3.5-1.568 3.5-3.5 3.5-3.5-1.568-3.5-3.5z" fill="url(#a)"/>
 </svg>

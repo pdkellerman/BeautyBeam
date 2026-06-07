@@ -1,0 +1,19 @@
+<svg version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="b" x1="32" x2="32" y1="63.87" y2="4.869" gradientTransform="translate(-1.961 -.217)scale(1.064)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fda700" offset="0"/>
+   <stop stop-color="#ffde00" offset="1"/>
+  </linearGradient>
+  <linearGradient id="c" x1="32.48" x2="32.48" y1="58.03" y2="32" gradientTransform="translate(-1.961 -.217)scale(1.064)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fd5900" offset="0"/>
+   <stop stop-color="#ffde00" offset="1"/>
+  </linearGradient>
+  <linearGradient id="a" x1="32.1" x2="32.1" y1="43.93" y2="-18.87" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fda700" offset="0"/>
+   <stop stop-color="#ffde00" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path transform="translate(-5.7e-5 8.6e-5) scale(.3437) translate(-.706 -.604) scale(1.019)" d="M4.352 2.445C2.368 2.445.7 4.109.7 6.095v14.85h5.322c0 .894-.781 1.67-1.67 1.67h21.39c.967 0 1.896-.385 2.58-1.068l4.877-4.869h26.23c.586.264.929.185 1.197.172.335-.016.572-.069.824-.148s.507-.172.875-.434 1.13-.822 1.174-2.16l.002-.045v-.045c0-.993-.145-1.495-.379-2.375a6.8 6.8 0 0 0-.51-1.404c-.132-.263-.288-.556-.642-.926s-1.071-.926-2.121-.926h-26.5L29.488 3.76a3.65 3.65 0 0 0-2.803-1.31H4.355zm1.67 5.32h19.88l3.861 4.627c.03.037.08.05.111.086l-4.818 4.81H6.026V7.765z" fill="url(#a)"/>
+ <path transform="translate(-5.7e-5 8.6e-5) scale(.3437) translate(-.706 -.604) scale(1.019)" d="M32.54 11.35c-.988 0-1.939.392-2.637 1.092l-4.854 4.867h-20.7c-1.987 0-3.656 1.667-3.656 3.654v36.756c0 1.985 1.661 3.654 3.654 3.654h55.49c1.993 0 3.652-1.669 3.652-3.654v-42.65c0-2.026-1.698-3.725-3.725-3.725zm.662 5.32h24.98v39.38H6.022V22.63h19.69c.989 0 1.941-.394 2.64-1.094zm-28.68 2.926.697.457.012.02zm.861.697.42.612.012.058zM.707 21.756v.006H.705v-.004zm.122.838.072.35-.03-.045zm.535 1.07.119.174-.014-.008z" fill="url(#b)"/>
+ <path transform="translate(-5.7e-5 8.6e-5) scale(.3437) translate(-.706 -.604) scale(1.019)" d="M11.88 33.84c-.588 0-1.064.477-1.064 1.064v25.58c0 .588.477 1.064 1.064 1.064h9.762c.588 0 1.064-.477 1.064-1.064v-13.7c0-.588.477-1.064 1.064-1.064h17.69c.588 0 1.064.477 1.064 1.064v13.7c0 .588.477 1.064 1.064 1.064h9.764c.588 0 1.064-.477 1.064-1.064v-25.58c0-.588-.477-1.064-1.064-1.064z" fill="url(#c)"/>
+</svg>

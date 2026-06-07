@@ -1,1 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><defs><linearGradient id="a" x2="0" y1="1"><stop offset="0" stop-color="#5800e2"/><stop offset="1" stop-color="#ff00e6"/></linearGradient><linearGradient id="b" y2="1"><stop offset="0" stop-color="#00d2ff"/><stop offset="1" stop-color="#0006ff"/></linearGradient></defs><path fill="url(#a)" d="M48 12c-2.216 0-4 1.489-4 3.336v33.33c0 1.847 1.784 3.336 4 3.336s4-1.489 4-3.336v-33.33C52 13.489 50.216 12 48 12" transform="translate(-10.664 -10.665)scale(1.333)"/><path fill="url(#a)" d="M32 12c-2.216 0-4 1.489-4 3.336v33.33c0 1.847 1.784 3.336 4 3.336s4-1.489 4-3.336v-33.33C36 13.489 34.216 12 32 12" transform="translate(-10.664 -10.665)scale(1.333)"/><path fill="url(#a)" d="M16 12c-2.216 0-4 1.489-4 3.336v33.33c0 1.847 1.784 3.336 4 3.336s4-1.489 4-3.336v-33.33C20 13.489 18.216 12 16 12" transform="translate(-10.664 -10.665)scale(1.333)"/><path fill="url(#b)" d="M16 20a8 8 0 0 0-8 8 8 8 0 0 0 8 8 8 8 0 0 0 8-8 8 8 0 0 0-8-8" transform="translate(-10.664 -10.665)scale(1.333)"/><path fill="url(#b)" d="M32 32a8 8 0 0 0-8 8 8 8 0 0 0 8 8 8 8 0 0 0 8-8 8 8 0 0 0-8-8" transform="translate(-10.664 -10.665)scale(1.333)"/><path fill="url(#b)" d="M48 24a8 8 0 0 0-8 8 8 8 0 0 0 8 8 8 8 0 0 0 8-8 8 8 0 0 0-8-8" transform="translate(-10.664 -10.665)scale(1.333)"/></svg>
+<svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="a" x2="0" y1="1">
+   <stop stop-color="#5800e2" offset="0"/>
+   <stop stop-color="#ff00e6" offset="1"/>
+  </linearGradient>
+  <linearGradient id="b" y2="1">
+   <stop stop-color="#00d2ff" offset="0"/>
+   <stop stop-color="#0006ff" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path transform="translate(0 -.00035) scale(1) translate(-10.66 -10.66) scale(1.333)" d="M48 12c-2.216 0-4 1.489-4 3.336v33.33c0 1.847 1.784 3.336 4 3.336s4-1.489 4-3.336v-33.33C52 13.489 50.216 12 48 12" fill="url(#a)"/>
+ <path transform="translate(0 -.00035) scale(1) translate(-10.66 -10.66) scale(1.333)" d="M32 12c-2.216 0-4 1.489-4 3.336v33.33c0 1.847 1.784 3.336 4 3.336s4-1.489 4-3.336v-33.33C36 13.489 34.216 12 32 12" fill="url(#a)"/>
+ <path transform="translate(0 -.00035) scale(1) translate(-10.66 -10.66) scale(1.333)" d="M16 12c-2.216 0-4 1.489-4 3.336v33.33c0 1.847 1.784 3.336 4 3.336s4-1.489 4-3.336v-33.33C20 13.489 18.216 12 16 12" fill="url(#a)"/>
+ <path transform="translate(0 -.00035) scale(1) translate(-10.66 -10.66) scale(1.333)" d="m16 20a8 8 0 0 0-8 8 8 8 0 0 0 8 8 8 8 0 0 0 8-8 8 8 0 0 0-8-8" fill="url(#b)"/>
+ <path transform="translate(0 -.00035) scale(1) translate(-10.66 -10.66) scale(1.333)" d="m32 32a8 8 0 0 0-8 8 8 8 0 0 0 8 8 8 8 0 0 0 8-8 8 8 0 0 0-8-8" fill="url(#b)"/>
+ <path transform="translate(0 -.00035) scale(1) translate(-10.66 -10.66) scale(1.333)" d="m48 24a8 8 0 0 0-8 8 8 8 0 0 0 8 8 8 8 0 0 0 8-8 8 8 0 0 0-8-8" fill="url(#b)"/>
+</svg>

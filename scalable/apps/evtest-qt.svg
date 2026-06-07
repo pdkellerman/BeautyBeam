@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><defs><linearGradient id="a" x1="1" x2="0" y1="1"><stop offset=".19" stop-color="#ffab00"/><stop offset=".548" stop-color="#ff4b2b"/><stop offset=".83" stop-color="#ff004c"/></linearGradient></defs><path fill="url(#a)" d="M8 1a2.5 2.5 0 0 0-2.5 2.5A2.5 2.5 0 0 0 7 5.787V9h-.496v1H5.5v-.516H3V10c-.554 0-1 .446-1 1v3c0 .554.446 1 1 1h10c.554 0 1-.446 1-1v-3c0-.554-.446-1-1-1v-.516h-2.482V10H9.496V9H9V5.787A2.5 2.5 0 0 0 10.5 3.5 2.5 2.5 0 0 0 8 1z" transform="translate(-4.57 -4.571)scale(4.571)"/></svg>
+<svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="a" x1="1" x2="0" y1="1">
+   <stop stop-color="#ffab00" offset=".19"/>
+   <stop stop-color="#ff4b2b" offset=".548"/>
+   <stop stop-color="#ff004c" offset=".83"/>
+  </linearGradient>
+ </defs>
+ <path transform="translate(-.001) scale(1) translate(-4.57 -4.571) scale(4.571)" d="M8 1a2.5 2.5 0 0 0-2.5 2.5A2.5 2.5 0 0 0 7 5.787V9h-.496v1H5.5v-.516H3V10c-.554 0-1 .446-1 1v3c0 .554.446 1 1 1h10c.554 0 1-.446 1-1v-3c0-.554-.446-1-1-1v-.516h-2.482V10H9.496V9H9V5.787A2.5 2.5 0 0 0 10.5 3.5 2.5 2.5 0 0 0 8 1z" fill="url(#a)"/>
+</svg>

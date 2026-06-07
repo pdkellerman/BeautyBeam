@@ -17,10 +17,10 @@
    <stop stop-color="#ff33db" offset="1"/>
   </linearGradient>
  </defs>
- <path transform="translate(0) scale(1) translate(0) scale(3.2)" d="M6 0a6 6 0 0 0-6 6v8a6 6 0 0 0 6 6h8a6 6 0 0 0 6-6V6a6 6 0 0 0-6-6zm0 2h8a4 4 0 0 1 4 4v8a4 4 0 0 1-4 4H6a4 4 0 0 1-4-4V6a4 4 0 0 1 4-4" fill="url(#a)"/>
- <path transform="translate(0) scale(1) translate(0) scale(1)" d="m35.62 43.2a2.766 2.766 0 0 0 0 5.532h13.83a2.766 2.766 0 0 0 0-5.532z" fill="url(#b)" style="-inkscape-stroke:none;font-variation-settings:normal"/>
- <path transform="translate(0) scale(1) translate(0) scale(1)" d="M26.04 15.27a2.7 2.7 0 0 0-2.009.788l-5.742 5.747-1.914-1.914a2.707 2.707 0 0 0-3.828 3.828l3.828 3.828a2.707 2.707 0 0 0 3.828 0l7.656-7.656a2.707 2.707 0 0 0-1.819-4.621" fill="url(#c)"/>
- <path transform="translate(0) scale(1) translate(0) scale(1)" d="m35.62 15.73a2.766 2.766 0 0 0 0 5.532h13.83a2.766 2.766 0 0 0 0-5.532z" fill="url(#b)"/>
- <path transform="translate(0) scale(1) translate(0) scale(1)" d="m14.4 33.22a1.94 1.94 0 0 0-1.938 1.938v11.63a1.94 1.94 0 0 0 1.938 1.938h11.63a1.94 1.94 0 0 0 1.938-1.938v-11.63a1.94 1.94 0 0 0-1.938-1.938zm1.938 3.876h7.752v7.752h-7.752z" fill="url(#e)"/>
- <path transform="translate(0) scale(1) translate(0) scale(1)" d="m35.62 29.46a2.766 2.766 0 0 0 0 5.532h13.83a2.766 2.766 0 0 0 0-5.532z" fill="url(#b)" style="-inkscape-stroke:none;font-variation-settings:normal"/>
+ <path transform="translate(0) scale(1) translate(0) scale(1) translate(0) scale(1) translate(0) scale(3.2)" d="M6 0a6 6 0 0 0-6 6v8a6 6 0 0 0 6 6h8a6 6 0 0 0 6-6V6a6 6 0 0 0-6-6zm0 2h8a4 4 0 0 1 4 4v8a4 4 0 0 1-4 4H6a4 4 0 0 1-4-4V6a4 4 0 0 1 4-4" fill="url(#a)"/>
+ <path transform="translate(0) scale(1) translate(0) scale(1) translate(0) scale(1) translate(0) scale(1)" d="m35.62 43.2a2.766 2.766 0 0 0 0 5.532h13.83a2.766 2.766 0 0 0 0-5.532z" fill="url(#b)" style="-inkscape-stroke:none;font-variation-settings:normal"/>
+ <path transform="translate(0) scale(1) translate(0) scale(1) translate(0) scale(1) translate(0) scale(1)" d="M26.04 15.27a2.7 2.7 0 0 0-2.009.788l-5.742 5.747-1.914-1.914a2.707 2.707 0 0 0-3.828 3.828l3.828 3.828a2.707 2.707 0 0 0 3.828 0l7.656-7.656a2.707 2.707 0 0 0-1.819-4.621" fill="url(#c)"/>
+ <path transform="translate(0) scale(1) translate(0) scale(1) translate(0) scale(1) translate(0) scale(1)" d="m35.62 15.73a2.766 2.766 0 0 0 0 5.532h13.83a2.766 2.766 0 0 0 0-5.532z" fill="url(#b)"/>
+ <path transform="translate(0) scale(1) translate(0) scale(1) translate(0) scale(1) translate(0) scale(1)" d="m14.4 33.22a1.94 1.94 0 0 0-1.938 1.938v11.63a1.94 1.94 0 0 0 1.938 1.938h11.63a1.94 1.94 0 0 0 1.938-1.938v-11.63a1.94 1.94 0 0 0-1.938-1.938zm1.938 3.876h7.752v7.752h-7.752z" fill="url(#e)"/>
+ <path transform="translate(0) scale(1) translate(0) scale(1) translate(0) scale(1) translate(0) scale(1)" d="m35.62 29.46a2.766 2.766 0 0 0 0 5.532h13.83a2.766 2.766 0 0 0 0-5.532z" fill="url(#b)" style="-inkscape-stroke:none;font-variation-settings:normal"/>
 </svg>

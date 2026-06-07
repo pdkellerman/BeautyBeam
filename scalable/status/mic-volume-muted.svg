@@ -1,0 +1,21 @@
+<svg version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="a" y1="1">
+   <stop stop-color="#c42482" offset="0"/>
+   <stop stop-color="#cc2477" offset=".047"/>
+   <stop stop-color="#e0255a" offset=".128"/>
+   <stop stop-color="#ff272d" offset=".231"/>
+   <stop stop-color="#ff8e00" offset=".571"/>
+   <stop stop-color="#ffbf00" offset=".746"/>
+   <stop stop-color="#ffde00" offset=".88"/>
+   <stop stop-color="#ffea00" offset=".955"/>
+  </linearGradient>
+  <linearGradient id="b" y1="1">
+   <stop stop-color="#ff001e" offset="0"/>
+   <stop stop-color="#ff004b" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path transform="translate(-0) scale(1) translate(-0) scale(1) translate(1e-6) scale(1) translate(-.003218) scale(1) translate(-.004341 .00125) scale(1) translate(-1.28 -1.28) scale(1.023)" d="M12 1.25c-1.417 0-2.843.469-3.936 1.44C6.972 3.66 6.25 5.146 6.25 7v4c0 3.167 2.583 5.75 5.75 5.75s5.75-2.583 5.75-5.75V7c0-1.854-.722-3.34-1.814-4.31S13.417 1.25 12 1.25m0 1.5c1.083 0 2.157.365 2.94 1.06S16.25 5.52 16.25 7v4c0 2.356-1.894 4.25-4.25 4.25S7.75 13.356 7.75 11V7c0-1.479.528-2.494 1.31-3.19.783-.696 1.856-1.06 2.94-1.06" fill="url(#a)"/>
+ <path transform="translate(-0) scale(1) translate(-0) scale(1) translate(1e-6) scale(1) translate(-.003218) scale(1) translate(-.004341 .00125) scale(1) translate(-1.28 -1.28) scale(1.023)" d="M14 6.25a.75.75 0 0 0-.75.75.75.75 0 0 0 .75.75h3a.75.75 0 0 0 .75-.75.75.75 0 0 0-.75-.75zm-10 4a.75.75 0 0 0-.75.75c0 4.558 3.544 8.197 8 8.598v1.652H9a.75.75 0 0 0-.75.75.75.75 0 0 0 .75.75h6a.75.75 0 0 0 .75-.75.75.75 0 0 0-.75-.75h-2.25v-1.652c4.456-.4 8-4.04 8-8.598a.75.75 0 0 0-.75-.75.75.75 0 0 0-.75.75c0 4.013-3.237 7.25-7.25 7.25S4.75 15.013 4.75 11a.75.75 0 0 0-.75-.75m10 0a.75.75 0 0 0-.75.75.75.75 0 0 0 .75.75h3a.75.75 0 0 0 .75-.75.75.75 0 0 0-.75-.75z" fill="url(#a)"/>
+ <path transform="translate(-0) scale(1) translate(-0) scale(1) translate(1e-6) scale(1) translate(-.003218) scale(1) translate(-.004341 .00125) scale(.3439)" d="m58.46 5.538-52.92 52.92" fill="url(#b)" stroke="url(#b)" stroke-linecap="round" stroke-linejoin="round" stroke-width="7.722"/>
+</svg>
