@@ -1,1 +1,17 @@
-plv.svg
+<svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="a" x1="35.84" x2="17.46" y1="10.96" y2="32.08" gradientTransform="translate(-3.429 -3.445)scale(1.143)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#ff0014" offset="0"/>
+   <stop stop-color="#ffe307" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path transform="translate(0) scale(1) translate(0 .000168) scale(1)" d="m16.872 51.891-5.26-5.262L0 58.241l5.262 5.262" fill="#2d2d2d"/>
+ <path transform="translate(0) scale(1) translate(0 .000168) scale(1)" d="m25.23 42.24-3.69-3.69-8.831 8.501 3.689 3.69" fill="#ffb50a"/>
+ <path transform="translate(0) scale(1) translate(0 .000168) scale(1)" d="m46.37 7.842-2.377 7.053c2.916.976 5.06 3.658 5.06 6.898 0 .432-.085.815-.155 1.228l7.282 1.226a14.7 14.7 0 0 0 .232-2.454c0-6.494-4.206-11.996-10.041-13.95" fill="#ff1b12"/>
+ <path transform="translate(0) scale(1) translate(0 .000168) scale(1) translate(-6.745 -6.928) scale(1.611)" d="M42.39 19.07c0 7.148-5.793 12.94-12.94 12.94-7.154 0-12.95-5.793-12.94-12.94-.006-7.143 5.787-12.94 12.94-12.94 7.149 0 12.94 5.8 12.94 12.94" fill="none" stroke="url(#a)" stroke-width="3.045"/>
+ <g transform="translate(0) scale(1) translate(0 .000168) scale(1)" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.436">
+  <path d="M25.48 23.68H43.2" fill="none" stroke="#ff9d0b"/>
+  <path d="m38.36 31.74h11.28" fill="#e0d2e5" stroke="#ff7c0d"/>
+  <path d="m31.92 14.02h9.666" fill="#e0d2e5" stroke="#ff1d12"/>
+ </g>
+</svg>
