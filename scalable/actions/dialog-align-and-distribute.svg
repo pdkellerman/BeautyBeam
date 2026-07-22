@@ -5,5 +5,5 @@
    <stop stop-color="#00b2ff" offset="1"/>
   </linearGradient>
  </defs>
- <path transform="translate(0) scale(1) translate(0) scale(1) translate(0) scale(1) translate(-5e-5 -5e-5) scale(1) translate(5e-5 5e-5) scale(1) translate(-1.571 -1.571) scale(1.571)" d="M14.6 15a.4.4 0 0 0 .4-.4v-1.2a.4.4 0 0 0-.4-.4H1.4a.4.4 0 0 0-.4.4v1.2c0 .22.18.4.4.4zm-6-4a.4.4 0 0 0 .4-.4V9.4a.4.4 0 0 0-.4-.4H1.4a.4.4 0 0 0-.4.4v1.2c0 .22.18.4.4.4zm0-4a.4.4 0 0 0 .4-.4V5.4a.4.4 0 0 0-.4-.4H1.4a.4.4 0 0 0-.4.4v1.2c0 .22.18.4.4.4zm6-4a.4.4 0 0 0 .4-.4V1.4a.4.4 0 0 0-.4-.4H1.4a.4.4 0 0 0-.4.4v1.2c0 .22.18.4.4.4z" fill="url(#a)"/>
+ <path transform="translate(0) scale(1) translate(0) scale(1) translate(0) scale(1) translate(0) scale(1) translate(-5e-5 -5e-5) scale(1) translate(5e-5 5e-5) scale(1) translate(-1.571 -1.571) scale(1.571)" d="M14.6 15a.4.4 0 0 0 .4-.4v-1.2a.4.4 0 0 0-.4-.4H1.4a.4.4 0 0 0-.4.4v1.2c0 .22.18.4.4.4zm-6-4a.4.4 0 0 0 .4-.4V9.4a.4.4 0 0 0-.4-.4H1.4a.4.4 0 0 0-.4.4v1.2c0 .22.18.4.4.4zm0-4a.4.4 0 0 0 .4-.4V5.4a.4.4 0 0 0-.4-.4H1.4a.4.4 0 0 0-.4.4v1.2c0 .22.18.4.4.4zm6-4a.4.4 0 0 0 .4-.4V1.4a.4.4 0 0 0-.4-.4H1.4a.4.4 0 0 0-.4.4v1.2c0 .22.18.4.4.4z" fill="url(#a)"/>
 </svg>

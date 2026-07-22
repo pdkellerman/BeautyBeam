@@ -5,6 +5,6 @@
    <stop stop-color="#ff0080" offset="1"/>
   </linearGradient>
  </defs>
- <path transform="translate(0) scale(1) translate(-4e-5) scale(1) translate(-.01728 -.004318) scale(.9999) translate(-10.97 -11.69) scale(1.996)" d="m13.8 11.75a1.178 1.178 0 0 0-0.8809 0.377l-1.918 1.914-1.918-1.914a1.178 1.178 0 0 0-1.664 1.664l2.75 2.748a1.178 1.178 0 0 0 1.662 0l2.75-2.748a1.178 1.178 0 0 0-0.7812-2.041z" fill="url(#a)"/>
- <path transform="translate(0) scale(1) translate(-4e-5) scale(1) translate(-.01728 -.004318) scale(.9999) translate(-10.97 -11.69) scale(1.996)" d="m13.8 5.859a1.178 1.178 0 0 0-0.8809 0.377l-1.918 1.916-1.918-1.916a1.178 1.178 0 0 0-1.664 0 1.178 1.178 0 0 0 0 1.664l2.75 2.75a1.178 1.178 0 0 0 1.662 0l2.75-2.75a1.178 1.178 0 0 0-0.7812-2.041z" fill="url(#a)"/>
+ <path transform="translate(0) scale(1) translate(0) scale(1) translate(0) scale(1) translate(-4e-5) scale(1) translate(-.01728 -.004318) scale(.9999) translate(-10.97 -11.69) scale(1.996)" d="m13.8 11.75a1.178 1.178 0 0 0-0.8809 0.377l-1.918 1.914-1.918-1.914a1.178 1.178 0 0 0-1.664 1.664l2.75 2.748a1.178 1.178 0 0 0 1.662 0l2.75-2.748a1.178 1.178 0 0 0-0.7812-2.041z" fill="url(#a)"/>
+ <path transform="translate(0) scale(1) translate(0) scale(1) translate(0) scale(1) translate(-4e-5) scale(1) translate(-.01728 -.004318) scale(.9999) translate(-10.97 -11.69) scale(1.996)" d="m13.8 5.859a1.178 1.178 0 0 0-0.8809 0.377l-1.918 1.916-1.918-1.916a1.178 1.178 0 0 0-1.664 0 1.178 1.178 0 0 0 0 1.664l2.75 2.75a1.178 1.178 0 0 0 1.662 0l2.75-2.75a1.178 1.178 0 0 0-0.7812-2.041z" fill="url(#a)"/>
 </svg>

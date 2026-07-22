@@ -11,7 +11,7 @@
   <linearGradient id="h" x1="7" x2="46" y1="42" y2="20" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
   <linearGradient id="f" x1="7" x2="46" y1="42" y2="20" gradientTransform="translate(0 -.003)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
  </defs>
- <g transform="translate(2e-4 -2e-4) scale(1) translate(-.489 -.733) scale(.4888)">
+ <g transform="translate(0) scale(1) translate(0) scale(1) translate(2e-4 -2e-4) scale(1) translate(-.489 -.733) scale(.4888)">
   <linearGradient id="b" x1=".114" x2="1" y1="1.408" y2=".548" gradientTransform="matrix(44 0 0 25.56 2 6)" gradientUnits="userSpaceOnUse">
    <stop stop-color="#00f1fa" offset="0"/>
    <stop stop-color="#006cff" offset="1"/>

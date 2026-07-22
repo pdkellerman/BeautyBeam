@@ -1,1 +1,9 @@
-add-subtitle.svg
+<svg fill="none" version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="a" x1="1.891" x2="20.11" y1="11.02" y2="11.02" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#9EE170" offset="0"/>
+   <stop stop-color="#E5ECA2" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path transform="translate(-.9691 -.9898) scale(1.088)" d="m16.06 13.08h-6.073m-3.036 0h-1.012m0 3.189h5.061m3.036 0h2.024m-14.17-9.3v-2.024c0-0.5369 0.2133-1.052 0.5929-1.431s0.8945-0.5929 1.431-0.5929h14.17c0.537 0 1.052 0.2133 1.431 0.5929 0.3797 0.3796 0.593 0.8945 0.593 1.431v12.15c0 0.5369-0.2133 1.052-0.593 1.432-0.3795 0.3795-0.8944 0.5928-1.431 0.5928h-14.17c-0.5369 0-1.052-0.2133-1.431-0.5928-0.3796-0.3797-0.5929-0.8946-0.5929-1.432v-10.12z" stroke="url(#a)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+</svg>

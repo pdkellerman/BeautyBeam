@@ -1,1 +1,27 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 22 22"><defs><linearGradient id="a" x1="32" x2="32" y1="54" y2="10" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#9001ff"/><stop offset="1" stop-color="#f1f"/></linearGradient></defs><path fill="url(#a)" fill-rule="evenodd" d="M5 10a4 4 0 0 0-4 4v36a4 4 0 0 0 4 4h54a4 4 0 0 0 4-4V14a4 4 0 0 0-4-4zm2 20V16h22.75v14zm0 4v14h22.75V34zm26.75 14H57V34H33.75zM57 30V16H33.75v14z" clip-rule="evenodd" transform="translate(-.355 -.355)scale(.3548)"/></svg>
+<svg version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="a" y1="1">
+   <stop stop-color="#5433ff" offset="0"/>
+   <stop stop-color="#20bdff" offset=".5"/>
+   <stop stop-color="#a5fecb" offset="1"/>
+  </linearGradient>
+  <linearGradient id="d" y1="1">
+   <stop stop-color="#5800e2" offset="0"/>
+   <stop stop-color="#ff00e6" offset="1"/>
+  </linearGradient>
+  <linearGradient id="c" x1="1" x2="0" y2="1">
+   <stop stop-color="#01ff4d" offset="0"/>
+   <stop stop-color="#2fff00" offset="1"/>
+  </linearGradient>
+  <linearGradient id="b" y1="1">
+   <stop stop-color="#d800bd" offset="0"/>
+   <stop stop-color="#f92d7a" offset=".33"/>
+   <stop stop-color="#ff4a52" offset=".67"/>
+   <stop stop-color="#ffb243" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path transform="translate(-0 3e-5) scale(1) translate(.000343 .00145) scale(.9999) matrix(.8801 0 0 .8801 1.325 1.731)" d="m0.4961-0.5371c-1.06 0-2.002 0.8414-2.002 1.94v6.684c0 1.098 0.942 1.941 2.002 1.941h7.998c1.06 0 2-0.8489 2-1.941v-6.684c-2e-6 -1.092-0.9398-1.94-2-1.94zm0 2h7.998v6.564h-7.998z" fill="url(#a)"/>
+ <path transform="translate(-0 3e-5) scale(1) translate(.000343 .00145) scale(.9999) matrix(.8801 0 0 .8801 1.325 1.731)" d="m13.5-0.5371c-1.06 0-2 0.8469-2 1.94v6.684c0 1.092 0.9398 1.941 2 1.941h7.994c1.06 0 2-0.8489 2-1.941v-6.684c0-1.092-0.9398-1.94-2-1.94zm0 2h7.994v6.564h-7.994z" fill="url(#d)"/>
+ <path transform="translate(-0 3e-5) scale(1) translate(.000343 .00145) scale(.9999) translate(1.325 1.731) scale(.8801)" d="m13.5 11.03c-1.065 0-2 0.8528-2 1.945v6.68c0 1.092 0.9398 1.945 2 1.945h7.994c1.06 0 2-0.8532 2-1.945v-6.68c0-1.092-0.9346-1.945-2-1.945zm0 2.002h7.994v6.568h-7.994z" fill="url(#b)"/>
+ <path transform="translate(-0 3e-5) scale(1) translate(.000343 .00145) scale(.9999) matrix(.8801 0 0 .8801 1.325 1.731)" d="m0.4961 11.03c-1.065 0-2.002 0.8473-2.002 1.945v6.68c0 1.098 0.942 1.945 2.002 1.945h7.998c1.06 0 2-0.8532 2-1.945v-6.68c-2e-6 -1.092-0.9346-1.945-2-1.945zm0 2.002h7.998v6.568h-7.998z" fill="url(#c)"/>
+</svg>

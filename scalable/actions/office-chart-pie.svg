@@ -1,1 +1,19 @@
-financial-budget.svg
+<svg version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="d" x1="1" x2="0" y1=".5" y2=".5">
+   <stop stop-color="#ffe100" offset="0"/>
+   <stop stop-color="#f0e" offset="1"/>
+  </linearGradient>
+  <linearGradient id="b" x1="1" x2="0" y1="1">
+   <stop stop-color="#18aefa" offset="0"/>
+   <stop stop-color="#83e1ff" offset="1"/>
+  </linearGradient>
+  <linearGradient id="a" y1="1">
+   <stop stop-color="#01ff01" offset="0"/>
+   <stop stop-color="#1bc100" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path transform="translate(0) scale(1) translate(-.001 -9.2e-5) scale(1) translate(0 .002) scale(.9999)" d="M13.51 12.05a.284.284 0 0 0-.243.429l4.132 6.887a.43.43 0 0 0 .654.12 11.05 11.05 0 0 0 3.944-6.939.43.43 0 0 0-.44-.497z" fill="url(#a)"/>
+ <path transform="translate(0) scale(1) translate(-.001 -9.2e-5) scale(1) translate(0 .002) scale(.9999)" d="M12.56.001a.43.43 0 0 0-.397.445v8.892a.5.5 0 0 0 .5.5h8.893a.43.43 0 0 0 .44-.496A11.08 11.08 0 0 0 12.66.005a.5.5 0 0 0-.1-.004z" fill="url(#b)"/>
+ <path transform="translate(0) scale(1) translate(-.001 -9.2e-5) scale(1) translate(0 .002) scale(.9999)" d="m9.503.001-.05.004C4.273.761.247 5.118.01 10.445c-.012.277-.012.726 0 1.003.255 5.7 4.844 10.29 10.54 10.54.277.012.726.013 1.003 0a11 11 0 0 0 3.746-.848.437.437 0 0 0 .204-.638c-.966-1.64-4.395-7.472-5.322-9.12a10 10 0 0 1-.233-.436V.446A.43.43 0 0 0 9.5.002z" fill="url(#d)"/>
+</svg>

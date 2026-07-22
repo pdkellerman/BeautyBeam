@@ -1,19 +1,20 @@
-<svg fill="none" version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+<svg version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
  <defs>
-  <linearGradient id="c" x1="38" x2="38" y1="158" y2="98" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#FD5900" offset="0"/>
-   <stop stop-color="#FFDE00" offset="1"/>
+  <style>.ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }</style>
+  <linearGradient id="c" y1="1">
+   <stop stop-color="#fd5900" offset="0"/>
+   <stop stop-color="#ffde00" offset="1"/>
   </linearGradient>
-  <linearGradient id="b" x1="128" x2="128" y1="158" y2="98" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#FD3A84" offset="0"/>
-   <stop stop-color="#FFA68D" offset="1"/>
+  <linearGradient id="b" y1="1">
+   <stop stop-color="#fd3a84" offset="0"/>
+   <stop stop-color="#ffa68d" offset="1"/>
   </linearGradient>
-  <linearGradient id="a" x1="218" x2="218" y1="158" y2="98" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#A93AFF" offset="0"/>
-   <stop stop-color="#FF81FF" offset="1"/>
+  <linearGradient id="a" y1="1">
+   <stop stop-color="#a93aff" offset="0"/>
+   <stop stop-color="#ff81ff" offset="1"/>
   </linearGradient>
  </defs>
- <path transform="translate(-.7333 -.7333) scale(.09167)" d="m68 105.5v45c0 4.142-3.358 7.5-7.5 7.5h-45c-4.142 0-7.5-3.358-7.5-7.5v-45c0-4.142 3.358-7.5 7.5-7.5h45c4.142 0 7.5 3.358 7.5 7.5z" fill="url(#c)"/>
- <path transform="translate(-.7333 -.7333) scale(.09167)" d="m158 105.5v45c0 4.142-3.358 7.5-7.5 7.5h-45c-4.142 0-7.5-3.358-7.5-7.5v-45c0-4.142 3.358-7.5 7.5-7.5h45c4.142 0 7.5 3.358 7.5 7.5z" fill="url(#b)"/>
- <path transform="translate(-.7333 -.7333) scale(.09167)" d="m248 105.5v45c0 4.142-3.358 7.5-7.5 7.5h-45c-4.142 0-7.5-3.358-7.5-7.5v-45c0-4.142 3.358-7.5 7.5-7.5h45c4.142 0 7.5 3.358 7.5 7.5z" fill="url(#a)"/>
+ <path transform="translate(0) scale(1) translate(0) scale(1) matrix(2 0 0 2 -4 -6)" d="m11.5 7a1.5 1.5 0 0 0-1.5 1.5 1.5 1.5 0 0 0 1.5 1.5 1.5 1.5 0 0 0 1.5-1.5 1.5 1.5 0 0 0-1.5-1.5z" fill="url(#a)"/>
+ <path transform="translate(0) scale(1) translate(0) scale(1) matrix(2 0 0 2 -4 -6)" d="M 7.5,7 A 1.5,1.5 0 0 0 6,8.5 1.5,1.5 0 0 0 7.5,10 1.5,1.5 0 0 0 9,8.5 1.5,1.5 0 0 0 7.5,7 Z" fill="url(#b)"/>
+ <path transform="translate(0) scale(1) translate(0) scale(1) matrix(2 0 0 2 -4 -6)" d="M 3.5,7 A 1.5,1.5 0 0 0 2,8.5 1.5,1.5 0 0 0 3.5,10 1.5,1.5 0 0 0 5,8.5 1.5,1.5 0 0 0 3.5,7 Z" fill="url(#c)"/>
 </svg>

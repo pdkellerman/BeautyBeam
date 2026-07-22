@@ -9,7 +9,7 @@
    <stop stop-color="#ff69ff" offset="1"/>
   </linearGradient>
  </defs>
- <g transform="translate(0) scale(1) translate(0) scale(1) translate(0) scale(1) translate(0) scale(1) translate(0) scale(1) translate(0 -.00027) scale(.9998) translate(0 .007) scale(.1719)">
+ <g transform="translate(0) scale(1) translate(0) scale(1) translate(0) scale(1) translate(0) scale(1) translate(0) scale(1) translate(0) scale(1) translate(0 -.00027) scale(.9998) translate(0 .007) scale(.1719)">
   <linearGradient id="a" x2=".5" y1=".235" y2="1" gradientTransform="matrix(0 -113.5 128 0 0 120.7)" gradientUnits="userSpaceOnUse">
    <stop stop-color="#00f1fa" offset="0"/>
    <stop stop-color="#006cff" offset="1"/>

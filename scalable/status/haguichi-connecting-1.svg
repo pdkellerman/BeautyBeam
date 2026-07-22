@@ -1,5 +1,5 @@
 <svg version="1.0" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
- <path transform="translate(-.7857 -1.571) scale(.1964)" d="m67 8-51 53.85 0.0918 0.09766-0.0918 0.05664v4l18 19 19.07-18.85 50.93-54.15v-4h-37z" fill="#ffac82" opacity=".5"/>
- <path transform="translate(-.7857 -1.571) scale(.1964)" d="m66.93 120h37.07v-4l-70-35-4e-6 4z" fill="#d90c01"/>
- <path transform="translate(-.7857 -1.571) scale(.1964)" d="m66.93 116h37.07l-47.7-50.75-22.4 15.73z" fill="#fe3333"/>
+ <path transform="translate(0) scale(1) translate(1e-4 -2e-4) scale(1) translate(-.7857 -1.571) scale(.1964)" d="m67 8-51 53.85 0.0918 0.09766-0.0918 0.05664v4l18 19 19.07-18.85 50.93-54.15v-4h-37z" fill="#ffac82" opacity=".5"/>
+ <path transform="translate(0) scale(1) translate(1e-4 -2e-4) scale(1) translate(-.7857 -1.571) scale(.1964)" d="m66.93 120h37.07v-4l-70-35-4e-6 4z" fill="#d90c01"/>
+ <path transform="translate(0) scale(1) translate(1e-4 -2e-4) scale(1) translate(-.7857 -1.571) scale(.1964)" d="m66.93 116h37.07l-47.7-50.75-22.4 15.73z" fill="#fe3333"/>
 </svg>

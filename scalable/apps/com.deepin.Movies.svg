@@ -1,10 +1,1 @@
-<svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
- <defs>
-  <linearGradient id="a" y1=".5" y2=".5">
-   <stop stop-color="#00ff6f" offset="0"/>
-   <stop stop-color="#1eff01" offset="1"/>
-  </linearGradient>
- </defs>
- <path transform="translate(0) scale(1) translate(0) scale(1)" d="m32 0a32 32 0 1 0 32 32 32.03 32.03 0 0 0-32-32zm1.15 7.139a24.89 24.89 0 0 1 23.74 24.86 24.92 24.92 0 0 1-24.89 24.89 24.89 24.89 0 1 1 1.15-49.75z" fill="url(#a)"/>
- <path transform="translate(0) scale(1)" d="m26.13 17.78a5.206 5.206 0 0 0-2.602 0.7012 5.206 5.206 0 0 0-2.604 4.504v18.04a5.206 5.206 0 0 0 7.809 4.506l15.62-9.018a5.206 5.206 0 0 0 0-9.006l-15.62-9.018a5.206 5.206 0 0 0-2.604-0.7012z" fill="url(#a)"/>
-</svg>
+deepin-movie.svg

@@ -5,6 +5,6 @@
    <stop stop-color="#ff115a" offset="1"/>
   </linearGradient>
  </defs>
- <path transform="translate(-.00097) scale(1) matrix(.1964 0 0 .1964 -.7857 -1.571)" d="m104 7.999-88 54v3.998l18 19 32.93 35h37.07v-3.998l-67.32-33.65 16.38-16.2 50.94-54.15z" fill="#7B1113"/>
- <path transform="translate(-.00097) scale(1) matrix(.1964 0 0 .1964 -.7857 -1.571)" d="m67 7.999-51 53.85 17.95 19.1-0.04972 0.02983 33.03 35.01h37.07l-47.7-50.74-22 15.45 18.77-18.86 50.94-53.85z" fill="url(#a)"/>
+ <path transform="translate(0) scale(1) translate(.00087 .001994) scale(1) translate(-.00097) scale(1) matrix(.1964 0 0 .1964 -.7857 -1.571)" d="m104 7.999-88 54v3.998l18 19 32.93 35h37.07v-3.998l-67.32-33.65 16.38-16.2 50.94-54.15z" fill="#7B1113"/>
+ <path transform="translate(0) scale(1) translate(.00087 .001994) scale(1) translate(-.00097) scale(1) matrix(.1964 0 0 .1964 -.7857 -1.571)" d="m67 7.999-51 53.85 17.95 19.1-0.04972 0.02983 33.03 35.01h37.07l-47.7-50.74-22 15.45 18.77-18.86 50.94-53.85z" fill="url(#a)"/>
 </svg>

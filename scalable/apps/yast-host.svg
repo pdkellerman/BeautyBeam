@@ -23,7 +23,7 @@
   <linearGradient id="e" x1="14" x2="14" y1="5" y2="7" gradientUnits="userSpaceOnUse" xlink:href="#d"/>
   <linearGradient id="c" x1="3.162" x2="6.325" y1="11.07" y2="7.906" gradientTransform="scale(1.581 .6325)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
  </defs>
- <g transform="translate(0) scale(1) translate(0) scale(1) matrix(-1 0 0 1 64 0)">
+ <g transform="translate(0) scale(1) translate(0) scale(1) translate(0) scale(1) translate(0) scale(1) translate(0) scale(1) translate(0) scale(1) matrix(-1 0 0 1 64 0)">
   <path transform="matrix(3.2,0,0,3.2,-6.4,-6.4)" d="m5 2a3 3 0 0 0-3 3v2a3 3 0 0 0 0.78 2 3 3 0 0 0-0.78 2v2a3 3 0 0 0 0.78 2 3 3 0 0 0-0.78 2v2a3 3 0 0 0 3 3h14a3 3 0 0 0 3-3v-2a3 3 0 0 0-0.78-2 3 3 0 0 0 0.78-2v-2a3 3 0 0 0-0.78-2 3 3 0 0 0 0.78-2v-2a3 3 0 0 0-3-3zm0 2h14a1 1 0 0 1 1 1v2a1 1 0 0 1-1 1h-14a1 1 0 0 1-1-1v-2a1 1 0 0 1 1-1m0 6h14a1 1 0 0 1 1 1v2a1 1 0 0 1-1 1h-14a1 1 0 0 1-1-1v-2a1 1 0 0 1 1-1m0 6h14a1 1 0 0 1 1 1v2a1 1 0 0 1-1 1h-14a1 1 0 0 1-1-1v-2a1 1 0 0 1 1-1" fill="url(#m)"/>
   <path transform="matrix(3.2,0,0,3.2,-6.4,-6.4)" d="m18 17a1 1 0 1 0 1 1 1 1 0 0 0-1-1" fill="url(#l)"/>
   <path transform="matrix(3.2,0,0,3.2,-6.4,-6.4)" d="m15 17a1 1 0 1 0 1 1 1 1 0 0 0-1-1" fill="url(#k)"/>

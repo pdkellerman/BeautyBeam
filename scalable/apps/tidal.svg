@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><defs><linearGradient id="a" y2="1"><stop offset="0" stop-color="#d300dc"/><stop offset="1" stop-color="#8700ff"/></linearGradient></defs><path fill="url(#a)" d="m21.32 23.32-5.332 5.332 5.332 5.332 5.33-5.332zm5.33 5.332 5.332 5.332-5.33 5.332 5.332 5.33 5.332-5.33-5.332-5.332 5.33-5.332-5.332-5.332zm16-5.332-5.33 5.332 5.33 5.332 5.332-5.332z" transform="translate(-31.982 -35.98)scale(2.0004)"/></svg>
+<svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="a" x1="1" x2="0" y1=".5" y2=".5">
+   <stop stop-color="#5433ff" offset="0"/>
+   <stop stop-color="#e948ff" offset=".33"/>
+   <stop stop-color="#f91284" offset=".67"/>
+   <stop stop-color="#faf74b" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path transform="translate(-.002501 .00075) scale(1) translate(.009863 -1.993) scale(.2499)" d="m128 43.98a12 12 0 0 0-8.5 3.529l-31.49 31.49-29.51-29.49a12 12 0 0 0-17 0l-38 38a12 12 0 0 0 0 17l38 38a12 12 0 0 0 17 0l29.51-29.51 23 23-31.49 31.51a12 12 0 0 0 0 17l40 40a12 12 0 0 0 17 0l40-40a12 12 0 0 0 0-17l-31.51-31.51 23-23 29.51 29.52a12 12 0 0 0 17 0l38-38a12 12 0 0 0-0.0195-17.01l-38-38a12 12 0 0 0-17 0l-29.49 29.49-31.51-31.49a12 12 0 0 0-8.5-3.529zm0.00977 29.02 23 23-23 23-23-23zm-78 2 21 21-21 21-21-21zm156 0 21 21-21 21-21-21zm-78 78 23 23-23 23-23-23z" fill="url(#a)"/>
+</svg>

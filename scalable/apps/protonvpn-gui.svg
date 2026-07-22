@@ -1,1 +1,13 @@
-protonvpn.svg
+<svg style="isolation:isolate" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <linearGradient id="a" transform="translate(-0) scale(1) translate(-0 2e-5) scale(1) translate(.004976 .00177) scale(.9998) translate(-.058 -.058) scale(1.336)" x1=".508" x2=".075" y1="1.06" y2=".049" gradientTransform="matrix(47.91 0 0 44.33 .044 1.835)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#8effee" offset=".066"/>
+  <stop stop-color="#c9c7ff" offset=".45"/>
+  <stop stop-color="#7341ff" offset="1"/>
+ </linearGradient>
+ <path transform="translate(-0) scale(1) translate(-0 2e-5) scale(1) translate(.004976 .00177) scale(.9998) translate(-.058 -.058) scale(1.336)" d="m36.64 28.24-9.779 14.52c-3.239 4.808-7.934 4.483-10.48-.726l-15.37-31.46c-2.545-5.209.084-9.113 5.868-8.713l34.93 2.418c5.784.401 7.85 4.63 4.612 9.438l-9.78 14.52zm6.285-18.66c-.01.07-.03.13-.06.19-.14.4-.33.77-.56 1.12-.01.01-.02.02-.03.04l-19.56 29.04-.06.09a3.8 3.8 0 0 1-.95 1.01c-.09-.08-.17-.18-.25-.27q-.33-.435-.57-.93c0-.01-.01-.02-.01-.03l-7.69-15.73-7.68-15.73c-.01-.01-.01-.02-.02-.03-.16-.32-.28-.66-.37-1-.04-.13-.06-.26-.07-.39.3-.08.61-.13.93-.13l.64.03 17.38 1.2 17.47 1.21h.05a4.6 4.6 0 0 1 1.41.31" fill="url(#a)" fill-rule="evenodd"/>
+ <linearGradient id="c" transform="translate(-0) scale(1) translate(-0 2e-5) scale(1) translate(.004976 .00177) scale(.9998) translate(-.058 -.058) scale(1.336)" x1=".552" x2=".415" y1=".109" y2=".723" gradientTransform="matrix(29.23 0 0 24.43 2.489 13.59)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#882ae9" offset="0"/>
+  <stop stop-color="#34eceb" offset="1"/>
+ </linearGradient>
+ <path transform="translate(-0) scale(1) translate(-0 2e-5) scale(1) translate(.004976 .00177) scale(.9998) translate(-.058 -.058) scale(1.336)" d="M13.46 36.05 2.48 13.59l26.3.241c2.759.026 3.74 1.899 2.188 4.181l-12.51 18.4c-1.551 2.282-3.795 2.122-5.006-.357zm2.906-5.444-5.84-11.94 13.87.12z" fill="url(#c)" fill-rule="evenodd"/>
+</svg>

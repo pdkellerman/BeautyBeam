@@ -1,10 +1,9 @@
 <svg version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
  <defs>
-  <linearGradient id="a" x2="0" y1="1">
-   <stop stop-color="#01ff01" offset="0"/>
-   <stop stop-color="#1bc100" offset="1"/>
+  <linearGradient id="a" x2="0" y2="1">
+   <stop stop-color="#01ff4d" offset="0"/>
+   <stop stop-color="#2fff00" offset="1"/>
   </linearGradient>
  </defs>
- <path transform="translate(0) scale(1) translate(0) scale(1) translate(0) scale(1) translate(0) scale(1) translate(-7.8e-5 -.00036) scale(1) translate(-.000497 .00084) scale(.9999)" d="m2.297 4.211c-0.5872-3.68e-5 -1.173 0.223-1.623 0.6719-0.8979 0.8979-0.8979 2.351 0 3.248l0.6465 0.6445c0.07223 0.07224 0.1694 0.1151 0.2715 0.1191l5.568 0.2188c0.3693 0.01451 0.5643-0.4322 0.3027-0.6934l-2.227-2.223-1.316-1.314c-0.4489-0.4487-1.035-0.6719-1.623-0.6719z" fill="url(#a)" opacity=".5"/>
- <path transform="translate(0) scale(1) translate(0) scale(1) translate(0) scale(1) translate(0) scale(1) translate(-7.8e-5 -.00036) scale(1) translate(-.000497 .00084) scale(.9999)" d="m19.71 4.211c-0.5879-0.00156-1.174 0.2188-1.617 0.6621l-5.816 5.818c-0.7923 0.7924-2.078 0.7918-2.871 0l-0.6484-0.6484c-0.07222-0.07217-0.1695-0.1151-0.2715-0.1191l-5.57-0.2168c-0.3692-0.01452-0.564 0.4302-0.3027 0.6914l6.795 6.797c0.1874 0.1877 0.411 0.3378 0.6562 0.4394 0.2449 0.1016 0.5065 0.1543 0.7715 0.1543 0.2652 0 0.5284-0.05263 0.7734-0.1543 0.2446-0.1014 0.4687-0.2516 0.6562-0.4394l9.06-9.064c0.2137-0.2132 0.3845-0.4658 0.5-0.7441 0.1154-0.2785 0.1758-0.5774 0.1758-0.8789s-0.06024-0.6004-0.1758-0.8789c-0.1149-0.2771-0.2843-0.53-0.4961-0.7422-0.444-0.451-1.03-0.6743-1.619-0.6758z" fill="url(#a)"/>
+ <path transform="translate(-0) scale(1) translate(-0) scale(1) translate(-0) scale(1) translate(-0) scale(1) translate(-0) scale(1) translate(-0) scale(1) translate(-0) scale(1) translate(-0) scale(1) translate(-0) scale(1) translate(-3e-6 1e-5) scale(1) translate(.01476 .00053) scale(.9997) translate(-12.8 -14.38) scale(2.157)" d="m14.97 8.611a1.178 1.178 0 0 0-0.8789 0.377l-3.098 3.094-3.096-3.094a1.178 1.178 0 0 0-1.664 1.664l3.928 3.928a1.178 1.178 0 0 0 1.664 0l3.928-3.928a1.178 1.178 0 0 0-0.7812-2.041z" fill="url(#a)"/>
 </svg>

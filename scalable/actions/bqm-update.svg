@@ -5,5 +5,5 @@
    <stop stop-color="#ff0080" offset="1"/>
   </linearGradient>
  </defs>
- <path transform="translate(0) scale(1) translate(0) scale(1) translate(0) scale(1) translate(0) scale(1) translate(0) scale(1) translate(3e-5) scale(1) translate(-.002659 -.001531) scale(.9997) translate(-9.625 -9.537) scale(1.868)" d="m10.92 5.109a1.178 1.178 0 0 0-1.098 1.176v6.582l-1.133-1.129a1.178 1.178 0 0 0-1.664 1.664l3.143 3.141a1.178 1.178 0 0 0 1.664 0l3.141-3.141a1.178 1.178 0 1 0-1.662-1.664l-1.133 1.129v-6.582a1.178 1.178 0 0 0-1.258-1.176z" fill="url(#a)"/>
+ <path transform="translate(0) scale(1) translate(0) scale(1) translate(0) scale(1) translate(0) scale(1) translate(0) scale(1) translate(0) scale(1) translate(0) scale(1) translate(0) scale(1) translate(0) scale(1) translate(3e-5) scale(1) translate(-.002659 -.001531) scale(.9997) translate(-9.625 -9.537) scale(1.868)" d="m10.92 5.109a1.178 1.178 0 0 0-1.098 1.176v6.582l-1.133-1.129a1.178 1.178 0 0 0-1.664 1.664l3.143 3.141a1.178 1.178 0 0 0 1.664 0l3.141-3.141a1.178 1.178 0 1 0-1.662-1.664l-1.133 1.129v-6.582a1.178 1.178 0 0 0-1.258-1.176z" fill="url(#a)"/>
 </svg>

@@ -1,7 +1,7 @@
 [Icon Theme]
 Name=BeautyBeam
 Comment=BeautyBeam KDE Plasma Icon Theme
-Inherits=candy-icons,breeze-dark,Adwaita,hicolor
+Inherits=breeze-dark,hicolor
 Example=folder
 DisplayDepth=32
 Hidden=false
@@ -47,13 +47,13 @@ Context=MimeTypes
 Size=16
 Type=Scalable
 MinSize=16
-MaxSize=32
+MaxSize=48
 Context=Places
 
 [48x48/places]
-Size=48
+Size=49
 Type=Scalable
-MinSize=33
+MinSize=49
 MaxSize=512
 Context=Places
 

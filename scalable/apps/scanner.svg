@@ -11,6 +11,6 @@
    <stop stop-color="#ffb243" offset="1"/>
   </linearGradient>
  </defs>
- <path transform="translate(.000231 .000286) scale(1) translate(.000456 -.000321) scale(1) translate(-3.184 -3.211) scale(.5497)" d="M110.6 116.4V11.7a5.82 5.82 0 0 0-5.818-5.818h-81.46a5.82 5.82 0 0 0-5.818 5.818v104.7a5.82 5.82 0 0 0 5.818 5.819h81.46a5.82 5.82 0 0 0 5.818-5.819m-11.64-9.818v-85.09a4 4 0 0 0-4-4H33.14a4 4 0 0 0-4 4v85.09a4 4 0 0 0 4 4h61.82a4 4 0 0 0 4-4" clip-rule="evenodd" fill="url(#a)" fill-rule="evenodd"/>
- <path transform="translate(.000231 .000286) scale(1) translate(.000456 -.000321) scale(1) translate(-3.184 -3.211) scale(.5497)" d="M119.3 40.73H8.7a2.91 2.91 0 0 0-2.909 2.909v5.818A2.91 2.91 0 0 0 8.7 52.366h110.6a2.91 2.91 0 0 0 2.909-2.909v-5.818a2.91 2.91 0 0 0-2.909-2.909" fill="url(#c)"/>
+ <path transform="translate(0) scale(1) translate(.000231 .000286) scale(1) translate(.000456 -.000321) scale(1) translate(-3.184 -3.211) scale(.5497)" d="M110.6 116.4V11.7a5.82 5.82 0 0 0-5.818-5.818h-81.46a5.82 5.82 0 0 0-5.818 5.818v104.7a5.82 5.82 0 0 0 5.818 5.819h81.46a5.82 5.82 0 0 0 5.818-5.819m-11.64-9.818v-85.09a4 4 0 0 0-4-4H33.14a4 4 0 0 0-4 4v85.09a4 4 0 0 0 4 4h61.82a4 4 0 0 0 4-4" clip-rule="evenodd" fill="url(#a)" fill-rule="evenodd"/>
+ <path transform="translate(0) scale(1) translate(.000231 .000286) scale(1) translate(.000456 -.000321) scale(1) translate(-3.184 -3.211) scale(.5497)" d="M119.3 40.73H8.7a2.91 2.91 0 0 0-2.909 2.909v5.818A2.91 2.91 0 0 0 8.7 52.366h110.6a2.91 2.91 0 0 0 2.909-2.909v-5.818a2.91 2.91 0 0 0-2.909-2.909" fill="url(#c)"/>
 </svg>

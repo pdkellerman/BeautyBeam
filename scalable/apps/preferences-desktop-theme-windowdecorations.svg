@@ -1,5 +1,5 @@
 <svg style="isolation:isolate" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
- <g transform="translate(-.00127 -.000925) scale(.9999) translate(-.00116 -4e-6) scale(1) translate(-4.402 -3.137) scale(1.255)">
+ <g transform="translate(0) scale(1) translate(-.00127 -.000925) scale(.9999) translate(-.00116 -4e-6) scale(1) translate(-4.402 -3.137) scale(1.255)">
   <linearGradient id="a" x2="1" y1=".5" y2=".5" gradientTransform="matrix(46.31 0 0 24.15 5.843 29.35)" gradientUnits="userSpaceOnUse">
    <stop stop-color="#d300dc" offset="0"/>
    <stop stop-color="#8700ff" offset="1"/>

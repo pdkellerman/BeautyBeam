@@ -1,1 +1,14 @@
-battery-010.svg
+<svg version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="a" x2="0" y1="1">
+   <stop stop-color="#f00" offset="0"/>
+   <stop stop-color="#ff0086" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path transform="translate(0) scale(1) translate(0) scale(1) translate(0) scale(1) translate(0) scale(1) translate(.0015) scale(1)" d="m8.51 17.7a0.5 0.5 0 0 0-0.5 0.5v0.3008a0.5 0.5 0 0 0 0.5 0.5h5a0.5 0.5 0 0 0 0.5-0.5v-0.3008a0.5 0.5 0 0 0-0.5-0.5z" fill="url(#a)" style=""/>
+ <path transform="translate(0) scale(1) translate(0) scale(1) translate(0) scale(1) translate(0) scale(1) translate(.0015) scale(1) translate(.003 .000955) scale(1)" d="m11.06 0c-0.06667-0.002076-0.1331-7.658e-4 -0.2012 0.003906-0.982 0.06742-1.758 0.8383-1.854 1.799-0.01088 0.1099 0.07905 0.1992 0.1894 0.1992h3.6c0.1105 0 0.2022-0.08936 0.1914-0.1992-0.09811-0.996-0.9255-1.772-1.926-1.803zm-3.064 3c-1.108 0-3 1.892-3 3v13c0 1.108 1.892 3 3 3h6c1.108 0 3-1.892 3-3v-13c0-1.108-1.892-3-3-3zm0 2h6c0.554 0 1 0.446 1 1v13c0 0.554-0.446 1-1 1h-6c-0.554 0-1-0.446-1-1v-13c0-0.554 0.446-1 1-1z" fill="url(#a)"/>
+ <g transform="translate(0) scale(1) matrix(.1244 0 0 .1244 7.032 7.545)" fill="url(#a)">
+  <path transform="matrix(2.285 0 0 2.285 -4.571 -4.571)" d="m16 23a3.5 3.5 0 0 0 0 7 3.5 3.5 0 0 0 0-7z"/>
+  <path transform="matrix(2.285 0 0 2.285 -4.571 -4.571)" d="m15.59 2.014a6 6 0 0 0-5.59 5.986c0 3.522 1.985 8.536 3.16 11.19 0.495 1.12 1.613 1.81 2.84 1.81s2.346-0.6906 2.84-1.81c1.174-2.654 3.16-7.666 3.16-11.19a6 6 0 0 0-6.41-5.986z"/>
+ </g>
+</svg>

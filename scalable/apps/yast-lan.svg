@@ -1,12 +1,12 @@
 <svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
  <defs>
-  <linearGradient id="a" x2="0" y1="1">
-   <stop stop-color="#248efe" offset="0"/>
-   <stop stop-color="#1df4ff" offset=".92"/>
+  <linearGradient id="a" x2="0" y2="1">
+   <stop stop-color="#f0f" offset="0"/>
+   <stop stop-color="#ff0080" offset="1"/>
   </linearGradient>
  </defs>
- <path transform="translate(0) scale(1) translate(0) scale(1) translate(0 -1e-5) scale(1) translate(-.000125 3e-5) scale(1) translate(1.203 1.199) scale(.9623)" d="M48 16c-2.216 0-4 1.784-4 4v16c0 2.216 1.784 4 4 4s4-1.784 4-4V20c0-2.216-1.784-4-4-4" fill="url(#a)"/>
- <path transform="translate(0) scale(1) translate(0) scale(1) translate(0 -1e-5) scale(1) translate(-.000125 3e-5) scale(1) translate(1.203 1.199) scale(.9623)" d="M32 16c-2.216 0-4 1.784-4 4v16c0 2.216 1.784 4 4 4s4-1.784 4-4V20c0-2.216-1.784-4-4-4" fill="url(#a)"/>
- <path transform="translate(0) scale(1) translate(0) scale(1) translate(0 -1e-5) scale(1) translate(-.000125 3e-5) scale(1) translate(1.203 1.199) scale(.9623)" d="M16 16c-2.216 0-4 1.784-4 4v16c0 2.216 1.784 4 4 4s4-1.784 4-4V20c0-2.216-1.784-4-4-4" fill="url(#a)"/>
- <path transform="translate(0) scale(1) translate(0) scale(1) translate(0 -1e-5) scale(1) translate(-.000125 3e-5) scale(1) translate(1.203 1.199) scale(.9623)" d="M12 2.75C4.681 2.75-1.25 8.681-1.25 16v24c0 6.97 5.398 12.62 12.23 13.15.59 4.538 4.321 8.104 9.018 8.104h24c4.696 0 8.428-3.566 9.018-8.104 6.834-.528 12.23-6.176 12.23-13.15V16c0-7.319-5.931-13.25-13.25-13.25h-40zm0 6.5h40A6.71 6.71 0 0 1 58.75 16v24A6.71 6.71 0 0 1 52 46.75 5.25 5.25 135 0 0 46.75 52 2.717 2.717 0 0 1 44 54.75H20A2.717 2.717 0 0 1 17.25 52 5.25 5.25 45 0 0 12 46.75 6.71 6.71 0 0 1 5.25 40V16A6.71 6.71 0 0 1 12 9.25" fill="url(#a)"/>
+ <path transform="translate(0) scale(1) translate(0 -.00275) scale(1) translate(0 -.00175) scale(1)" d="m12.75 3.848c-7.043 0.002133-12.75 5.707-12.75 12.75v23.1c0 6.708 5.196 12.14 11.77 12.65 0.5678 4.366 4.153 7.803 8.674 7.803h23.1c4.521 0 8.108-3.433 8.676-7.803 6.577-0.5082 11.77-5.946 11.77-12.65v-23.1c0-7.043-5.704-12.75-12.75-12.75h-38.48zm-0.0098 6.254h38.5a6.458 6.458 0 0 1 6.498 6.492v23.1a6.458 6.458 0 0 1-6.498 6.498 5.053 5.053 0 0 0-5.051 5.051 2.615 2.615 0 0 1-2.646 2.646h-23.1a2.615 2.615 0 0 1-2.646-2.646 5.053 5.053 0 0 0-5.051-5.051 6.458 6.458 0 0 1-6.492-6.498v-23.1a6.458 6.458 0 0 1 6.492-6.492z" fill="url(#a)"/>
+ <path transform="translate(0) scale(1) translate(0 -.00275) scale(1) translate(0 -.00175) scale(1)" d="m47.38 16.6c-2.132 0-3.846 1.719-3.846 3.852v15.4c0 2.132 1.713 3.852 3.846 3.852s3.852-1.719 3.852-3.852v-15.4c0-2.132-1.719-3.852-3.852-3.852z" fill="url(#a)"/>
+ <path transform="translate(0) scale(1) translate(0 -.00275) scale(1) translate(0 -.00175) scale(1)" d="m32 16.6c-2.132 0-3.852 1.719-3.852 3.852v15.4c0 2.132 1.719 3.852 3.852 3.852s3.852-1.719 3.852-3.852v-15.4c0-2.132-1.719-3.852-3.852-3.852z" fill="url(#a)"/>
+ <path transform="translate(0) scale(1) translate(0 -.00275) scale(1) translate(0 -.00175) scale(1)" d="m16.6 16.6c-2.132 0-3.852 1.719-3.852 3.852v15.4c0 2.132 1.719 3.852 3.852 3.852 2.132 0 3.852-1.719 3.852-3.852v-15.4c0-2.132-1.719-3.852-3.852-3.852z" fill="url(#a)"/>
 </svg>

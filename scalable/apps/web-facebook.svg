@@ -1,1 +1,10 @@
-facebook.svg
+<svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="a" y1="1">
+   <stop stop-color="#5433ff" offset="0"/>
+   <stop stop-color="#0bbdff" offset=".517"/>
+   <stop stop-color="#a5fecb" offset=".983"/>
+  </linearGradient>
+ </defs>
+ <path transform="translate(5e-4) scale(1) translate(-4.364 -2.909) scale(2.909)" d="M15 1c-3.302 0-6 2.698-6 6v2H7a1 1 0 0 0-1 1v4a1 1 0 0 0 1 1h2v7a1 1 0 0 0 1 1h4a1 1 0 0 0 1-1v-7h2a1 1 0 0 0 .97-.758l1-4A1 1 0 0 0 18 9h-3V7h3a1 1 0 0 0 1-1V2a1 1 0 0 0-1-1zm0 2h2v2h-2c-1.093 0-2 .907-2 2v3a1 1 0 0 0 1 1h2.719l-.5 2H14a1 1 0 0 0-1 1v7h-2v-7a1 1 0 0 0-1-1H8v-2h2a1 1 0 0 0 1-1V7c0-2.221 1.779-4 4-4" fill="url(#a)"/>
+</svg>

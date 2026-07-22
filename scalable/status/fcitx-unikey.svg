@@ -1,9 +1,1 @@
-<svg version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
- <defs>
-  <linearGradient id="a" y1="1">
-   <stop stop-color="#0061ff" offset="0"/>
-   <stop stop-color="#60efff" offset="1"/>
-  </linearGradient>
- </defs>
- <path transform="translate(-.000237 -.002) scale(1) translate(-37.4 .002) scale(4.4)" d="M9 0s-.333 0-.333.333v2c0 .333.333.333.333.333h.667v2S9.667 5 10 5h2c.333 0 .333-.333.333-.333v-2H13s.333 0 .333-.333v-2C13.333 0 13 0 13 0h-2zm0 .333h2v2H9zm2.333 0H13v2h-1.667zm-2 .333v.5c0 .269.04.474.162.625S9.805 2 10 2s.384-.057.505-.208c.12-.15.161-.356.161-.625v-.5h-.333v.5c0 .232-.042.36-.088.417-.047.057-.106.083-.245.083s-.199-.026-.245-.083-.089-.185-.089-.417v-.5zm2.667 0V2h.333V.666zm-2 2h2v2h-2zm.667.333h-.334v1.333h.334V3.5l.666.832h.334V3h-.334v.833z" fill="url(#a)"/>
-</svg>
+ime-unikey.svg

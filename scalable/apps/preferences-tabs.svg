@@ -1,12 +1,8 @@
-<svg fill="none" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs>
   <linearGradient id="a" x1="64" x2="110" y1="113" y2="32" gradientUnits="userSpaceOnUse">
    <stop stop-color="#fd3d00" offset="0"/>
    <stop stop-color="#ffe600" offset="1"/>
-  </linearGradient>
-  <linearGradient id="b" x1="106" x2="106" y1="30.97" y2="18.5" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#ffe59a" offset="0"/>
-   <stop stop-color="#ffffd5" offset="1"/>
   </linearGradient>
   <linearGradient id="e" x1="36" x2="36" y1="36.82" y2="15" gradientUnits="userSpaceOnUse">
    <stop stop-color="#ffe59a" offset="0"/>
@@ -16,10 +12,12 @@
    <stop stop-color="#fd000f" offset="0"/>
    <stop stop-color="#ffde00" offset="1"/>
   </linearGradient>
+  <linearGradient id="c" x1="22" x2="22" y1="32.5" y2="18.5" gradientTransform="matrix(.5714 0 0 .5714 13.43 -2.571)" gradientUnits="userSpaceOnUse" xlink:href="#f"/>
+  <linearGradient id="b" x1="22" x2="22" y1="32.5" y2="18.5" gradientTransform="matrix(.5714 0 0 .5714 -2.569 -2.571)" gradientUnits="userSpaceOnUse" xlink:href="#f"/>
  </defs>
- <path transform="translate(0 .0011) scale(1) translate(0 -1e-4) scale(.9998)" d="M0 12.002h64.01v2H0z" fill="#3daee9"/>
- <path transform="translate(0 .0011) scale(1) translate(0 -1e-4) scale(.9998) translate(-4.572 -4.572) scale(.5715)" d="M15 15a7 7 0 0 0-7 7v84a7 7 0 0 0 7 7h98a7 7 0 0 0 7-7V22a7 7 0 0 0-7-7zm10.5 24.5a7 7 0 0 0-7 7v46.67a7 7 0 0 0 7 7h77a7 7 0 0 0 7-7V46.5a7 7 0 0 0-7-7z" clip-rule="evenodd" fill="url(#a)" fill-rule="evenodd"/>
- <path transform="translate(0 .0011) scale(1) translate(0 -1e-4) scale(.9998) translate(-4.572 -4.572) scale(.5715)" d="m113 25.5a7 7 0 1 0-14 0 7 7 0 0 0 14 0" fill="url(#b)"/>
- <path transform="translate(0 .0011) scale(1) translate(0 -1e-4) scale(.9998) translate(-4.572 -4.572) scale(.5715)" d="M8 26.27c0-3.986 0-5.98.788-7.497a7 7 0 0 1 2.985-2.985C13.29 15 15.283 15 19.27 15H64v24.5H8z" fill="url(#e)"/>
- <path transform="translate(0 .0011) scale(1) translate(0 -1e-4) scale(.9998) translate(-4.572 -4.572) scale(.5715)" d="m29 25.5a7 7 0 1 0-14 0 7 7 0 0 0 14 0" fill="url(#f)"/>
+ <path transform="translate(0) scale(1) translate(0 .0011) scale(1) translate(0 -1e-4) scale(.9998)" d="M0 12.002h64.01v2H0z" fill="#3daee9"/>
+ <path transform="translate(0) scale(1) translate(0 .0011) scale(1) translate(0 -1e-4) scale(.9998) translate(-4.572 -4.572) scale(.5715)" d="M15 15a7 7 0 0 0-7 7v84a7 7 0 0 0 7 7h98a7 7 0 0 0 7-7V22a7 7 0 0 0-7-7zm10.5 24.5a7 7 0 0 0-7 7v46.67a7 7 0 0 0 7 7h77a7 7 0 0 0 7-7V46.5a7 7 0 0 0-7-7z" clip-rule="evenodd" fill="url(#a)" fill-rule="evenodd"/>
+ <path transform="translate(0) scale(1)" d="m62 12a4 4 0 1 0-7.999 0 4 4 0 0 0 7.999 0" fill="url(#b)" stroke-width=".5714"/>
+ <path transform="translate(0) scale(1) translate(0 .0011) scale(1) translate(0 -1e-4) scale(.9998) translate(-4.572 -4.572) scale(.5715)" d="M8 26.27c0-3.986 0-5.98.788-7.497a7 7 0 0 1 2.985-2.985C13.29 15 15.283 15 19.27 15H64v24.5H8z" fill="url(#e)"/>
+ <path transform="translate(0) scale(1)" d="m30 12a4 4 0 1 0-7.999 0 4 4 0 0 0 7.999 0" fill="url(#c)" stroke-width=".5714"/>
 </svg>

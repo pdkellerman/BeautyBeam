@@ -1,1 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22"><g fill="#00dfff"><path d="M19.07 0a.73.73 0 0 0-.734.734v20.535c0 .407.327.734.733.734h1.467a.73.73 0 0 0 .734-.734V.734A.73.73 0 0 0 20.536 0zm-4.401 4.4a.73.73 0 0 0-.734.734V21.27c0 .407.327.734.734.734h1.467a.73.73 0 0 0 .733-.734V5.134a.73.73 0 0 0-.733-.733z" opacity=".35"/><path d="M10.268 8.801a.73.73 0 0 0-.733.734v11.734c0 .407.327.734.733.734h1.467a.73.73 0 0 0 .733-.734V9.535a.73.73 0 0 0-.733-.734zm-4.4 4.4a.73.73 0 0 0-.734.734v7.334c0 .407.327.734.734.734h1.467a.73.73 0 0 0 .733-.734v-7.334a.73.73 0 0 0-.733-.733zm-4.4 4.401a.73.73 0 0 0-.734.734v2.933c0 .407.327.734.733.734h1.467a.73.73 0 0 0 .733-.734v-2.933a.73.73 0 0 0-.733-.734z"/></g></svg>
+<svg version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style>.ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }</style>
+  <linearGradient id="a" x2="0" y2="1">
+   <stop stop-color="#f0f" offset="0"/>
+   <stop stop-color="#ff0080" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path transform="translate(0) scale(1) translate(8e-4) scale(1) translate(.000408) scale(1) matrix(1.571 0 0 1.571 -1.573 -1.571)" d="m2.004 12.99c-0.554 0-1.002 0.449-1.002 1.002 0 0.554 0.448 1.004 1.002 1.004 0.552 0 1.002-0.4499 1.002-1.004 0-0.553-0.45-1.002-1.002-1.002z" fill="url(#a)"/>
+ <path transform="translate(0) scale(1) translate(8e-4) scale(1) translate(.000408) scale(1) matrix(1.571 0 0 1.571 -1.573 -1.571)" d="m4.903 9.892c-0.552 0-0.9983 0.4498-0.9983 1.001v3.107c0 0.552 0.4463 0.9996 0.9983 0.9996 0.551 0 0.9996-0.4476 0.9996-0.9996v-3.107c0-0.551-0.4486-1.001-0.9996-1.001z" fill="url(#a)"/>
+ <path transform="translate(0) scale(1) translate(8e-4) scale(1) translate(.000408) scale(1) matrix(1.571 0 0 1.571 -1.573 -1.571)" d="m7.999 6.658c-0.552 0-0.9971 0.4476-0.9971 0.9996v6.343c0 0.552 0.4451 0.9996 0.9971 0.9996 0.551 0 1.001-0.4476 1.001-0.9996v-6.343c0-0.552-0.4498-0.9996-1.001-0.9996z" fill="url(#a)"/>
+ <path transform="translate(0) scale(1) translate(8e-4) scale(1) translate(.000408) scale(1) matrix(1.571 0 0 1.571 -1.573 -1.571)" d="m11.12 3.58c-0.553 0-1.001 0.4498-1.001 1.001v9.42c-1e-6 0.552 0.4478 0.9996 1.001 0.9996 0.551 0 0.9996-0.4476 0.9996-0.9996v-9.42c-1e-6 -0.551-0.4486-1.001-0.9996-1.001z" fill="url(#a)" opacity=".3"/>
+ <path transform="translate(0) scale(1) translate(8e-4) scale(1) translate(.000408) scale(1) matrix(1.571 0 0 1.571 -1.573 -1.571)" d="m14 1c-0.552 0-0.9983 0.4476-0.9983 0.9996v12c0 0.552 0.4463 0.9996 0.9983 0.9996 0.551 0 0.9996-0.4476 0.9996-0.9996v-12c0-0.552-0.4486-0.9996-0.9996-0.9996z" fill="url(#a)" opacity=".3"/>
+</svg>

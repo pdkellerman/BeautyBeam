@@ -19,7 +19,7 @@
    <stop stop-color="#f40631" offset="1"/>
   </linearGradient>
  </defs>
- <g transform="translate(0) scale(1) translate(0) scale(1) translate(-9.1e-5 -1e-4) scale(.9999) translate(-.005028 .01753) scale(.9991) translate(-1.574 -1.534) scale(.5248)">
+ <g transform="translate(0) scale(1) translate(0) scale(1) translate(0) scale(1) translate(-9.1e-5 -1e-4) scale(.9999) translate(-.005028 .01753) scale(.9991) translate(-1.574 -1.534) scale(.5248)">
   <path d="M56.4 43.35 30.15 69.6z" fill="url(#a)"/>
   <path d="m65.85 44.4 23.1 22.05z" fill="url(#b)"/>
   <mask id="f" fill="#fff">

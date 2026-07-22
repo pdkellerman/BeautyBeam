@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><defs><linearGradient id="a" x2="0" y2="1"><stop offset="0" stop-color="#ffc100"/><stop offset="1" stop-color="#ff0069"/></linearGradient></defs><g fill="url(#a)" stroke-width=".727" transform="scale(.9999)"><path d="M1.532 6.267a1.46 1.46 0 0 0-1.182.506 1.455 1.455 0 0 0 .158 2.05l6.546 5.612a1.455 1.455 0 0 0 1.892 0l6.546-5.611a1.455 1.455 0 0 0 .157-2.051 1.455 1.455 0 0 0-2.05-.158l-5.6 4.8-5.6-4.8a1.46 1.46 0 0 0-.868-.348z"/><path d="M1.532 1.218a2 2 0 0 0-.19.001 1.46 1.46 0 0 0-.992.505 1.455 1.455 0 0 0 .158 2.05l6.546 5.61a1.455 1.455 0 0 0 1.892 0l6.546-5.61a1.455 1.455 0 0 0 .157-2.05 1.455 1.455 0 0 0-2.05-.158L8 6.365 2.4 1.566a1.46 1.46 0 0 0-.868-.348z"/></g></svg>
+<svg version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="a" y1="1">
+   <stop stop-color="#ffab00" offset="0"/>
+   <stop stop-color="#ff4b2b" offset=".5"/>
+   <stop stop-color="#ff004c" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path transform="translate(0) scale(1) translate(0) scale(1) translate(0 1e-5) scale(1) translate(.00155 .00028) scale(.9999) translate(1.287 1.275) scale(.8412)" d="m14.2 1.549c-0.9358-0.01242-1.834 0.3693-2.477 1.049l0.01758-0.01953-3.799 3.793-3.797-3.793a1.5 1.5 0 0 0-0.05078-0.04883c-0.7073-0.6427-1.64-0.9543-2.486-0.8887-0.8465 0.06565-1.585 0.45-2.133 0.998-0.5481 0.5481-0.9324 1.284-0.998 2.131-0.06565 0.8465 0.2459 1.781 0.8887 2.488a1.5 1.5 0 0 0 0.04883 0.05078l6.16 6.164a1.5 1.5 0 0 0 0.00195 0c1.294 1.291 3.434 1.291 4.729 0a1.5 1.5 0 0 0 2e-3 0l6.123-6.125 0.02148-0.02148c1.035-0.9808 1.268-2.467 0.8242-3.627-0.4468-1.167-1.624-2.123-3.062-2.15a1.5 1.5 0 0 0-0.0039 0 1.5 1.5 0 0 0-0.0098 0zm-0.01953 1.5h0.0039a1.848 1.848 0 0 1 1.225 3.201l-6.162 6.16a1.848 1.848 0 0 1-2.609 0l-6.162-6.16a1.848 1.848 0 0 1 2.611-2.611l4.855 4.854 4.859-4.854a1.848 1.848 0 0 1 1.379-0.5898z" fill="#1e1e1e" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" style="paint-order:stroke fill markers"/>
+ <path transform="translate(0) scale(1) translate(0) scale(1) translate(0 1e-5) scale(1) translate(.00155 .00028) scale(.9999) translate(1.287 1.275) scale(.8412)" d="m14.18 3.049a1.848 1.848 0 0 0-1.379 0.5898l-4.859 4.854-4.855-4.854a1.848 1.848 0 0 0-2.611 2.611l6.162 6.16a1.848 1.848 0 0 0 2.609 0l6.162-6.16a1.848 1.848 0 0 0-1.225-3.201z" fill="url(#a)" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" style="paint-order:stroke fill markers"/>
+</svg>

@@ -1,10 +1,16 @@
 <svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
- <title>folder-</title>
  <defs>
-  <linearGradient id="a" x1="12.68" x2="35.35" y1="37.31" y2="15.9" gradientTransform="translate(-6.832 -8.434)scale(.6176)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#fd2e00" offset="0"/>
-   <stop stop-color="#f90" offset="1"/>
+  <linearGradient id="a" x1="1" x2="0" y2="1">
+   <stop stop-color="#00ffe0" offset="0"/>
+   <stop stop-color="#19ffff" offset=".5"/>
+   <stop stop-color="#00ff85" offset="1"/>
+  </linearGradient>
+  <linearGradient id="b" x2="0" y2="1">
+   <stop stop-color="#fabd2f" offset="0"/>
+   <stop stop-color="#fe8019" offset=".5"/>
+   <stop stop-color="#d65d0e" offset="1"/>
   </linearGradient>
  </defs>
- <path class="ColorScheme-Text" transform="translate(0 -2e-5) scale(1) translate(-.00046 -.00049) scale(.9999) translate(.00046 .00178) scale(1) translate(-4.572 -4.571) scale(4.572)" d="m1 1.389 7.389 7V3.722zm7.778 2.333L15 6.574l-1.556-2.852zm0 .433v4.234l2.991-2.852zM6.843 7.61l-5.065 7L8 8.778z" fill="url(#a)" style="isolation:isolate"/>
+ <path transform="translate(-25 -24.99) scale(1.781) translate(.009199 .009599) scale(.9999) translate(.00081 .000494)" d="m14.56 15.73v0.0039c-0.4439 4e-3 -0.7291 0.5737-0.3691 0.9336l17.99 17.99a0.5439 0.5439 0 0 0 0.9297-0.3848v-11.51a0.5399 0.5399 0 0 0-0.3594-0.5098l-17.99-6.486a0.5999 0.5999 0 0 0-0.2012-0.03711zm20.39 7.523a0.5439 0.5439 0 0 0-0.5645 0.543v9.9c0 0.4759 0.57 0.7215 0.918 0.3945l7.104-6.668a0.5439 0.5439 0 0 0-0.1484-0.8926l-7.102-3.229a0.4999 0.4999 0 0 0-0.2051-0.04883zm-6.59 9.729v2e-3l-0.0098 0.0078a0.5399 0.5399 0 0 0-0.457 0.2891l-7.504 14.17c-0.2929 0.5519 0.4233 1.077 0.8652 0.6367l10.9-10.9a0.5439 0.5439 0 0 0-0.0078-0.7754l-3.381-3.277a0.5399 0.5399 0 0 0-0.4043-0.1523z" fill="url(#a)"/>
+ <path transform="translate(-25 -24.99) scale(1.781) translate(.009199 .009599) scale(.9999) translate(.00081 .000494)" d="m38.78 22.48c-0.5859 0-0.7566 0.7991-0.2227 1.039l10.64 4.779a0.5439 0.5439 0 0 0 0.7109-0.7344l-2.338-4.779a0.5399 0.5399 0 0 0-0.4883-0.3047z" fill="url(#b)"/>
 </svg>

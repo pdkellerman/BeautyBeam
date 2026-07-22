@@ -9,7 +9,7 @@
    <stop stop-color="#00f7ff" offset="1"/>
   </linearGradient>
  </defs>
- <path transform="translate(-0) scale(1) translate(-.002 .002) scale(1) matrix(1.684 0 0 1.684 -21.89 -20.21)" d="m32 32c-0.2712 1.398-0.6284 6.741-4 8-2.402 0.897-9.997 2.033-10 5-0.0036 3.267 4.448 5 14 5s14-1.733 14-5c-0.0032-2.967-7.598-4.103-10-5-3.372-1.259-3.729-6.602-4-8z" fill="url(#b)"/>
- <path transform="translate(-0) scale(1) translate(-.002 .002) scale(1) translate(-21.89 -20.21) scale(1.684)" d="m32 12a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4z" fill="url(#a)"/>
- <path transform="translate(-0) scale(1) translate(-.002 .002) scale(1) translate(-21.89 -20.21) scale(1.684)" d="m32 24a2.5 2.5 0 0 0-2.5 2.5 2.5 2.5 0 0 0 2.5 2.5 2.5 2.5 0 0 0 2.5-2.5 2.5 2.5 0 0 0-2.5-2.5z" fill="url(#a)"/>
+ <path transform="translate(-0) scale(1) translate(-0) scale(1) translate(-.002 .002) scale(1) matrix(1.684 0 0 1.684 -21.89 -20.21)" d="m32 32c-0.2712 1.398-0.6284 6.741-4 8-2.402 0.897-9.997 2.033-10 5-0.0036 3.267 4.448 5 14 5s14-1.733 14-5c-0.0032-2.967-7.598-4.103-10-5-3.372-1.259-3.729-6.602-4-8z" fill="url(#b)"/>
+ <path transform="translate(-0) scale(1) translate(-0) scale(1) translate(-.002 .002) scale(1) translate(-21.89 -20.21) scale(1.684)" d="m32 12a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4z" fill="url(#a)"/>
+ <path transform="translate(-0) scale(1) translate(-0) scale(1) translate(-.002 .002) scale(1) translate(-21.89 -20.21) scale(1.684)" d="m32 24a2.5 2.5 0 0 0-2.5 2.5 2.5 2.5 0 0 0 2.5 2.5 2.5 2.5 0 0 0 2.5-2.5 2.5 2.5 0 0 0-2.5-2.5z" fill="url(#a)"/>
 </svg>

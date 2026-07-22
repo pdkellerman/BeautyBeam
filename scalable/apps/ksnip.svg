@@ -1,1 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><path d="m47.248 33.526 15.24-15.24h-15.24z" opacity=".2"/><path fill="#005680" d="m47.248 30.478 15.24-15.24h-15.24z"/><path fill="#f02e00" d="M16.768 12.19h15.24v38.405h-15.24z"/><path d="m1.528 3.046 30.48 30.48V3.046z" opacity=".2"/><path fill="#ffb900" d="m1.528-.002 30.48 30.48V-.002z"/><path d="m32.008 33.526-30.48 30.48h30.48z" opacity=".2"/><path fill="#ff8900" d="m32.008 30.478-30.48 30.48h30.48z"/><path fill="#006c80" d="m62.488 45.718-15.24-15.24v15.24z"/><path d="M62.488 63.976 47.251 48.75v15.225z" opacity=".2"/><path fill="#008052" d="M62.488 60.928 47.251 45.703v15.225z"/><path d="m47.248 48.766 15.237 15.225V48.766z" opacity=".2"/><path fill="#00aa80" d="m47.248 45.718 15.237 15.225V45.718z"/><path d="m47.248 18.286-15.24 15.24h15.24zM62.488 3.046l-15.24 15.24h15.24z" opacity=".2"/><path fill="#008900" d="m47.248 15.238-15.24 15.24h15.24z"/><path fill="teal" d="m62.488-.002-15.24 15.24h15.24z"/><path fill="#fff" d="m1.528-.002 3.048 3.048h27.432V-.002zm60.96 0-15.24 15.24h3.048L62.488 3.046zm-15.24 15.24-15.24 15.24h3.048l12.192-12.192zM30.484 32.002 1.528 60.958h3.048l27.432-27.432zm16.764 13.716 3.054 3.048h12.186v-3.048z" opacity=".2"/><path fill="#fff" d="M47.248 30.478v3.048L59.44 45.718h3.048z" opacity=".1"/></svg>
+<svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <path transform="translate(-.004 .002) scale(.9999)" d="m47.25 33.53 15.24-15.24h-15.24z" opacity=".2"/>
+ <path transform="translate(-.004 .002) scale(.9999)" d="m47.25 30.48 15.24-15.24h-15.24z" fill="#005680"/>
+ <path transform="translate(-.004 .002) scale(.9999)" d="m16.77 12.19h15.24v38.4h-15.24z" fill="#f02e00"/>
+ <path transform="translate(-.004 .002) scale(.9999)" d="m1.528 3.046 30.48 30.48V3.046z" opacity=".2"/>
+ <path transform="translate(-.004 .002) scale(.9999)" d="m1.528-.002 30.48 30.48V-.002z" fill="#ffb900"/>
+ <path transform="translate(-.004 .002) scale(.9999)" d="m32.01 33.53-30.48 30.48h30.48z" opacity=".2"/>
+ <path transform="translate(-.004 .002) scale(.9999)" d="m32.01 30.48-30.48 30.48h30.48z" fill="#ff8900"/>
+ <path transform="translate(-.004 .002) scale(.9999)" d="m62.49 45.72-15.24-15.24v15.24z" fill="#006c80"/>
+ <path transform="translate(-.004 .002) scale(.9999)" d="m62.49 63.98-15.24-15.23v15.22z" opacity=".2"/>
+ <path transform="translate(-.004 .002) scale(.9999)" d="m62.49 60.93-15.24-15.22v15.22z" fill="#008052"/>
+ <path transform="translate(-.004 .002) scale(.9999)" d="m47.25 48.77 15.24 15.22v-15.22z" opacity=".2"/>
+ <path transform="translate(-.004 .002) scale(.9999)" d="m47.25 45.72 15.24 15.22v-15.22z" fill="#00aa80"/>
+ <path transform="translate(-.004 .002) scale(.9999)" d="m47.25 18.29-15.24 15.24h15.24zm15.24-15.24-15.24 15.24h15.24z" opacity=".2"/>
+ <path transform="translate(-.004 .002) scale(.9999)" d="m47.25 15.24-15.24 15.24h15.24z" fill="#008900"/>
+ <path transform="translate(-.004 .002) scale(.9999)" d="m62.49-2e-3 -15.24 15.24h15.24z" fill="teal"/>
+ <path transform="translate(-.004 .002) scale(.9999)" d="m1.528-2e-3 3.048 3.048h27.43v-3.048zm60.96 0-15.24 15.24h3.048l12.19-12.19zm-15.24 15.24-15.24 15.24h3.048l12.19-12.19zm-16.76 16.76-28.96 28.96h3.048l27.43-27.43zm16.76 13.72 3.054 3.048h12.19v-3.048z" fill="#fff" opacity=".2"/>
+ <path transform="translate(-.004 .002) scale(.9999)" d="m47.25 30.48v3.048l12.19 12.19h3.048z" fill="#fff" opacity=".1"/>
+</svg>

@@ -1,1 +1,10 @@
-mail-unread-new.svg
+<svg version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="a" x1="1" x2="0" y1="1">
+   <stop stop-color="#ffa200" offset="0"/>
+   <stop stop-color="#fffd00" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path transform="translate(0) scale(1) translate(0) scale(1) translate(0 .00049) scale(1) matrix(.9997 0 0 .9997 0 .007)" d="m3.109 2.631a3.11 3.11 0 0 0-3.109 3.107v10.52a3.11 3.11 0 0 0 3.109 3.107h14.45a3.59 3.59 0 0 1-2.414-2.272h-12.03c-0.31 0-0.46-0.266-0.598-0.516l5.197-4.139 1.242 0.989c1.161 0.924 2.936 0.924 4.098 0l1.242-0.989 1.51 1.203a3.56 3.56 0 0 1 2.113-1.203l-1.814-1.443 3.63-2.889v4.504a3.58 3.58 0 0 1 2.271 2.732v-9.609a3.11 3.11 0 0 0-3.109-3.107zm0 2.272h15.78c0.31 0 0.46 0.266 0.598 0.516l-8.078 6.434c-0.217 0.172-0.605 0.172-0.82 0l-8.079-6.434c0.139-0.25 0.288-0.516 0.598-0.516zm-0.838 3.209 3.63 2.889-3.63 2.889z" fill="url(#a)"/>
+ <path class="ColorScheme-Highlight" transform="translate(0) scale(1) translate(0) scale(1) translate(0 .00049) scale(1)" d="m18.49 13.39a2.55 2.55 0 0 0-2.55 2.552 2.55 2.55 0 0 0 2.55 2.55 2.55 2.55 0 0 0 2.552-2.55 2.55 2.55 0 0 0-2.552-2.552" color="#4285f4" fill="#f0f"/>
+</svg>

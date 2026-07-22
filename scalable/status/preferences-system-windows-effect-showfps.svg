@@ -1,1 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22"><g stroke="#000" stroke-width=".1"><path fill="#00ff80" stroke-width=".09954" d="M.05 11.865v5.197h2.736v-5.197zM2.787 4.936V17.06h2.739V4.936z"/><path fill="red" stroke-width=".09954" d="M5.525 9.556v7.506H8.26V9.556z"/><path fill="#00ff80" stroke-width=".09954" d="M8.262 8.401v8.661H11v-8.66zM11 6.668V17.06h2.736V6.668z"/><path fill="red" stroke-width=".09954" d="M13.737 9.556v7.506h2.738V9.556z"/><path fill="#00ff80" stroke-width=".09954" d="M16.474 4.936V17.06h2.736V4.936z"/><path fill="red" stroke-width=".09954" d="M19.211 7.247v9.816h2.737V7.247z"/><path fill="#ff0" stroke-width=".09954" d="M19.211 9.556c-1.368 0-1.367 2.887-2.736 2.887s-1.37 1.154-2.738 1.154-1.368-2.31-2.737-2.31-1.37 2.31-2.738 2.31-1.026 2.31-2.736 2.31-1.37-2.31-2.739-2.31S1.42 15.33.051 15.33v1.732H21.95v-3.465c-1.369 0-1.368-4.042-2.737-4.042z"/></g></svg>
+<svg version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="a" y1=".5" y2=".5">
+   <stop stop-color="#b5007f" offset="0"/>
+   <stop stop-color="#ff014a" offset=".5"/>
+   <stop stop-color="#fbd425" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path transform="translate(0) scale(1) translate(0 .001) scale(.9999) translate(0 -1.5)" d="m1 12a1 1 0 0 0-1 1v8a1 1 0 0 0 1 1h4a1 1 0 0 0 1-1v-8a1 1 0 0 0-1-1z" fill="#f00"/>
+ <path transform="translate(0) scale(1) translate(0 .001) scale(.9999) translate(0 -1.5)" d="m17 3c-0.5523 0-1 0.4477-1 1v17c0 0.5523 0.4477 1 1 1h4c0.5523 0 1-0.4477 1-1v-17c0-0.5523-0.4477-1-1-1z" fill="#0f0"/>
+ <path transform="translate(0) scale(1) translate(0 .001) scale(.9999) translate(0 -1.5)" d="m9 8a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1h4a1 1 0 0 0 1-1v-12a1 1 0 0 0-1-1z" fill="#FDFF00"/>
+ <path transform="translate(0) scale(1) translate(0 .001) scale(.9999) translate(0 -1.5)" d="m19.25 12.46c-1.374 0-1.373 2.9-2.748 2.9s-1.376 1.16-2.75 1.16-1.375-2.32-2.75-2.32-1.378 2.32-2.752 2.32-1.03 2.32-2.748 2.32-1.377-2.32-2.752-2.32-1.373 1.74-2.748 1.74v3.74h22v-5.48c-1.375 0-1.375-4.06-2.75-4.06z" fill="url(#a)"/>
+</svg>

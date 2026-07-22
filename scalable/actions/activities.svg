@@ -1,10 +1,10 @@
-<svg fill="none" version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+<svg version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
  <defs>
-  <linearGradient id="a" x1="1.827" x2="17.12" y1=".5839" y2="13.08" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#F9D423" offset="0"/>
-   <stop stop-color="#FF4E50" offset=".5156"/>
-   <stop stop-color="#8A2387" offset=".9913"/>
+  <linearGradient id="a" x1="1" x2="0" y1="1">
+   <stop stop-color="#ffab00" offset="0"/>
+   <stop stop-color="#ff4b2b" offset=".5"/>
+   <stop stop-color="#ff004c" offset="1"/>
   </linearGradient>
  </defs>
- <path transform="translate(-.6323 -.6326) scale(1.454)" d="m5.4 0.4351h5.2c0.2209 0 0.4 0.1791 0.4 0.4v5.2c0 0.2209-0.1791 0.4-0.4 0.4h-5.2c-0.2209 0-0.4-0.1791-0.4-0.4v-5.2c0-0.2209 0.1791-0.4 0.4-0.4zm-3 6.565c-0.2209 0-0.4 0.1791-0.4 0.4v1.2c0 0.2209 0.1791 0.4 0.4 0.4h11.2c0.2209 0 0.4-0.1791 0.4-0.4v-1.2c0-0.2209-0.1791-0.4-0.4-0.4h-11.2zm8.6 5.565c0-1.657-1.343-3-3-3s-3 1.343-3 3c0 1.657 1.343 3 3 3s3-1.343 3-3z" clip-rule="evenodd" fill="url(#a)" fill-rule="evenodd"/>
+ <path transform="translate(.000674) scale(.3438) translate(-.0015)" d="m21 0c-0.9344 0-1.693 0.7594-1.693 1.693v21.99c0 0.9344 0.7594 1.693 1.693 1.693h21.99c0.9344 0 1.693-0.7594 1.693-1.693v-21.99c0-0.9344-0.7594-1.693-1.693-1.693h-21.99zm-12.69 27.77c-0.9344 0-1.691 0.7594-1.691 1.693v5.076c0 0.9344 0.7574 1.691 1.691 1.691h47.38c0.9344 0 1.689-0.7574 1.689-1.691v-5.076c0-0.9344-0.7555-1.693-1.689-1.693h-47.38zm23.69 10.85c-7.009 0-12.69 5.681-12.69 12.69s5.681 12.69 12.69 12.69 12.69-5.679 12.69-12.69-5.681-12.69-12.69-12.69z" fill="url(#a)"/>
 </svg>

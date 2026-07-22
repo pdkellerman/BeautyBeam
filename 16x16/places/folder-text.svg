@@ -1,12 +1,1 @@
-<svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
- <defs>
-  <linearGradient id="a" y1="1">
-   <stop stop-color="#0061ff" offset="0"/>
-   <stop stop-color="#60efff" offset="1"/>
-  </linearGradient>
- </defs>
- <path transform="translate(0 .001) scale(1) translate(0 .002999) scale(.9998)" d="m2.25 52a2.25 2.25 0 0 0-2.25 2.25v3.502a2.25 2.25 0 0 0 2.25 2.25h43.52a2.25 2.25 0 0 0 2.25-2.25v-3.502a2.25 2.25 0 0 0-2.25-2.25z" fill="url(#a)"/>
- <path transform="translate(0 .001) scale(1) translate(0 .002999) scale(.9998)" d="m2.25 36.01a2.25 2.25 0 0 0-2.25 2.25v3.504a2.25 2.25 0 0 0 2.25 2.25h59.51a2.25 2.25 0 0 0 2.25-2.25v-3.504a2.25 2.25 0 0 0-2.25-2.25z" fill="url(#a)"/>
- <path transform="translate(0 .001) scale(1) translate(0 .002999) scale(.9998)" d="m2.25 20.01a2.25 2.25 0 0 0-2.25 2.25v3.498a2.25 2.25 0 0 0 2.25 2.25h27.49a2.25 2.25 0 0 0 2.25-2.25v-3.498a2.25 2.25 0 0 0-2.25-2.25z" fill="url(#a)"/>
- <path transform="translate(0 .001) scale(1) translate(0 .002999) scale(.9998)" d="m2.25 4a2.25 2.25 0 0 0-2.25 2.25v3.502a2.25 2.25 0 0 0 2.25 2.25h59.51a2.25 2.25 0 0 0 2.25-2.25v-3.502a2.25 2.25 0 0 0-2.25-2.25z" fill="url(#a)"/>
-</svg>
+folder-txt.svg

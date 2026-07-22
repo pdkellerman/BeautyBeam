@@ -11,7 +11,7 @@
    <stop stop-color="#85ffe0" offset="1"/>
   </linearGradient>
  </defs>
- <g transform="translate(0) scale(1) translate(0 .000506) scale(1)" stroke-width="1.286">
+ <g transform="translate(0) scale(1) translate(0) scale(1) translate(0 .000506) scale(1)" stroke-width="1.286">
   <path transform="scale(.9999)" d="M14.39.003A36.56 36.56 0 0 0 .01 14.323v.921a3.04 3.04 0 0 0 3.046 3.046h12.19a3.035 3.035 0 0 0 3.046-3.046V3.064A3.05 3.05 0 0 0 15.246.012z" fill="url(#a)"/>
   <path transform="scale(.9999)" d="M25.91.003H38.1a3.04 3.04 0 0 1 3.046 3.046v12.19a3.04 3.04 0 0 1-3.046 3.046H25.91a3.04 3.04 0 0 1-3.046-3.046V3.049A3.04 3.04 0 0 1 25.91.003" fill="url(#b)"/>
   <path transform="scale(.9999)" d="M48.76.003a3.05 3.05 0 0 0-3.046 3.046v12.19a3.04 3.04 0 0 0 3.046 3.046h12.19a3.045 3.045 0 0 0 3.052-3.046v-.852A36.56 36.56 0 0 0 49.682.007z" fill="url(#a)"/>

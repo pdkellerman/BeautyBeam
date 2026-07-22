@@ -1,1 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 64 64"><defs><linearGradient id="a" x1="32" x2="32" y1="60" y2="4" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#fd5900"/><stop offset="1" stop-color="#ffde00"/></linearGradient><linearGradient id="c" x1="33.1" x2="33.1" y1="47.56" y2="16.44" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#ffa800"/><stop offset="1" stop-color="#fff737"/></linearGradient></defs><path fill="url(#a)" fill-rule="evenodd" d="M60 32c0 15.46-12.54 28-28 28S4 47.46 4 32 16.54 4 32 4s28 12.54 28 28m-8 0c0 11.05-8.954 20-20 20s-20-8.954-20-20 8.954-20 20-20 20 8.954 20 20" clip-rule="evenodd" transform="translate(-4.571 -4.571)scale(1.143)"/><path fill="url(#c)" d="M28.86 17.86a2 2 0 0 0-2.828 0l-1.415 1.414a2 2 0 0 0 0 2.829l8.486 8.486a2 2 0 0 1 0 2.828l-8.486 8.486a2 2 0 0 0 0 2.829l1.415 1.414a2 2 0 0 0 2.828-.001l9.899-9.9 2.828-2.828a2 2 0 0 0 0-2.828l-2.828-2.828-9.899-9.9z" transform="translate(-4.571 -4.571)scale(1.143)"/></svg>
+<svg fill="none" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="a" x1="32" x2="32" y1="60" y2="4" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fd5900" offset="0"/>
+   <stop stop-color="#ffde00" offset="1"/>
+  </linearGradient>
+  <linearGradient id="c" x1="33.1" x2="33.1" y1="47.56" y2="16.44" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#ffa800" offset="0"/>
+   <stop stop-color="#fff737" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path transform="translate(-.001 -.001) scale(.9999) translate(-4.571 -4.571) scale(1.143)" d="M60 32c0 15.46-12.54 28-28 28S4 47.46 4 32 16.54 4 32 4s28 12.54 28 28m-8 0c0 11.05-8.954 20-20 20s-20-8.954-20-20 8.954-20 20-20 20 8.954 20 20" clip-rule="evenodd" fill="url(#a)" fill-rule="evenodd"/>
+ <path transform="translate(-.001 -.001) scale(.9999) translate(-4.571 -4.571) scale(1.143)" d="m28.86 17.86a2 2 0 0 0-2.828 0l-1.415 1.414a2 2 0 0 0 0 2.829l8.486 8.486a2 2 0 0 1 0 2.828l-8.486 8.486a2 2 0 0 0 0 2.829l1.415 1.414a2 2 0 0 0 2.828-1e-3l9.899-9.9 2.828-2.828a2 2 0 0 0 0-2.828l-2.828-2.828-9.899-9.9z" fill="url(#c)"/>
+</svg>

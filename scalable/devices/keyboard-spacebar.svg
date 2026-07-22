@@ -1,9 +1,9 @@
 <svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
  <defs>
-  <linearGradient id="a" x2="0" y1="1">
-   <stop stop-color="#ff00f5" offset="0"/>
-   <stop stop-color="#ff81ff" offset="1"/>
+  <linearGradient id="a" x1="1" x2="0" y1="1">
+   <stop stop-color="#de87cd" offset="0"/>
+   <stop stop-color="#fd5" offset="1"/>
   </linearGradient>
  </defs>
- <path transform="translate(-.0037 5e-5) scale(1) translate(-12.5 75.3) scale(.09262)" d="M229-335q-39.8 0-66.9-27.1T135-429v-124q0-19.75 13.68-33.38Q162.35-600 182.18-600q19.82 0 33.32 13.62Q229-572.75 229-553v124h502v-124q0-19.75 13.68-33.38Q758.35-600 778.09-600q19.73 0 33.82 13.62Q826-572.75 826-553v124q0 39.8-27.39 66.9Q771.21-335 731-335z" fill="url(#a)"/>
+ <path transform="translate(0 -5e-5) scale(1) translate(0 5e-5) scale(1) translate(8.2e-5 .00235) scale(.9999) translate(1.884 1.885) scale(.9411)" d="m2.664 19.33c-2.554 0-4.666 2.114-4.666 4.668v8.891c0 6.464 5.315 11.78 11.78 11.78h44.45c6.464 0 11.78-5.315 11.78-11.78v-8.891c0-2.554-2.112-4.668-4.666-4.668s-4.668 2.114-4.668 4.668v8.891c0 1.436-1.009 2.443-2.445 2.443h-44.45c-1.436 0-2.445-1.007-2.445-2.443v-8.891c0-2.554-2.114-4.668-4.668-4.668z" fill="url(#a)"/>
 </svg>

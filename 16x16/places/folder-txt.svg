@@ -1,13 +1,13 @@
 <svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
  <defs>
   <linearGradient id="a" y1="1">
-   <stop stop-color="#0006ff" offset="0"/>
-   <stop stop-color="#00d2ff" offset="1"/>
+   <stop stop-color="#0028ff" offset="0"/>
+   <stop stop-color="#36a0ff" offset=".5"/>
+   <stop stop-color="#4dd3ff" offset="1"/>
   </linearGradient>
  </defs>
- <path transform="translate(-0) scale(1) translate(-0) scale(1) translate(.004519 -.0103) scale(.9997) translate(-20.34 -25.65) scale(1.636)" d="m24.28 42.59a2.062 2.062 0 0 0-2.06 2.062v0.7656a2.062 2.062 0 0 0 2.06 2.062h25.22a2.062 2.062 0 0 0 2.06-2.062v-0.7656a2.062 2.062 0 0 0-2.06-2.062h-10.55z" fill="url(#a)"/>
- <path transform="translate(-0) scale(1) translate(-0) scale(1) translate(.004519 -.0103) scale(.9997) translate(-20.34 -25.65) scale(1.636)" d="m14.49 42.59a2.062 2.062 0 0 0-2.06 2.062v0.7656a2.062 2.062 0 0 0 2.06 2.062h0.7637a2.062 2.062 0 0 0 2.062-2.062v-0.7656a2.062 2.062 0 0 0-2.062-2.062z" fill="url(#a)"/>
- <path transform="translate(-0) scale(1) translate(-0) scale(1) translate(.004519 -.0103) scale(.9997) translate(-20.34 -25.65) scale(1.636)" d="m14.49 32.81a2.062 2.062 0 0 0-2.06 2.06v0.7637a2.062 2.062 0 0 0 2.06 2.062h34.99a2.062 2.062 0 0 0 2.062-2.062v-0.7637a2.062 2.062 0 0 0-2.062-2.06z" fill="url(#a)"/>
- <path transform="translate(-0) scale(1) translate(-0) scale(1) translate(.004519 -.0103) scale(.9997) translate(-20.34 -25.65) scale(1.636)" d="m34.05 23.02a2.062 2.062 0 0 0-2.062 2.06v0.7656a2.062 2.062 0 0 0 2.062 2.062h15.43a2.062 2.062 0 0 0 2.062-2.062v-0.7656a2.062 2.062 0 0 0-2.062-2.06z" fill="url(#a)"/>
- <path transform="translate(-0) scale(1) translate(-0) scale(1) translate(.004519 -.0103) scale(.9997) translate(-20.34 -25.65) scale(1.636)" d="m14.49 23.02a2.062 2.062 0 0 0-2.06 2.06v0.7656a2.062 2.062 0 0 0 2.06 2.062h10.55a2.062 2.062 0 0 0 2.062-2.062v-0.7656a2.062 2.062 0 0 0-2.062-2.06z" fill="url(#a)"/>
+ <path transform="translate(-4e-4) scale(1) translate(.001) scale(1) translate(-5.487 -6.4) scale(3.2)" d="m8.285 2a4.286 4.286 0 0 0-4.285 4.285v11.43a4.286 4.286 0 0 0 4.285 4.285h6.857a4.286 4.286 0 0 0 4.287-4.285v-9.033a3.5 3.5 0 0 0-1.197-2.635l-3.635-3.182a3.5 3.5 0 0 0-2.303-0.8649h-4.009zm0 2h3.715v3a3 3 0 0 0 3 3h2.43v7.715a2.286 2.286 0 0 1-2.287 2.285h-6.857a2.286 2.286 0 0 1-2.285-2.285v-11.43a2.286 2.286 0 0 1 2.284-2.285zm5.715 0.9998 2.916 2.551a1.5 1.5 0 0 1 0.3503 0.4486h-2.266a1 1 0 0 1-1-0.9998v-2z" fill="url(#a)"/>
+ <path transform="translate(-4e-4) scale(1) translate(.001) scale(1)" d="m20.94 48.24c-3.798 0.08767-3.798 5.371 0 5.459h11.54c3.798-0.08767 3.798-5.371 0-5.459z" fill="url(#a)"/>
+ <path transform="translate(-4e-4) scale(1) translate(.001) scale(1)" d="m20.94 38.68c-3.798 0.08767-3.798 5.371 0 5.459h22.12c1.614 0 2.916-1.218 2.916-2.729s-1.303-2.729-2.916-2.729z" fill="url(#a)"/>
+ <path transform="translate(-4e-4) scale(1) translate(.001) scale(1)" d="m20.94 29.13c-3.893 0.0016-3.893 5.462 0 5.46h22.12c3.893-0.0016 3.893-5.462 0-5.46z" fill="url(#a)"/>
 </svg>

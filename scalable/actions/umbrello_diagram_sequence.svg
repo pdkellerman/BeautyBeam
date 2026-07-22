@@ -3,11 +3,16 @@
   <style>.ColorScheme-Text {
         color:#363636;
       }</style>
-  <linearGradient id="a" y1=".5" y2=".5">
-   <stop stop-color="#07f" offset="0"/>
-   <stop stop-color="#00f7ff" offset="1"/>
+  <linearGradient id="b" y1="1">
+   <stop stop-color="#248efe" offset="0"/>
+   <stop stop-color="#1df4ff" offset="1"/>
+  </linearGradient>
+  <linearGradient id="a" y1="1">
+   <stop stop-color="#d2268f" offset="0"/>
+   <stop stop-color="#fbb62b" offset="1"/>
   </linearGradient>
  </defs>
- <path transform="translate(0 -2e-4) scale(.9998) translate(0 -.7333) scale(1.467)" d="m4 6v3h1v-1h4v1h1v-3h-1v1h-4v-1zm3 3v3h1v-1h3v1h1v-3h-1v1h-3v-1z" fill="url(#a)"/>
- <path transform="translate(0 -2e-4) scale(.9998) translate(0 -.7333) scale(1.467)" d="m2 1c-1.108 0-2 0.892-2 2v10c0 1.108 0.892 2 2 2h11c1.108 0 2-0.892 2-2v-10c0-1.108-0.892-2-2-2zm0 3h11c0.554 0 1 0.446 1 1v8c0 0.554-0.446 1-1 1h-11c-0.554 0-1-0.446-1-1v-8c0-0.554 0.446-1 1-1z" fill="url(#a)"/>
+ <path transform="translate(0) scale(1) translate(0) scale(1) translate(0) scale(1) translate(0 -.000514) scale(1) translate(.4783 .4765) scale(.9566)" d="m10.27 12.27a0.5 0.5 0 0 0-0.5 0.5v4.4a0.5 0.5 0 0 0 0.5 0.5h1.467a0.5 0.5 0 0 0 0.5-0.5v-0.9668h3.398v0.9668a0.5 0.5 0 0 0 0.5 0.5h1.467a0.5 0.5 0 0 0 0.5-0.5v-4.4a0.5 0.5 0 0 0-0.5-0.5h-1.467a0.5 0.5 0 0 0-0.5 0.5v0.9668h-3.398v-0.9668a0.5 0.5 0 0 0-0.5-0.5z" fill="url(#a)"/>
+ <path transform="translate(0) scale(1) translate(0) scale(1) translate(0) scale(1) translate(0 -.000514) scale(1) translate(.4783 .4765) scale(.9566)" d="m5.867 7.166a0.5 0.5 0 0 0-0.5 0.5v4.4a0.5 0.5 0 0 0 0.5 0.5h1.467a0.5 0.5 0 0 0 0.5-0.5v-0.9668h4.867v0.9668a0.5 0.5 0 0 0 0.5 0.5h1.467a0.5 0.5 0 0 0 0.5-0.5v-4.4a0.5 0.5 0 0 0-0.5-0.5h-1.467a0.5 0.5 0 0 0-0.5 0.5v0.9668h-4.867v-0.9668a0.5 0.5 0 0 0-0.5-0.5z" fill="url(#a)"/>
+ <path transform="translate(0) scale(1) translate(0) scale(1) translate(0) scale(1) translate(0 -.000514) scale(1) matrix(.9566 0 0 .9566 .4783 .4765)" d="m2.934 0.2324c-1.893 0-3.434 1.539-3.434 3.434v14.67c0 1.893 1.539 3.434 3.434 3.434h16.13c1.893 0 3.434-1.539 3.434-3.434v-14.67c0-1.893-1.539-3.434-3.434-3.434zm0 5.4h16.13c0.5442 0 0.9668 0.4224 0.9668 0.9668v11.73c0 0.5442-0.4224 0.9668-0.9668 0.9668h-16.13c-0.5442 0-0.9668-0.4224-0.9668-0.9668v-11.73c0-0.5442 0.4224-0.9668 0.9668-0.9668z" fill="url(#b)"/>
 </svg>

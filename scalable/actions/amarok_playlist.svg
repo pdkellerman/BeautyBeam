@@ -1,1 +1,23 @@
-itemize.svg
+<svg version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="b" x2="0" y1="1">
+   <stop stop-color="#de87cd" offset="0"/>
+   <stop stop-color="#fd5" offset="1"/>
+  </linearGradient>
+  <linearGradient id="c" y1="1">
+   <stop stop-color="#cc00a8" offset="0"/>
+   <stop stop-color="#ff4de0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="a" y1="1">
+   <stop stop-color="#05f" offset="0"/>
+   <stop stop-color="#00ffd8" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path transform="translate(0) scale(1) translate(0) scale(1) translate(0 -.002) scale(1) translate(0 -.00032) scale(1) matrix(.9999 0 0 .9999 0 2.558)" d="m8.77 14.09c-0.5759 0-1.049 0.4727-1.049 1.049v0.2441c0 0.5759 0.4727 1.051 1.049 1.051h3.357c0.5759 0 1.051-0.4756 1.051-1.051v-0.2441c0-0.5759-0.4746-1.049-1.051-1.049z" fill="url(#a)"/>
+ <path transform="translate(0) scale(1) translate(0) scale(1) translate(0 -.002) scale(1) translate(0 -.00032) scale(1) matrix(.9999 0 0 .9999 0 2.558)" d="m8.77 10.68c-0.5759 0-1.049 0.4727-1.049 1.049v0.2441c0 0.5759 0.4727 1.051 1.049 1.051h3.357c0.5759 0 1.051-0.4756 1.051-1.051v-0.2441c0-0.5759-0.4746-1.049-1.051-1.049z" fill="url(#a)"/>
+ <path transform="translate(0) scale(1) translate(0) scale(1) translate(0 -.002) scale(1) translate(0 -.00032) scale(1) matrix(.9999 0 0 .9999 0 2.558)" d="m8.77 3.862c-0.5759 0-1.049 0.4727-1.049 1.049v0.2441c0 0.5759 0.4727 1.051 1.049 1.051h8.77c0.5759 0 1.053-0.4736 1.053-1.051v-0.2441c0-0.5759-0.4765-1.049-1.053-1.049z" fill="url(#a)"/>
+ <path transform="translate(0) scale(1) translate(0) scale(1) translate(0 -.002) scale(1) translate(0 -.00032) scale(1) matrix(.9999 0 0 .9999 0 2.558)" d="m8.77 0.4517c-0.5759 0-1.049 0.4727-1.049 1.049v0.2422c0 0.5759 0.4727 1.051 1.049 1.051h12.18c0.5759 0 1.053-0.4737 1.053-1.049v-0.2441c0-0.5759-0.4765-1.049-1.053-1.049z" fill="url(#a)"/>
+ <path transform="translate(0) scale(1) translate(0) scale(1) translate(0 -.002) scale(1) translate(0 -.00032) scale(1) matrix(.9999 0 0 .9999 0 .2073)" d="m2.924 12.99v2e-3a2.925 2.925 0 0 0-2.924 2.924c0 0.775 0.3075 1.516 0.8555 2.064a2.92 2.92 0 0 0 4.133 0 2.92 2.92 0 0 0 0-4.133 2.92 2.92 0 0 0-2.064-0.8574z" fill="url(#c)"/>
+ <path transform="translate(0) scale(1) translate(0) scale(1) translate(0 -.002) scale(1) translate(0 -.00032) scale(1) matrix(.9999 0 0 .9999 0 .2073)" d="m2.924 2.756a2.926 2.926 0 0 0-2.924 2.922 2.924 2.924 0 0 0 2.924 2.924 2.92 2.92 0 0 0 2.92-2.924 2.92 2.92 0 0 0-2.92-2.922z" fill="url(#c)"/>
+ <path transform="translate(0) scale(1) translate(0) scale(1) translate(0 -.002) scale(1) translate(0 -.00032) scale(1) matrix(.9999 0 0 .9999 0 2.558)" d="m20.89 6.385a0.7556 0.7556 0 0 0-0.2012 0.03906l-2 0.666a1.511 1.511 0 0 0-1.033 1.434v3.682a2.266 2.266 0 1 0 1.006 1.885v-3.412l2.332-0.7773a1.006 1.006 0 0 0 0.6894-0.9551v-1.805a0.7556 0.7556 0 0 0-0.793-0.7539z" fill="url(#b)"/>
+</svg>

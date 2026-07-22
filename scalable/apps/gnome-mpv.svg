@@ -1,1 +1,16 @@
-mplayer.svg
+<svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="a" y2="1">
+   <stop stop-color="#f35c58" offset="0"/>
+   <stop stop-color="#ba09b2" offset=".5"/>
+   <stop stop-color="#7900d9" offset="1"/>
+  </linearGradient>
+  <linearGradient id="b" x1="25.08" x2="43.88" y1="20.69" y2="39.49" gradientTransform="matrix(.8457 0 0 .9572 3.24 3.2)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#ffa348" offset="0"/>
+   <stop stop-color="#c061cb" offset=".5"/>
+   <stop stop-color="#1c71d8" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path transform="translate(0) scale(1) translate(0 1e-5) scale(1) translate(0 .00219) scale(.9999) matrix(.9997 0 0 .9997 0 3e-4)" d="m5.629 5.629c-3.107 0-5.629 2.52-5.629 5.627v41.51c0 3.107 2.522 5.627 5.629 5.627h8.793c2.33 0 4.221-1.102 4.221-2.461v-45.38h17.59c1.359 0 2.463-1.102 2.463-2.461s-1.104-2.463-2.463-2.463zm45.38 0c-2.33 0-4.221 1.104-4.221 2.463v45.38h-18.99c-1.359 0-2.463 1.102-2.463 2.461s1.104 2.461 2.463 2.461h30.6c3.107 0 5.629-2.52 5.629-5.627v-41.51c0-3.107-2.522-5.627-5.629-5.627zm-43.27 4.924h6.684v5.98h-9.496v-3.166c0-1.553 1.258-2.814 2.812-2.814zm43.27 0h5.277c1.553 0 2.814 1.263 2.814 2.816v3.166h-8.092zm-46.08 10.2h9.496v8.441h-9.496zm46.08 2e-3h8.092v8.441h-8.092zm-46.08 12.66h9.496v8.441h-9.496zm46.08 0h8.092v8.443h-8.092zm-46.08 12.66h9.496v7.387h-6.684c-1.553 0-2.812-1.263-2.812-2.816zm46.08 2e-3h8.092v4.57c0 1.553-1.26 2.816-2.814 2.816h-5.277z" fill="url(#a)"/>
+ <path transform="translate(0) scale(1) translate(0 1e-5) scale(1) translate(0 .00219) scale(.9999)" d="m27.45 23c-1.794 0.03329-3.003 1.53-3.003 4.386v9.591c0 3.516 2.557 5.114 5.753 3.197l7.989-4.792c2.876-1.917 2.876-4.793 0-6.711v-0.0053l-7.989-4.792c-0.9987-0.5992-1.936-0.887-2.752-0.8717z" fill="url(#b)" stroke-width=".9997"/>
+</svg>

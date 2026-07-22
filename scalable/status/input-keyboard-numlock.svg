@@ -1,0 +1,14 @@
+<svg version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="a" x2="0" y2="1">
+   <stop stop-color="#01ff4d" offset="0"/>
+   <stop stop-color="#2fff00" offset="1"/>
+  </linearGradient>
+  <linearGradient id="b" x2="0" y1="1">
+   <stop stop-color="#07f" offset="0"/>
+   <stop stop-color="#00f7ff" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path transform="translate(0) scale(1) translate(0) scale(1) translate(0) scale(1) translate(0 -1e-6) scale(1) translate(-.00099 9e-6) scale(1)" d="m5.5 0a4.115 4.115 0 0 0-4.123 4.123v9.623c0 2.75 1.374 4.124 4.123 5.498l5.508 2.752 5.49-2.752c2.743-1.375 4.123-2.749 4.123-5.498v-9.623a4.115 4.115 0 0 0-4.123-4.123zm0 2.75h11c0.7619 0 1.375 0.6131 1.375 1.375v9.623c0 0.7619-0.6131 1.375-1.375 1.375h-11a1.37 1.37 0 0 1-1.375-1.375v-9.623c0-0.7619 0.6131-1.375 1.375-1.375z" fill="url(#b)"/>
+ <path transform="translate(0) scale(1) translate(0) scale(1) translate(0) scale(1) translate(0 -1e-6) scale(1)" d="m11.07 4.443c-0.1571 0.00762-0.3142 0.05797-0.4493 0.149l-1.753 1.171c-0.4046 0.2679-0.5136 0.8215-0.2468 1.224 0.2684 0.4054 0.8244 0.5128 1.227 0.2444l0.3818-0.2537v4.488h-0.873c-0.4842 0-0.8846 0.3981-0.8846 0.8823s0.4004 0.8823 0.8846 0.8823h3.511c0.4842 0 0.8846-0.3981 0.8846-0.8823s-0.4004-0.8823-0.8846-0.8823h-0.873v-6.141c0-0.3252-0.1802-0.6239-0.4656-0.7775-0.1432-0.07713-0.3015-0.1124-0.4586-0.1048z" fill="url(#a)" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.192"/>
+</svg>

@@ -1,1 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22"><defs><linearGradient id="a" x2="0" y1="1"><stop offset="0" stop-color="#c111f6"/><stop offset="1" stop-color="#ff00c6" stop-opacity=".984"/></linearGradient></defs><path fill="url(#a)" d="M7 4s0 2 2 2h.5c.277 0 .5.223.5.5V7c0 2 2 2 2 2V5c0-.554-.446-1-1-1zM4 7v4c0 .554.446 1 1 1h4s0-2-2-2h-.5a.5.5 0 0 1-.5-.5V9c-.032-1.862-2-2-2-2" transform="translate(-11 -11)scale(2.75)"/></svg>
+<svg version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="a" x2="0" y1="1">
+   <stop stop-color="#5433ff" offset="0"/>
+   <stop stop-color="#20bdff" offset=".5"/>
+   <stop stop-color="#a5fecb" offset="1"/>
+  </linearGradient>
+  <linearGradient id="c" x1="7" x2="12" y1="4" y2="9" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <linearGradient id="b" x1="4" x2="9" y1="7" y2="12" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+ </defs>
+ <path transform="translate(0) scale(1) matrix(2.75 0 0 2.75 -11 -11)" d="m4 7v4c0 0.554 0.446 1 1 1h4s0-2-2-2h-0.5a0.5 0.5 0 0 1-0.5-0.5v-0.5c-0.032-1.862-2-2-2-2" fill="url(#b)"/>
+ <path transform="translate(0) scale(1) matrix(2.75 0 0 2.75 -11 -11)" d="m7 4s0 2 2 2h0.5c0.277 0 0.5 0.223 0.5 0.5v0.5c0 2 2 2 2 2v-4c0-0.554-0.446-1-1-1z" fill="url(#c)"/>
+</svg>

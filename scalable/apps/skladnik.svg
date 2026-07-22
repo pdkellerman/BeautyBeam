@@ -1,25 +1,9 @@
 <svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
  <defs>
-  <linearGradient id="a" x1="21" x2="24" y1="24.5" y2="44" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#ac2e4c" offset="0"/>
-   <stop stop-color="#3e0b56" offset="1"/>
-  </linearGradient>
-  <linearGradient id="b" x1="24" x2="8" y1="30" y2="4" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#d83f5a" offset="0"/>
-   <stop stop-color="#ff9388" offset="1"/>
-  </linearGradient>
-  <linearGradient id="c" x1="24" x2="24" y1="30" y2="44" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#c93659" offset="0"/>
-   <stop stop-color="#6d1b60" offset="1"/>
-  </linearGradient>
-  <linearGradient id="e" x1="24" x2="24" y1="4" y2="30" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#fab6b4" offset=".4"/>
-   <stop stop-color="#fc9e95" offset=".65"/>
-   <stop stop-color="#f86977" offset=".9"/>
+  <linearGradient id="a" x2="0" y1="1">
+   <stop stop-color="#ff0700" offset="0"/>
+   <stop stop-color="#f503f7" offset="1"/>
   </linearGradient>
  </defs>
- <path transform="translate(-.00065 -.00064) scale(1) translate(.00065 .00064) scale(1) translate(-6.4 -6.4) scale(1.6)" d="M7.5 27.5 24 44l16.5-16.5z" fill="url(#a)"/>
- <path transform="translate(-.00065 -.00064) scale(1) translate(.00065 .00064) scale(1) translate(-6.4 -6.4) scale(1.6)" d="M24 4 7.5 27.5l6 2.5h21l6-2.5z" clip-rule="evenodd" fill="url(#b)" fill-rule="evenodd"/>
- <path transform="translate(-.00065 -.00064) scale(1) translate(.00065 .00064) scale(1) translate(-6.4 -6.4) scale(1.6)" d="M13.5 30 24 44l10.5-14z" fill="url(#c)"/>
- <path transform="translate(-.00065 -.00064) scale(1) translate(.00065 .00064) scale(1) translate(-6.4 -6.4) scale(1.6)" d="M13.5 30 24 4l10.5 26z" fill="url(#e)"/>
+ <path transform="translate(.0052 .00136) scale(1) translate(-3.528 -4.32) scale(1.48)" d="m24 2.918a0.9501 0.9501 0 0 0-0.8809 0.5977l-16.47 23.46a0.9501 0.9501 0 0 0 0.2305 1.322 0.9501 0.9501 0 0 0 0.00195 2e-3l16.38 17.38 0.209 0.2383a0.7049 0.7049 0 0 0 1.059 0l0.209-0.2383 16.38-17.38a0.9501 0.9501 0 0 0 2e-3 -2e-3 0.9501 0.9501 0 0 0 0.2305-1.322l-16.47-23.46a0.9501 0.9501 0 0 0-0.8809-0.5977zm0 4.277 7.115 21.8h-14.23zm-3.08 2.932-5.146 15.81-0.9199 2.805-2.963-0.9219-2.785-0.8711zm6.16 0 11.81 16.83-2.785 0.8711-2.963 0.9219-0.9199-2.805zm-16.21 19.49 3.994 1.234 6.463 9.885zm26.26 0-10.46 11.12 6.463-9.885zm-19.78 1.385h13.29l-6.646 10.18z" fill="url(#a)"/>
 </svg>

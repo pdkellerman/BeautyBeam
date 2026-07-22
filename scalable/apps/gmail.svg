@@ -1,1 +1,24 @@
-<svg xmlns="http://www.w3.org/2000/svg" style="isolation:isolate" viewBox="0 0 64 64"><linearGradient id="a" x1="1.014" x2=".095" y1=".231" y2=".968" gradientTransform="matrix(9.675 0 0 23.94 2.5 16.19)" gradientUnits="userSpaceOnUse" transform="translate(-3.72 -3.719)scale(1.488)"><stop offset="0" stop-color="#5433ff"/><stop offset=".517" stop-color="#20bdff"/><stop offset=".983" stop-color="#a5fecb"/></linearGradient><path fill="url(#a)" d="M5.402 40.12h6.773V23.51L2.5 16.183v21.01c0 1.619 1.299 2.931 2.902 2.931z" transform="translate(-3.72 -3.719)scale(1.488)"/><linearGradient id="b" x1=".183" x2=".903" y1=".249" y2=".903" gradientTransform="matrix(9.675 0 0 23.94 35.82 16.19)" gradientUnits="userSpaceOnUse" transform="translate(-3.72 -3.719)scale(1.488)"><stop offset=".026" stop-color="#b3ffab"/><stop offset=".987" stop-color="#12fff7"/></linearGradient><path fill="url(#b)" d="M35.82 40.12h6.772c1.604 0 2.903-1.312 2.903-2.931v-21.01l-9.675 7.327v16.61z" transform="translate(-3.72 -3.719)scale(1.488)"/><linearGradient id="c" x1=".236" x2="1.017" y1=".601" y2=".074" gradientTransform="matrix(9.675 0 0 15.64 35.82 7.875)" gradientUnits="userSpaceOnUse" transform="translate(-3.72 -3.719)scale(1.488)"><stop offset="0" stop-color="#f7f206"/><stop offset=".978" stop-color="#ffbb24"/></linearGradient><path fill="url(#c)" d="M35.82 10.81v12.7l9.675-7.327v-3.908c0-3.623-4.095-5.692-6.966-3.518z" transform="translate(-3.72 -3.719)scale(1.488)"/><linearGradient id="f" x2=".907" y1=".5" y2=".92" gradientTransform="matrix(23.65 0 0 21.49 12.18 10.81)" gradientUnits="userSpaceOnUse" transform="translate(-3.72 -3.719)scale(1.488)"><stop offset="0" stop-color="#ff416c"/><stop offset=".844" stop-color="#ff4b2b"/></linearGradient><path fill="url(#f)" d="M12.18 23.52v-12.7L24 19.608l11.82-8.788v12.7L24 32.312z" transform="translate(-3.72 -3.719)scale(1.488)"/><linearGradient id="g" x1=".056" x2="4.501" y1=".198" y2="2.316" gradientTransform="matrix(9.675 0 0 15.64 2.5 7.875)" gradientUnits="userSpaceOnUse" transform="translate(-3.72 -3.719)scale(1.488)"><stop offset="0" stop-color="#ff416c"/><stop offset=".844" stop-color="#ff4b2b"/></linearGradient><path fill="url(#g)" d="M2.5 12.28v3.908l9.675 7.327v-12.7L9.466 8.763C6.595 6.589 2.5 8.658 2.5 12.281z" transform="translate(-3.72 -3.719)scale(1.488)"/></svg>
+<svg fill="none" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="d" x1="6.175" x2="6.175" y1="15.89" y2="41.5" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#189CFC" offset="0"/>
+   <stop stop-color="#1E78FF" offset="1"/>
+  </linearGradient>
+  <linearGradient id="c" x1="41.83" x2="41.83" y1="15.89" y2="41.5" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#97EB0E" offset="0"/>
+   <stop stop-color="#19B90B" offset="1"/>
+  </linearGradient>
+  <linearGradient id="b" x1="47" x2="36.65" y1="16.24" y2="16.24" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#FFCD1A" offset="0"/>
+   <stop stop-color="#FD9C0C" offset="1"/>
+  </linearGradient>
+  <linearGradient id="a" x1="18.82" x2="18.82" y1="7" y2="33.14" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#FC1878" offset="0"/>
+   <stop stop-color="#FF1E1E" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path transform="translate(-1.391 -1.737) scale(1.391)" d="m4.105 41.5h5.245c1.105 0 2-0.8954 2-2v-15.77l-10.35-7.839v22.47c0 1.732 1.389 3.136 3.105 3.136z" fill="url(#d)"/>
+ <path transform="translate(-1.391 -1.737) scale(1.391)" d="m36.65 39.5c0 1.105 0.8955 2 2 2h5.245c1.716 0 3.105-1.403 3.105-3.136v-22.47l-10.35 7.839v15.77z" fill="url(#c)"/>
+ <path transform="translate(-1.391 -1.737) scale(1.391)" d="m36.65 10.14v13.59l10.35-7.839v-4.181c0-3.875-4.381-6.088-7.452-3.763l-2.898 2.195z" fill="url(#b)"/>
+ <path transform="translate(-1.391 -1.737) scale(1.391)" d="m1 15.89v-4.181c0-3.875 4.381-6.088 7.452-3.763l2.898 2.195v0.0019l11.45 8.513c0.7082 0.5264 1.678 0.5264 2.386 0l11.46-8.515v13.59l-11.46 8.518c-0.7083 0.5267-1.678 0.5267-2.386 0l-11.46-8.518v-0.0018l-10.35-7.837z" clip-rule="evenodd" fill="url(#a)" fill-rule="evenodd"/>
+</svg>

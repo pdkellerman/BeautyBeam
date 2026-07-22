@@ -1,1 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><defs><linearGradient id="a" x1="1" x2="0" y1="1"><stop offset="0" stop-color="#5433ff"/><stop offset=".517" stop-color="#0bbdff"/><stop offset=".983" stop-color="#a5fecb"/></linearGradient></defs><path fill="url(#a)" d="M18.85 3c-7.144 0-13 5.856-13 13v32c0 7.144 5.856 13 13 13h26.31c7.144 0 13-5.856 13-13V16c0-7.144-5.856-13-13-13zm0 6h26.31c3.902 0 7 3.098 7 7v32c0 3.902-3.098 7-7 7H18.85c-3.901 0-7-3.099-7-7V16c0-3.901 3.099-7 7-7" transform="translate(-3.314 -3.309)scale(1.103)"/><path fill="url(#a)" d="M22.5 15.84a4.074 4.074 0 0 0 0 8.146h19.01a4.073 4.073 0 0 0 0-8.146z" transform="translate(-3.314 -3.309)scale(1.103)"/><path fill="url(#a)" d="M22.5 29.42a4.07 4.07 0 0 0-4.072 4.072c0 1.08.428 2.117 1.191 2.881a4.08 4.08 0 0 0 2.881 1.193h9.504a4.073 4.073 0 0 0 0-8.146z" transform="translate(-3.314 -3.309)scale(1.103)"/></svg>
+<svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="a" x1="1" x2="0" y1="1">
+   <stop stop-color="#5433ff" offset="0"/>
+   <stop stop-color="#0bbdff" offset=".517"/>
+   <stop stop-color="#a5fecb" offset=".983"/>
+  </linearGradient>
+ </defs>
+ <path transform="translate(0) scale(1) translate(0) scale(1) translate(0) scale(1) translate(0) scale(1) translate(0) scale(1) translate(-5e-4) scale(1) translate(-3.314 -3.309) scale(1.103)" d="M18.85 3c-7.144 0-13 5.856-13 13v32c0 7.144 5.856 13 13 13h26.31c7.144 0 13-5.856 13-13V16c0-7.144-5.856-13-13-13zm0 6h26.31c3.902 0 7 3.098 7 7v32c0 3.902-3.098 7-7 7H18.85c-3.901 0-7-3.099-7-7V16c0-3.901 3.099-7 7-7" fill="url(#a)"/>
+ <path transform="translate(0) scale(1) translate(0) scale(1) translate(0) scale(1) translate(0) scale(1) translate(0) scale(1) translate(-5e-4) scale(1) translate(-3.314 -3.309) scale(1.103)" d="m22.5 15.84a4.074 4.074 0 0 0 0 8.146h19.01a4.073 4.073 0 0 0 0-8.146z" fill="url(#a)"/>
+ <path transform="translate(0) scale(1) translate(0) scale(1) translate(0) scale(1) translate(0) scale(1) translate(0) scale(1) translate(-5e-4) scale(1) translate(-3.314 -3.309) scale(1.103)" d="M22.5 29.42a4.07 4.07 0 0 0-4.072 4.072c0 1.08.428 2.117 1.191 2.881a4.08 4.08 0 0 0 2.881 1.193h9.504a4.073 4.073 0 0 0 0-8.146z" fill="url(#a)"/>
+</svg>

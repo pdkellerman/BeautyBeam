@@ -1,0 +1,11 @@
+<svg version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style>.ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }</style>
+  <linearGradient id="a" x1="1" x2="0" y1=".5" y2=".5">
+   <stop stop-color="#01ff4d" offset="0"/>
+   <stop stop-color="#2fff00" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path transform="translate(.000335 .000879) scale(1) translate(-1.57 -1.571) scale(1.571)" d="m11 1a4 4 0 0 0-4 4 4 4 0 0 0 0.5566 2.027l-0.6055 0.6055-1.416 1.414-4.242 4.244c-0.3918 0.391-0.3918 1.024 0 1.416 0.3917 0.391 1.024 0.391 1.416 0l0.707-0.707h1.584v-1.584l0.416-0.416h1.584v-1.486l1.365-1.467 0.6055-0.6055a4 4 0 0 0 2.029 0.5586 4 4 0 0 0 4-4 4 4 0 0 0-4-4zm1 2a1 1 0 0 1 1 1 1 1 0 0 1-1 1 1 1 0 0 1-1-1 1 1 0 0 1 1-1z" fill="url(#a)"/>
+ <path transform="translate(.000335 .000879) scale(1) translate(-1.57 -1.571) scale(1.571)" d="m2 3.098c-0.2556 0-0.5112 0.09707-0.707 0.293-0.3918 0.3917-0.3918 1.022 0 1.414l4.242 4.244 1.416-1.414-4.242-4.244c-0.1959-0.1959-0.4534-0.293-0.709-0.293zm6.365 5.951-1.365 1.465 4.193 4.191c0.392 0.392 1.023 0.392 1.414 0 0.392-0.392 0.392-1.024 0-1.416z" fill="url(#a)" opacity=".3"/>
+</svg>

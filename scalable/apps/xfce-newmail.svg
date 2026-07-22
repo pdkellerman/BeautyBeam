@@ -1,1 +1,10 @@
-mailnag.svg
+<svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="a" x1="-.436" x2="19.63" y1="22.64" y2="2.58" gradientTransform="matrix(1.097 0 0 .8344 .478 .478)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#6203ff" offset="0"/>
+   <stop stop-color="#e901ff" offset=".704"/>
+  </linearGradient>
+ </defs>
+ <path transform="translate(0) scale(1) translate(0 -1e-5) scale(1) translate(0 -2e-4) scale(1) translate(0 .022) scale(2.908)" d="M3.109 2.631A3.11 3.11 0 0 0 0 5.738v10.52a3.11 3.11 0 0 0 3.109 3.107h14.45a3.59 3.59 0 0 1-2.414-2.272H3.115c-.31 0-.46-.266-.598-.516l5.197-4.139 1.242.989c1.161.924 2.936.924 4.098 0l1.242-.989 1.51 1.203a3.56 3.56 0 0 1 2.113-1.203l-1.814-1.443 3.63-2.889v4.504a3.58 3.58 0 0 1 2.271 2.732V5.733a3.11 3.11 0 0 0-3.109-3.107zm0 2.272h15.78c.31 0 .46.266.598.516l-8.078 6.434c-.217.172-.605.172-.82 0L2.51 5.419c.139-.25.288-.516.598-.516zm-.838 3.209 3.63 2.889-3.63 2.889z" fill="url(#a)"/>
+ <path class="ColorScheme-Highlight" transform="translate(0) scale(1) translate(0 -1e-5) scale(1) translate(0 -2e-4) scale(1)" d="m53.8 38.96a7.42 7.42 0 0 0-7.421 7.422 7.42 7.42 0 0 0 7.421 7.422 7.42 7.42 0 0 0 7.422-7.422 7.42 7.42 0 0 0-7.422-7.422" color="#4285f4" fill="#0ff"/>
+</svg>

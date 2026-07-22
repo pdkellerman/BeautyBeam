@@ -1,1 +1,22 @@
-corelvector.svg
+<svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="a" x1=".1389" x2="40.43" y1="25.34" y2="25.34" gradientTransform="scale(.7917 1.263)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#879af2" offset="0"/>
+   <stop stop-color="#d3208b" offset=".5"/>
+   <stop stop-color="#fda000" offset="1"/>
+  </linearGradient>
+  <linearGradient id="b" y1=".5" y2=".5">
+   <stop stop-color="#00ea5e" offset="0"/>
+   <stop stop-color="#64fb00" offset="1"/>
+  </linearGradient>
+  <linearGradient id="c" x2="0" y2="1">
+   <stop stop-color="#879af2" offset="0"/>
+   <stop stop-color="#d3208b" offset=".5"/>
+   <stop stop-color="#fda000" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path transform="translate(-0) scale(1) translate(-.000863 -.000495) scale(1) translate(5.396 5.394) scale(.8313)" d="m32.02-6.473c-21.22 0-38.51 17.26-38.51 38.48 0 21.21 17.29 38.48 38.51 38.48 21.2 0 38.48-17.26 38.48-38.48 0-21.2-17.26-38.48-38.48-38.48zm0 6.602c17.65 0 31.88 14.24 31.88 31.88 0 17.65-14.24 31.88-31.88 31.88-17.66 0-31.91-14.24-31.91-31.88 0-17.65 14.25-31.88 31.91-31.88z" fill="url(#c)"/>
+ <path transform="translate(-0) scale(1) translate(-.000863 -.000495) scale(1) matrix(.8313 0 0 .8313 5.396 5.394)" d="m24.48 0.9043c-0.8832 0.2156-1.752 0.4622-2.606 0.7402l-21.82 28.73c-0.02974 0.5501-0.04297 1.099-0.04297 1.648 0 1.208 0.06542 2.397 0.1992 3.568z" fill="#d3208b"/>
+ <path transform="translate(-0) scale(1) translate(-.000863 -.000495) scale(1) matrix(.8313 0 0 .8313 5.396 5.394)" d="m63.77 35.73c-11.81 2.261-22.68 15.18-23.33 27.16 12.44-3.377 21.82-14.03 23.33-27.16z" fill="url(#b)"/>
+ <path transform="translate(-0) scale(1) translate(-.000863 -.000495) scale(1) matrix(.8313 0 0 .8313 5.396 5.394)" d="m32.02 0.01172-0.0059 0.01172c-0.6438 0-1.28 0.01947-1.912 0.05664l-25.58 48.34a31.92 31.92 0 0 0 26.92 15.59c-3.836-24.11 2.721-49.54 13.19-61.42a32.01 32.01 0 0 0-12.61-2.56z" fill="url(#a)"/>
+</svg>

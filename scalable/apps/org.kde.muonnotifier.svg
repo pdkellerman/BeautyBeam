@@ -1,15 +1,15 @@
 <svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
  <defs>
-  <linearGradient id="a" x2="0" y1="1">
-   <stop stop-color="#ffa200" offset="0"/>
-   <stop stop-color="#fffd00" offset="1"/>
+  <linearGradient id="a" y1="1">
+   <stop stop-color="#46d9ff" offset="0"/>
+   <stop stop-color="#ff23ff" offset=".5"/>
+   <stop stop-color="#ffd93f" offset="1"/>
   </linearGradient>
-  <linearGradient id="b" x2="0" y1="1">
-   <stop stop-color="#ff00d4" offset="0"/>
-   <stop stop-color="#0040ff" offset="1"/>
+  <linearGradient id="b" y2="1">
+   <stop stop-color="#6203ff" offset="0"/>
+   <stop stop-color="#e901ff" offset="1"/>
   </linearGradient>
  </defs>
- <path transform="translate(0 .002) scale(.9999) translate(0 .001479) scale(1) translate(0 -8.3e-5)" d="m27.44 13.72v18.28h-10.07l10.84 16.25a4.571 4.571 0 0 0 7.606 0l10.84-16.25h-10.07v-18.28z" fill="url(#b)"/>
- <path transform="translate(0 .002) scale(.9999) translate(0 .001479) scale(1) translate(0 -8.3e-5)" d="m59.31 0.005859a4.571 4.571 0 0 0-3.68 2.033l-14.48 21.72v3.67h8.547l5.166-7.756v44.32h9.141v-59.42c0-2.893-2.481-4.63-4.693-4.57z" fill="url(#a)"/>
- <path transform="translate(0 .002) scale(.9999) translate(0 .001479) scale(1) translate(0 -8.3e-5)" d="m4.686 0.005859a4.584 4.584 0 0 0-4.686 4.57v59.42h9.143v-44.32l5.168 7.756h8.543v-3.67l-14.48-21.72a4.571 4.571 0 0 0-3.688-2.033z" fill="url(#a)"/>
+ <path transform="translate(-1e-6) scale(1) translate(.008039 .003546) scale(1) matrix(1.422 0 0 1.422 -13.51 -13.51)" d="m13.9 9.5c-0.4236 0.00927-0.8438 0.07832-1.248 0.2051-1.872 0.5856-3.156 2.334-3.156 4.295v39a1.5 1.5 0 0 0 1.5 1.5h6a1.5 1.5 0 0 0 1.5-1.5v-24.6l9.801 14.16c1.762 2.545 5.636 2.545 7.398 0l9.801-14.16v24.6a1.5 1.5 0 0 0 1.5 1.5h6a1.5 1.5 0 0 0 1.5-1.5v-39c-8.74e-4 -2.115-1.448-3.761-3.158-4.295-1.71-0.5338-3.837-0.0042-5.041 1.734l-14.3 20.66-14.3-20.66c-0.8582-1.24-2.285-1.97-3.793-1.94a1.5 1.5 0 0 0-2e-3 0z" fill="url(#a)"/>
+ <path transform="translate(-1e-6) scale(1) translate(.008039 .003546) scale(1) translate(-13.51 -13.51) scale(1.422)" d="m29 17.6a1.5 1.5 0 0 0-1.5 1.5v10.5h-5.379a1.5 1.5 0 0 0-1.232 2.354l7.414 10.71a1.5 1.5 0 0 0 0 2e-3c1.762 2.54 5.632 2.54 7.394 0a1.5 1.5 0 0 0 0-2e-3l7.414-10.71a1.5 1.5 0 0 0-1.232-2.354h-5.379v-10.5a1.5 1.5 0 0 0-1.5-1.5z" fill="url(#b)"/>
 </svg>

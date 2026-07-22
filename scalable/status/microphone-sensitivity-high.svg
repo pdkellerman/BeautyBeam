@@ -1,1 +1,10 @@
-mic-volume-high.svg
+<svg version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="a" x2="0" y1="1">
+   <stop stop-color="#fe0844" offset="0"/>
+   <stop stop-color="#fee502" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path transform="translate(0) scale(1) translate(0) scale(1) translate(.00015) scale(1) translate(0) scale(1) translate(1e-5) scale(1) translate(-.00025 -.00043) scale(.9998) translate(-.000162) scale(.3438) matrix(2.977 0 0 2.977 -3.72 -3.72)" d="m12 1.25c-1.417 0-2.843 0.4692-3.936 1.44-1.092 0.97-1.814 2.456-1.814 4.31v4c0 3.167 2.583 5.75 5.75 5.75s5.75-2.583 5.75-5.75v-4c0-1.854-0.7222-3.34-1.814-4.31s-2.519-1.44-3.936-1.44z" fill="url(#a)"/>
+ <path transform="translate(0) scale(1) translate(0) scale(1) translate(.00015) scale(1) translate(0) scale(1) matrix(1.023 0 0 1.023 -1.279 -1.279)" d="m4 10.25a0.75 0.75 0 0 0-0.75 0.75c0 4.558 3.544 8.197 8 8.598v1.652h-2.25a0.75 0.75 0 0 0-0.75 0.75 0.75 0.75 0 0 0 0.75 0.75h6a0.75 0.75 0 0 0 0.75-0.75 0.75 0.75 0 0 0-0.75-0.75h-2.25v-1.652c4.456-0.4 8-4.04 8-8.598a0.75 0.75 0 0 0-0.75-0.75 0.75 0.75 0 0 0-0.75 0.75c0 4.013-3.237 7.25-7.25 7.25s-7.25-3.237-7.25-7.25a0.75 0.75 0 0 0-0.75-0.75" fill="url(#a)"/>
+</svg>

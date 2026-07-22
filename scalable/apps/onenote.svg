@@ -5,6 +5,6 @@
    <stop stop-color="#ff00b0" offset="1"/>
   </linearGradient>
  </defs>
- <path transform="translate(.00035 -2e-4) scale(1) matrix(4 0 0 4 0 .002)" d="M8.971 0a1 1 0 0 0-.213.03l-8 2A1 1 0 0 0 0 3v10a1 1 0 0 0 .758.97l8 2A1 1 0 0 0 10 15v-1h2c.734 0 1.266-.478 1.613-1.08A1 1 0 0 0 14 13h1a1 1 0 0 0 1-1v-2a1 1 0 0 0-.135-.5A1 1 0 0 0 16 9V7a1 1 0 0 0-.135-.5A1 1 0 0 0 16 6V4a1 1 0 0 0-1-1h-.42c-.357-.561-.877-1-1.58-1h-3V1a1 1 0 0 0-1.03-1zm.03 1v14l-8-2V3zm1 2h3c.553 0 1 .446 1 1h1v2h-2v6c0 .554-.447 1-1 1h-2v-1h2v-1h-2v-1h2V9h-2V8h2V7h-2V6h2V5h-2zm4 4h1v2h-1zm0 3h1v2h-1z" fill="url(#a)"/>
- <path transform="translate(.00035 -2e-4) scale(1) matrix(4 0 0 4 0 .002)" d="M3 6v4h1V7l2 3h1V6H6v2.5L4.5 6z" fill="url(#a)"/>
+ <path transform="translate(0) scale(1) translate(.00035 -2e-4) scale(1) matrix(4 0 0 4 0 .002)" d="M8.971 0a1 1 0 0 0-.213.03l-8 2A1 1 0 0 0 0 3v10a1 1 0 0 0 .758.97l8 2A1 1 0 0 0 10 15v-1h2c.734 0 1.266-.478 1.613-1.08A1 1 0 0 0 14 13h1a1 1 0 0 0 1-1v-2a1 1 0 0 0-.135-.5A1 1 0 0 0 16 9V7a1 1 0 0 0-.135-.5A1 1 0 0 0 16 6V4a1 1 0 0 0-1-1h-.42c-.357-.561-.877-1-1.58-1h-3V1a1 1 0 0 0-1.03-1zm.03 1v14l-8-2V3zm1 2h3c.553 0 1 .446 1 1h1v2h-2v6c0 .554-.447 1-1 1h-2v-1h2v-1h-2v-1h2V9h-2V8h2V7h-2V6h2V5h-2zm4 4h1v2h-1zm0 3h1v2h-1z" fill="url(#a)"/>
+ <path transform="translate(0) scale(1) translate(.00035 -2e-4) scale(1) matrix(4 0 0 4 0 .002)" d="M3 6v4h1V7l2 3h1V6H6v2.5L4.5 6z" fill="url(#a)"/>
 </svg>

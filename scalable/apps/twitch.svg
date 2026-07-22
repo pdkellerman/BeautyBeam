@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" style="isolation:isolate" viewBox="0 0 64 64"><linearGradient id="a" x1="0" x2="1" y1=".5" y2=".5" gradientTransform="matrix(40.73 0 0 47 3.633 .5)" gradientUnits="userSpaceOnUse" transform="translate(-.68 -.68)scale(1.362)"><stop offset="0" stop-color="#d300dc"/><stop offset="1" stop-color="#8700ff"/></linearGradient><path fill="url(#a)" fill-rule="evenodd" d="M5.2.5 3.633 8.333v34.47h7.834v4.7h6.266l4.7-4.7H28.7l15.67-15.67V.503H5.2zm4.7 3.133h31.33v21.8l-6.266 6.395h-10.97l-6.267 6.267v-6.267H9.894v-28.2zm9.4 7.834v12.53H24v-12.53zm10.97 0v12.53h4.7v-12.53z" transform="translate(-.68 -.68)scale(1.362)"/></svg>
+<svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="a" y1=".5" y2=".5">
+   <stop stop-color="#d300dc" offset="0"/>
+   <stop stop-color="#8700ff" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path transform="translate(-.00086 .00472) scale(.9999) translate(-6.4 -6.4) scale(1.2)" d="m18.67 5.334a2.667 2.667 0 0 0-1.693 0.6035l-0.1934 0.1777-8 8.002a2.667 2.667 0 0 0-0.7676 1.619l-0.01562 0.2656v32a2.667 2.667 0 0 0 2.668 2.668h8v5.334a2.667 2.667 0 0 0 4.553 1.885l7.221-7.219h8.23a2.667 2.667 0 0 0 1.666-0.584l6.668-5.334c0.176-0.1405 0.3335-0.303 0.4688-0.4844l8.002-10.67a2.667 2.667 0 0 0 0.5312-1.6v-24a2.667 2.667 0 0 0-2.668-2.668zm2.666 5.334h29.34v20.45l-6.662 8.887h-9.34c-0.6241 0-1.229 0.2132-1.709 0.6133l-3.625 3.022v-0.9688a2.667 2.667 0 0 0-2.666-2.666h-5.334zm10.49 6.674a2.667 2.667 0 0 0-2.484 2.66v9.336a2.667 2.667 0 0 0 5.334 0v-9.336a2.667 2.667 0 0 0-2.848-2.66zm10.67 0a2.667 2.667 0 0 0-2.484 2.66v9.336a2.667 2.667 0 0 0 5.334 0v-9.336a2.667 2.667 0 0 0-2.848-2.66z" fill="url(#a)"/>
+ <title>twitch_fill</title>
+</svg>

@@ -1,13 +1,22 @@
-<svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+<svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs>
+  <linearGradient id="b" x2="1" y1=".5" y2=".5" gradientTransform="matrix(28.11 0 0 15.23 17.94 27.91)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#f7f206" offset="0"/>
+   <stop stop-color="#ffbb24" offset=".983"/>
+  </linearGradient>
+  <linearGradient id="e" x1="-.014" x2="1.016" y1=".01" y2="1.072" gradientTransform="matrix(32.8 0 0 4.685 15.6 26.74)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#f9d423" offset="0"/>
+   <stop stop-color="#ff4e50" offset=".516"/>
+   <stop stop-color="#8a2387" offset=".991"/>
+  </linearGradient>
   <linearGradient id="a" y1="1">
-   <stop stop-color="#ff00d2" offset="0"/>
-   <stop stop-color="#00e5ff" offset="1"/>
+   <stop stop-color="#248efe" offset="0"/>
+   <stop stop-color="#1df4ff" offset="1"/>
   </linearGradient>
  </defs>
- <g transform="translate(0) scale(1) translate(0 -.001) scale(1) translate(.00055 -.00474) scale(1) translate(-7.497 69.92) scale(.07891)" fill="url(#a)">
-  <path d="M345-739q0 20-18.5 35T244-670q-99 33-124 63.5T95-540q0 48 32 73t73 38q15 4 27.5-3t16.5-22-3-28-22-17q-27-9-40-19t-13-22q0-13 19.5-27.5T273-604q84-27 113.5-57.5T416-739q0-58-42.5-92.5T261-866q-44 0-79 15.5T129-812q-9 11-8.5 25t13.5 24q11 9 25.5 8t24.5-12q14-14 32-20.5t45-6.5q43 0 63.5 16.5T345-739"/>
-  <path d="M545-95q81 0 143.5-38T751-241q0-37-24-68t-75-54q-13-7-28-5.5T601-355t-6.5 28 14.5 23q33 15 52 31t19 32q0 31-39 53t-96 22q-14 0-24.5 10T510-131t10.5 25.5T545-95"/>
-  <path d="M182-95q-20 0-33.5-13.5T135-142v-45q0-19 7.5-36.5T163-255l585-584q12-13 25.5-20t27.5-7 28 7 27 20l25 23q12 11 18.5 25t6.5 28-6 28-19 27L296-123q-14 13-31.5 20.5T228-95zm25-71h32l460-461-16-16-15-16-461 461zm627-596-32-32zM683-643l-15-16 31 32z"/>
- </g>
+ <path transform="translate(-19.22 -25.81) scale(1.601)" d="m32 27.33c-8.079 0-14.64 6.563-14.64 14.64-1e-6 0.4072 0.01578 0.8136 0.05078 1.221a0.5857 0.5857 0 0 0 0.584 0.5371h2.354a0.5857 0.5857 0 0 0 0.5801-0.6465c-0.03749-0.3697-0.05633-0.7397-0.05664-1.111 0-6.143 4.962-11.11 11.11-11.13h0.02344c6.153 0 11.13 4.974 11.13 11.13 0 0.3714-0.01884 0.7414-0.05664 1.111a0.5857 0.5857 0 0 0 0.582 0.6465h2.352a0.5857 0.5857 0 0 0 0.584-0.5371c0.03413-0.4063 0.05194-0.8123 0.05273-1.219a0.5857 0.5857 0 0 0 0-2e-3c1e-5 -8.079-6.563-14.64-14.64-14.64z" fill="url(#b)" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" style="isolation:isolate"/>
+ <path transform="translate(-19.22 -25.81) scale(1.601)" d="m49.02 26.17c-0.7956 0.04112-1.587 0.4455-2.164 1.156h-29.73c-0.7706-0.9451-1.919-1.347-2.951-1.07-1.166 0.3125-2.171 1.37-2.172 2.826-0.0026 1.459 1.004 2.521 2.172 2.834 1.033 0.2767 2.181-0.1279 2.951-1.074h29.73c0.7706 0.945 1.919 1.347 2.951 1.07 1.167-0.3126 2.172-1.371 2.172-2.828 0.0026-1.459-1.004-2.519-2.172-2.832-0.2583-0.06922-0.5239-0.09574-0.7891-0.08203z" fill="url(#e)" fill-rule="evenodd" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" style="isolation:isolate"/>
+ <path transform="translate(-19.22 -25.81) scale(1.601)" d="m42.54 39.04c-0.9634 0-1.756 0.7924-1.756 1.756v4.686c0 0.9634 0.7924 1.758 1.756 1.758h4.686c0.9634 0 1.758-0.7944 1.758-1.758v-4.686c0-0.9634-0.7944-1.756-1.758-1.756z" fill="url(#a)" fill-rule="evenodd" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" style="isolation:isolate"/>
+ <path transform="translate(-19.22 -25.81) scale(1.601)" d="m16.77 39.04c-0.9634 0-1.758 0.7924-1.758 1.756v4.686c0 0.9634 0.7944 1.758 1.758 1.758h4.686c0.9634 0 1.756-0.7944 1.756-1.758v-4.686c0-0.9634-0.7924-1.756-1.756-1.756z" fill="url(#a)" fill-rule="evenodd" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" style="isolation:isolate"/>
+ <path transform="translate(-19.22 -25.81) scale(1.601)" d="m29.65 24.98c-0.9634 0-1.758 0.7944-1.758 1.758v4.686c0 0.9634 0.7944 1.756 1.758 1.756h4.686c0.9634 0 1.756-0.7924 1.756-1.756v-4.686c0-0.9634-0.7924-1.758-1.756-1.758z" fill="url(#a)" fill-rule="evenodd" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" style="isolation:isolate"/>
 </svg>

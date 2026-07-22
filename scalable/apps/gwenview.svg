@@ -14,7 +14,7 @@
    <stop stop-color="#f0f" offset="1"/>
   </linearGradient>
  </defs>
- <path transform="translate(0) scale(1) translate(0) scale(1)" d="m24.48 28-6.592 10c2.12 6 7.755 10 14.12 10s12-4 14.12-10h-4.115l-5-5-5 5z" fill="url(#a)"/>
- <path transform="translate(0) scale(1) translate(0) scale(1)" d="m40 20a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4" fill="url(#b)"/>
- <path transform="translate(0) scale(1) translate(0) scale(1)" d="M32 8C14.32 8 1.4 21.16 0 32c1.4 10.84 14.32 24 32 24s30.6-13.16 32-24C62.6 21.16 49.68 8 32 8m0 4a20 20 0 0 1 20 20 20 20 0 0 1-20 20 20 20 0 0 1-20-20 20 20 0 0 1 20-20" fill="url(#d)"/>
+ <path transform="translate(0) scale(1)" d="m24.46 27.5a0.5 0.5 0 0 0-0.4023 0.2246l-6.592 10a0.5 0.5 0 0 0-0.05469 0.4414c2.189 6.197 8.017 10.33 14.59 10.33 6.574 0 12.4-4.137 14.59-10.33a0.5 0.5 0 0 0-0.4707-0.666h-3.908l-4.854-4.854a0.5 0.5 0 0 0-0.707 0l-4.594 4.594-7.188-9.541a0.5 0.5 0 0 0-0.4141-0.1992z" fill="url(#a)" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round"/>
+ <path transform="translate(0) scale(1)" d="m40 19.5c-2.479 0-4.5 2.021-4.5 4.5s2.021 4.5 4.5 4.5 4.5-2.021 4.5-4.5-2.021-4.5-4.5-4.5z" fill="url(#b)" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round"/>
+ <path transform="translate(0) scale(1) translate(0) scale(1) translate(0) scale(1)" d="M32 8C14.32 8 1.4 21.16 0 32c1.4 10.84 14.32 24 32 24s30.6-13.16 32-24C62.6 21.16 49.68 8 32 8m0 4a20 20 0 0 1 20 20 20 20 0 0 1-20 20 20 20 0 0 1-20-20 20 20 0 0 1 20-20" fill="url(#d)"/>
 </svg>
